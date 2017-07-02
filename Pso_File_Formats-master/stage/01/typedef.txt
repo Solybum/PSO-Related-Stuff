@@ -1,0 +1,45 @@
+Type definitions for Pso Version 1 Stages
+
+1. Pointer to header Eof - 16
+
+2.
+typedef struct {
+  dword : num_sections,
+  unknown : dword 0x4844
+  Indice_List : dword
+  Vertex_List : dword
+} NJ_REL
+
+typedef struct {
+  Num_indices: 0x0100
+  zero : dword[7],
+  Radius(?) : Single,
+  NJS_Obj : dword 0x0D48
+  pointer_a : dword 0x0D78
+} Indice_List
+
+typedef struct {
+  Texture_Pointer : dword 0x0214
+  Num_Textures : dword 0x1C,
+  Vertexes : []
+} Vertex_List
+
+typedef struct {
+  texture_pointer : dword,
+  attr : dword,
+  attr : dword
+}
+
+typedef struct {
+  Model_Pointer : dword 0x0D14
+  zero : dword
+  num : dword 0x01
+} NJS_Obj
+
+typedef struct {
+  Flags : dword,
+  Pos : Single[3],
+  Rotation : Angle[3],
+  Scale : Single[3]
+  Zero : [2]
+}

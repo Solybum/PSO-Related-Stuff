@@ -1,0 +1,25 @@
+{
+  "name": "gsl_export",
+  "version": "0.0.02",
+  "description": "Tool for extracting files from gsl archives",
+  "main": "gsl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seiche/Pso_Toolset.git"
+  },
+  "keywords": [
+    "gsl"
+  ],
+  "dependencies" : {
+    "filepointer" : "0.0.43"
+  },
+  "author": "Benjamin Collins <seichestream@gmail.com>",
+  "license": "GPL-2.0",
+  "bin" : {
+    "gsl_export" : "./gsl.js"
+  },
+  "homepage": "https://github.com/seiche/Pso_Toolset/"
+}

@@ -1,0 +1,89 @@
+Deconstructing .nj file format
+
+Model information starts with an IFF header:
+4 bytes : "NJCM"
+dword : pointer to EOF
+
+Folling that is the struct for the first node
+
+typedef struct obj {
+ Uint32 evalflags; /* Evaluation method optimization */
+ NJS_MODEL *model; /* Model structure */
+ Float pos[3]; /* Parallel motion */
+ Angle ang[3]; /* Rotation */
+ Float scl[3]; /* Scale */
+ struct obj *child; /* Child pointer */
+ struct obj *sibling; /* Sibling pointer */
+} NJS_OBJECT
+
+Eval flags are defined at the end of this readme
+Child and sibling are pointers to other NJS_OBJECT structs in the filename
+creating a parent-sibling tree structure for the file
+
+The NJS_MODEL information defined in the Katana SDK seems completely wrong.
+The actual structure seems to be
+
+typedef struct {
+  NJS_VERTEX* vertexlist;
+  NJS_MATERIAL* matlist;
+} NJS_MODEL;
+
+Begin a little liberal with the naming conventions, as I'm not sure what Sega's
+naming convention was because their documentation is totally wrong. The model
+data is simply two pointers to the start of other sections in the file. Each
+section the NJS_MODEL struct points goes until an end FF000000 is denotated.
+
+Struct Vertex header
+  Format : word,
+  Unknown : word
+  Start of block : word,
+  Num Vertexes : word
+
+Struct Point3
+  x : single
+  y : single
+  z : single
+
+The material structure makes very little sense.
+The section starts off with what looks like a dword,
+followed by FFFFFFF for material definition.
+
+Following that is
+0834 - texture id - 04
+
+Eval flags:
+
+#define NJD_EVAL_UNIT_POSBIT_0/* Motion can be ignored */
+#define NJD_EVAL_UNIT_ANG BIT_1 /* Rotation can be ignored */
+#define NJD_EVAL_UNIT_SCL BIT_2 /* Scale can be ignored */
+#define NJD_EVAL_HIDE BIT_3 /* Do not draw model */
+#define NJD_EVAL_BREAK BIT_4 /* Break child trace */
+#define NJD_EVAL_ZXY_ANG BIT_5 /* Specification for evaluation */
+/* of rotation expected by */
+/* LightWave3D */
+#define NJD_EVAL_SKIP BIT_6 /* Skip motion */
+#define NJD_EVAL_SHAPE_SKIPBIT_7 /* Skip shape motion */
+#define NJD_EVAL_MASK 0xff /* Mask for extracting above bits */
+These flags are set by the converter.
+• NJD_EVAL_UNIT_POS is set when the parallel motion amount is "0". Parallel motion matrix processing
+is omitted when this flag is set.
+• NJD_EVAL_UNIT_ANG is set when the rotation angle is "0". Rotation matrix processing is omitted when
+this flag is set.
+• NJD_EVAL_UNIT_SCL is set when the scale is "1" for x, y, and z. Scale matrix processing is omitted when
+this flag is set.
+• If NJD_EVAL_UNIT_POS, NJD_EVAL_UNIT_ANG, and NJD_EVAL_UNIT_SCL are all set, all matrix
+processing steps are omitted, and the matrix "push pop" operation is also omitted.
+• The NJD_EVAL_HIDE is set by the user. If this flag is set, the model is not drawn. This flag is used when
+switching the gun or blade with which a model is equipped.
+• The NJD_EVAL_BREAK is set by the user. If this flag is set, the child search is halted at this point. For
+example, setting this flag in the root node causes the entire model to disappear. When NJD_EVAL_BREAK
+is used in combination with motion, data coordination is lost. Therefore this flag should only be used in
+the root node. It can be used in intermediate nodes, but the user is responsible for such usage.
+• The rotation evaluation sequence for LightWave3D is "ZXY". Because this sequence is normally "XYZ" in
+Ninja, the NJD_EVAL_ZXY_ANG is provided for execution via a library with the LightWave3D evaluation
+sequence. When this flag is set to ON, the rotation processing sequence is changed to "ZXY".
+• The NJD_EVAL_SKIP indicates that this node does not include motion data. During motion execution,
+matrix processing is carried out using the object structure value without incrementing the motion node,
+and then proceeds to the next node. This allows motion also with polygon models having a different
+configuration, provided that the bone structure is the same.
+• The NJD_EVAL_SHAPE_SKIP indicates that this node does not include shape motion data.

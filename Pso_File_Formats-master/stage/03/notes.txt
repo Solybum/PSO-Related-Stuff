@@ -1,0 +1,20 @@
+
+
+[ { unknown1: 1,
+    pos: { x: 0, y: 0, z: 0 },
+    ang: { x: 0, y: 0, z: 0 },
+    radius: 1697.056152,
+    pointer1: '1804', //models
+    pointer2: '1864', //00000000 00000000 00100000
+    pointer3: '1900', //bunch of pointers
+    num_p1: 2,
+    num_p2: 13,
+    num_p3: 1,
+    unkown2: 4096 } ]
+193c
+
+{
+  '01': 48, //30
+  '02': 12, //c
+  '03': 60  //3c
+}

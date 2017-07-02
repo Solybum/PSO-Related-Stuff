@@ -1,0 +1,658 @@
+newmtl mat_1
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 0.dds
+
+newmtl mat_2
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 1.dds
+
+newmtl mat_3
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 2.dds
+
+newmtl mat_4
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 3.dds
+
+newmtl mat_5
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 4.dds
+
+newmtl mat_6
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 5.dds
+
+newmtl mat_7
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 6.dds
+
+newmtl mat_8
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 7.dds
+
+newmtl mat_9
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 8.dds
+
+newmtl mat_10
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 9.dds
+
+newmtl mat_11
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 10.dds
+
+newmtl mat_12
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 11.dds
+
+newmtl mat_13
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 12.dds
+
+newmtl mat_14
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 13.dds
+
+newmtl mat_15
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 14.dds
+
+newmtl mat_16
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 15.dds
+
+newmtl mat_17
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 16.dds
+
+newmtl mat_18
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 17.dds
+
+newmtl mat_19
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 18.dds
+
+newmtl mat_20
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 19.dds
+
+newmtl mat_21
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 20.dds
+
+newmtl mat_22
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 21.dds
+
+newmtl mat_23
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 22.dds
+
+newmtl mat_24
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 23.dds
+
+newmtl mat_25
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 24.dds
+
+newmtl mat_26
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 25.dds
+
+newmtl mat_27
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 26.dds
+
+newmtl mat_28
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 27.dds
+
+newmtl mat_29
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 28.dds
+
+newmtl mat_30
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 29.dds
+
+newmtl mat_31
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 30.dds
+
+newmtl mat_32
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 31.dds
+
+newmtl mat_33
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 32.dds
+
+newmtl mat_34
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 33.dds
+
+newmtl mat_35
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 34.dds
+
+newmtl mat_36
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 35.dds
+
+newmtl mat_37
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 36.dds
+
+newmtl mat_38
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 37.dds
+
+newmtl mat_39
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 38.dds
+
+newmtl mat_40
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 39.dds
+
+newmtl mat_41
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 40.dds
+
+newmtl mat_42
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 41.dds
+
+newmtl mat_43
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 42.dds
+
+newmtl mat_44
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 43.dds
+
+newmtl mat_45
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 44.dds
+
+newmtl mat_46
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 45.dds
+
+newmtl mat_47
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 46.dds
+
+newmtl mat_48
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 47.dds
+
+newmtl mat_49
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 48.dds
+
+newmtl mat_50
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 49.dds
+
+newmtl mat_51
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 50.dds
+
+newmtl mat_52
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 51.dds
+
+newmtl mat_53
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 52.dds
+
+newmtl mat_54
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 53.dds
+
+newmtl mat_55
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 54.dds
+
+newmtl mat_56
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 55.dds
+
+newmtl mat_57
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 56.dds
+
+newmtl mat_58
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 57.dds
+
+newmtl mat_59
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 58.dds
+
+newmtl mat_60
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 59.dds
+
+newmtl mat_61
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 60.dds
+
+newmtl mat_62
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 61.dds
+
+newmtl mat_63
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 62.dds
+
+newmtl mat_64
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 63.dds
+
+newmtl mat_65
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 64.dds
+
+newmtl mat_66
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 65.dds
+
+newmtl mat_67
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 66.dds
+
+newmtl mat_68
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 67.dds
+
+newmtl mat_69
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 68.dds
+
+newmtl mat_70
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 69.dds
+
+newmtl mat_71
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 70.dds
+
+newmtl mat_72
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 71.dds
+
+newmtl mat_73
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 72.dds
+
+newmtl mat_74
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 73.dds
+
+newmtl mat_75
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 74.dds
+
+newmtl mat_76
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 75.dds
+
+newmtl mat_77
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 76.dds
+
+newmtl mat_78
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 77.dds
+
+newmtl mat_79
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 78.dds
+
+newmtl mat_80
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 79.dds
+
+newmtl mat_81
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 80.dds
+
+newmtl mat_82
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 81.dds
+
+newmtl mat_83
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 82.dds
+
+newmtl mat_84
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 83.dds
+
+newmtl mat_85
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 84.dds
+
+newmtl mat_86
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 85.dds
+
+newmtl mat_87
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 86.dds
+
+newmtl mat_88
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 87.dds
+
+newmtl mat_89
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 88.dds
+
+newmtl mat_90
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 89.dds
+
+newmtl mat_91
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 90.dds
+
+newmtl mat_92
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 91.dds
+
+newmtl mat_93
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 92.dds
+
+newmtl mat_94
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image 93.dds
+

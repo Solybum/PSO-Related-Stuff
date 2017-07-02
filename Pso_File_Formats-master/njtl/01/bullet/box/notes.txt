@@ -1,0 +1,184 @@
+Step 0 horizontal stick
+
+{ flags:
+   { skip_pos: 0,
+     skip_ang: 1,
+     skip_scl: 1,
+     hide: 0,
+     eval_break: 0,
+     lightwave_zxy: 0,
+     skip_motion: 0,
+     skip_shape: 0 },
+  model:
+   { a_dword: 0,
+     vertex_list: { flag_a: 7, list: [Object], flag_b: 36, num_verts: 6 },
+     vtemp: 1,
+     list_a:
+      { text_list: '1b20',
+        unkown: 4,
+        indice_list: [Object],
+        indice_num: 18 },
+     text_a: 1,
+     list_b: 0,
+     text_b: 0,
+     center:
+      [ 9.999999974752427e-7,
+        -0.07341399788856506,
+        -1.6849100589752197 ],
+     radius: 3.977134943008423 },
+  position: [ 0, 0, -0.061831001192331314 ],
+  angle: [ 0, 0, 0 ],
+  scale: [ '1.000000', '1.000000', '1.000000' ] }
+
+Step 1 Vase thing
+{ flags:
+   { skip_pos: 0,
+     skip_ang: 0,
+     skip_scl: 1,
+     hide: 0,
+     eval_break: 0,
+     lightwave_zxy: 0,
+     skip_motion: 0,
+     skip_shape: 0 },
+  model:
+   { a_dword: 0,
+     vertex_list: { flag_a: 7, list: [Object], flag_b: 36, num_verts: 53 },
+     vtemp: 1,
+     list_a:
+      { text_list: '1920',
+        unkown: 4,
+        indice_list: [Object],
+        indice_num: 68 },
+     text_a: 1,
+     list_b: 0,
+     text_b: 0,
+     center:
+      [ -0.000018000000636675395,
+        4.695140838623047,
+        0.09650199860334396 ],
+     radius: 2.8608779907226562 },
+  position: [ 0.000003999999989900971, 0, 6 ],
+  angle: [ 16384, 0, 0 ],
+  scale: [ '1.000000', '1.000000', '1.000000' ] }
+
+  Step 3 Right wing
+  { flags:
+   { skip_pos: 0,
+     skip_ang: 0,
+     skip_scl: 1,
+     hide: 0,
+     eval_break: 0,
+     lightwave_zxy: 0,
+     skip_motion: 0,
+     skip_shape: 0 },
+  model:
+   { a_dword: 0,
+     vertex_list: { flag_a: 7, list: [Object], flag_b: 36, num_verts: 11 },
+     vtemp: 1,
+     list_a:
+      { text_list: '10e0',
+        unkown: 4,
+        indice_list: [Object],
+        indice_num: 28 },
+     text_a: 1,
+     list_b: 0,
+     text_b: 0,
+     center: [ 0.9108589887619019, 2.3409581184387207, -0 ],
+     radius: 2.5119199752807617 },
+  position: [ -0.00943399965763092, 5.046088218688965, 0.03842400014400482 ],
+  angle: [ 0, 0, -10922 ],
+  scale: [ '1.000000', '1.000000', '1.000000' ] }
+
+  Step 4 Stick and top
+  { flags:
+   { skip_pos: 1,
+     skip_ang: 1,
+     skip_scl: 1,
+     hide: 0,
+     eval_break: 1,
+     lightwave_zxy: 0,
+     skip_motion: 0,
+     skip_shape: 0 },
+  model:
+   { a_dword: 0,
+     vertex_list: { flag_a: 7, list: [Object], flag_b: 36, num_verts: 21 },
+     vtemp: 1,
+     list_a:
+      { text_list: 'e00',
+        unkown: 4,
+        indice_list: [Object],
+        indice_num: 18 },
+     text_a: 1,
+     list_b:
+      { text_list: 'ea0',
+        unkown: 4,
+        indice_list: [Object],
+        indice_num: 10 },
+     text_b: 1,
+     center:
+      [ -0.000019999999494757503,
+        2.251832962036133,
+        0.05530000105500221 ],
+     radius: 7.483904838562012 },
+  position: [ 0, 0, 0 ],
+  angle: [ 0, 0, 0 ],
+  scale: [ '1.000000', '1.000000', '1.000000' ] }
+
+  Step 5 Left winglet
+
+  { flags:
+   { skip_pos: 0,
+     skip_ang: 0,
+     skip_scl: 1,
+     hide: 0,
+     eval_break: 0,
+     lightwave_zxy: 0,
+     skip_motion: 0,
+     skip_shape: 0 },
+  model:
+   { a_dword: 0,
+     vertex_list: { flag_a: 7, list: [Object], flag_b: 36, num_verts: 11 },
+     vtemp: 1,
+     list_a:
+      { text_list: 'a40',
+        unkown: 4,
+        indice_list: [Object],
+        indice_num: 28 },
+     text_a: 1,
+     list_b: 0,
+     text_b: 0,
+     center: [ -0.910860002040863, 2.3409600257873535, -0 ],
+     radius: 2.511920928955078 },
+  position: [ 0.00943399965763092, 5.04608678817749, 0.03842400014400482 ],
+  angle: [ 0, 0, 10922 ],
+  scale: [ '1.000000', '1.000000', '1.000000' ] }
+
+  Step 6 Left inner texture
+  { flags:
+   { skip_pos: 1,
+     skip_ang: 1,
+     skip_scl: 1,
+     hide: 0,
+     eval_break: 1,
+     lightwave_zxy: 0,
+     skip_motion: 0,
+     skip_shape: 0 },
+  model:
+   { a_dword: 0,
+     vertex_list: { flag_a: 7, list: [Object], flag_b: 36, num_verts: 7 },
+     vtemp: 2,
+     list_a: 0,
+     text_a: 0,
+     list_b:
+      { text_list: '7a0',
+        unkown: 4,
+        indice_list: [Object],
+        indice_num: 12 },
+     text_b: 2,
+     center: [ -0.30430299043655396, 2.868946075439453, -0 ],
+     radius: 1.8631420135498047 },
+  position: [ -0, 9.999999974752427e-7, 0 ],
+  angle: [ 0, 0, 0 ],
+  scale: [ '1.000000', '1.000000', '1.000000' ] }
+
+  

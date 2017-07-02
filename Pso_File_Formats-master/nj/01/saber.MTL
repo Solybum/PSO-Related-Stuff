@@ -1,0 +1,27 @@
+newmtl saber-0
+Kd 1.0 0.0 0.0
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+d 0.0
+
+newmtl saber-1
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+d 1.0
+map_Kd saber-3.PNG
+
+newmtl saber-2
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd saber-2.PNG
+
+newmtl saber-3
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd saber-1.PNG
+

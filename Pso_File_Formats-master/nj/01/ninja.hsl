@@ -1,0 +1,33 @@
+typedef          char    CHAR ;
+typedef          wchar   WCHAR ;
+typedef signed   __int8  BYTE ;
+typedef          BYTE    byte ;
+typedef unsigned __int8  UBYTE ;
+typedef          UBYTE   ubyte ;
+typedef unsigned __int16 WORD ;
+typedef          WORD    word ;
+typedef unsigned __int16 USHORT ;
+typedef          USHORT  ushort ;
+typedef          short   SHORT ;
+typedef unsigned __int32 DWORD ;
+typedef          DWORD   dword ;
+typedef          long    LONG ;
+typedef unsigned __int32 ULONG ;
+typedef          ULONG   ulong ;
+typedef signed   __int64 QUAD ;
+typedef          QUAD    quad ;
+typedef unsigned __int64 UQUAD ;
+typedef          UQUAD   uquad ;
+typedef          float   FLOAT ;
+typedef          double  DOUBLE ;
+
+struct NJS_TEXTURE_HEADER {
+  DWORD textlist_addr;
+  DWORD textlist_num;
+};
+
+struct NJS_TEXTURE_ENTRY{
+ DWORD filename_addr;
+ DWORD attr;
+ DWORD attrb;   
+} NJS_TEXNAME;

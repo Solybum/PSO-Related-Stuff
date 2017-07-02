@@ -1,0 +1,30 @@
+Iff: {
+	NMDM dword, 
+	Length dword
+} 
+
+Header : {
+	Motion_Addr : dword
+	Num_Key_Frames : dword
+	Flags : dword
+}
+
+Motion_List : [
+	{
+		Animation_A_Addr : dword,
+		Animation_B_Addr : dword,
+		Animation_A_Frames : dword,
+		Animation_B_Frames : dword
+	}
+	...
+]
+
+Animation : [
+	{
+		Key_Frame : dword,
+		X_Frame : single,
+		Y_Frame : single,
+		Z_Frame : single
+	}
+	...
+]

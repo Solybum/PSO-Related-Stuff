@@ -1,0 +1,25 @@
+{
+  "name": "ply_motion",
+  "version": "0.0.11",
+  "description": "Tool for exporting plymotiondata to .njm files",
+  "main": "ply.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seiche/Pso_Toolset.git"
+  },
+  "keywords": [
+    "nmdm",
+    "njm"
+  ],
+  "dependencies" : {
+  },
+  "author": "Benjamin Collins <seichestream@gmail.com>",
+  "license": "GPL-2.0",
+  "bin" : {
+    "ply_motion" : "./ply.js"
+  },
+  "homepage": "https://github.com/seiche/Pso_Toolset/"
+}

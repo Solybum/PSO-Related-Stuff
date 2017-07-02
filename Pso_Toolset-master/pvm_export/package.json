@@ -1,0 +1,27 @@
+{
+  "name": "pvm_export",
+  "version": "0.0.12",
+  "description": "Utility for exporting pvm archives to PNG",
+  "main": "pvm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seiche/Pso_Toolset.git"
+  },
+  "keywords": [
+    "pvm",
+    "pvr"
+  ],
+  "dependencies" : {
+    "filepointer" : "0.0.42",
+    "pngjs" : ">=2.1.0"
+  },
+  "author": "Benjamin Collins <seichestream@gmail.com>",
+  "license": "GPL-2.0",
+  "bin" : {
+    "pvm_export" : "./pvm.js"
+  },
+  "homepage": "https://github.com/seiche/Pso_Toolset/"
+}

@@ -1,0 +1,142 @@
+/*//NJA 0.7alpha1 NinjaAsciiDataMix
+
+// ROOT OBJECT : object_cube_root*/
+
+MATERIAL    matlist_cube_root[]
+START
+
+MATSTART
+Diffuse   ( 255, 255, 255, 255 ),
+Specular  ( 255, 255, 255, 255),
+Exponent  (  0.0F ),
+AttrTexId ( 0x0, 0 ),
+AttrFlags ( 0x94000000 ),
+MATEND
+
+END
+
+
+OBJECT_START
+
+POLYGON     pg3_0_cube_root[]
+START
+    0, 1, 2,
+    0, 2, 3,
+    4, 5, 6,
+    4, 6, 7,
+    8, 9, 10,
+    8, 10, 11,
+    14, 13, 12,
+    15, 14, 12,
+    18, 17, 16,
+    19, 18, 16,
+    22, 21, 20,
+    23, 22, 20,
+END
+
+MESHSET     meshset_cube_root[]
+START
+
+MESHSTART
+TypeMatId ( 0x0000, 0 ),
+MeshNum     12,
+Meshes      pg3_0_cube_root,
+PolyAttrs   NULL,
+PolyNormal  NULL,
+VertColor   NULL,
+VertUV      NULL,
+MESHEND
+
+END
+
+POINT       point_cube_root[]
+START
+    VERT(  1.000000F,  1.000000F,  1.000000F ),
+    VERT(  1.000000F, -1.000000F,  1.000000F ),
+    VERT(  1.000000F, -1.000000F, -1.000000F ),
+    VERT(  1.000000F,  1.000000F, -1.000000F ),
+    VERT(  1.000000F, -1.000000F,  1.000000F ),
+    VERT( -1.000000F, -1.000000F,  1.000000F ),
+    VERT( -1.000000F, -1.000000F, -1.000000F ),
+    VERT(  1.000000F, -1.000000F, -1.000000F ),
+    VERT(  1.000000F,  1.000000F,  1.000000F ),
+    VERT( -1.000000F,  1.000000F,  1.000000F ),
+    VERT( -1.000000F, -1.000000F,  1.000000F ),
+    VERT(  1.000000F, -1.000000F,  1.000000F ),
+    VERT( -1.000000F, -1.000000F, -1.000000F ),
+    VERT( -1.000000F,  1.000000F, -1.000000F ),
+    VERT( -1.000000F,  1.000000F,  1.000000F ),
+    VERT( -1.000000F, -1.000000F,  1.000000F ),
+    VERT( -1.000000F,  1.000000F, -1.000000F ),
+    VERT(  1.000000F,  1.000000F, -1.000000F ),
+    VERT(  1.000000F,  1.000000F,  1.000000F ),
+    VERT( -1.000000F,  1.000000F,  1.000000F ),
+    VERT( -1.000000F, -1.000000F, -1.000000F ),
+    VERT(  1.000000F, -1.000000F, -1.000000F ),
+    VERT(  1.000000F,  1.000000F, -1.000000F ),
+    VERT( -1.000000F,  1.000000F, -1.000000F ),
+END
+
+NORMAL      normal_cube_root[]
+START
+    NORM(  1.000000F,  0.000000F,  0.000000F ),
+    NORM(  1.000000F,  0.000000F,  0.000000F ),
+    NORM(  1.000000F,  0.000000F,  0.000000F ),
+    NORM(  1.000000F,  0.000000F,  0.000000F ),
+    NORM(  0.000000F, -1.000000F,  0.000000F ),
+    NORM(  0.000000F, -1.000000F,  0.000000F ),
+    NORM(  0.000000F, -1.000000F,  0.000000F ),
+    NORM(  0.000000F, -1.000000F,  0.000000F ),
+    NORM(  0.000000F,  0.000000F,  1.000000F ),
+    NORM(  0.000000F,  0.000000F,  1.000000F ),
+    NORM(  0.000000F,  0.000000F,  1.000000F ),
+    NORM(  0.000000F,  0.000000F,  1.000000F ),
+    NORM( -1.000000F,  0.000000F,  0.000000F ),
+    NORM( -1.000000F,  0.000000F,  0.000000F ),
+    NORM( -1.000000F,  0.000000F,  0.000000F ),
+    NORM( -1.000000F,  0.000000F,  0.000000F ),
+    NORM(  0.000000F,  1.000000F,  0.000000F ),
+    NORM(  0.000000F,  1.000000F,  0.000000F ),
+    NORM(  0.000000F,  1.000000F,  0.000000F ),
+    NORM(  0.000000F,  1.000000F,  0.000000F ),
+    NORM(  0.000000F,  0.000000F, -1.000000F ),
+    NORM(  0.000000F,  0.000000F, -1.000000F ),
+    NORM(  0.000000F,  0.000000F, -1.000000F ),
+    NORM(  0.000000F,  0.000000F, -1.000000F ),
+END
+
+MODEL       model_cube_root[]
+START
+Points      point_cube_root,
+Normal      normal_cube_root,
+PointNum    24,
+Meshset     meshset_cube_root,
+Materials   matlist_cube_root,
+MeshsetNum  1,
+MatNum      1,
+Center       0.000000F,  0.000000F,  0.000000F,
+Radius       0.000000F,
+END
+
+OBJECT      G_ObjectBox[]
+START
+EvalFlags ( 0x00000017 ),
+Model       model_cube_root,
+OPosition  (  0.000000F,  0.000000F,  0.000000F ),
+OAngle     (  0.000000F,  0.000000F,  0.000000F ),
+OScale     (  1.000000F,  1.000000F,  1.000000F ),
+Child       NULL,
+Sibling     NULL,
+END
+
+OBJECT_END
+
+
+DEFAULT_START
+
+#ifndef DEFAULT_OBJECT_NAME
+#define DEFAULT_OBJECT_NAME object_cube_root
+#endif
+
+DEFAULT_END
+

@@ -1,0 +1,24 @@
+/*****************************************************************************
+ * ico.hsl - Structure definitions for the .ico file formats
+ *
+ * Copyright (c) 2009 BreakPoint Software, Inc.  All Rights Reserved
+ *
+ *****************************************************************************
+ * Revision History:
+ *  2009-01-15 - RJA - Rewritten
+ */
+
+#include "standard-types.hsl"
+
+#pragma displayname("Cursor (*.cur)") ;
+#pragma fileextensions(".cur") ;
+
+#pragma byteorder(little_endian)
+
+typedef struct map_footer
+{
+    DWORD header_addr ;
+    DWORD zero_01 ;
+    DWORD zero_02 ;
+    DWORD zero_03 ;
+} NJS_MAP_FOOTER ;

@@ -1,0 +1,7622 @@
+[
+	{
+		"filename": "lightentry.bin",
+		"offset": 48,
+		"length": 6528
+	},
+	{
+		"filename": "map_ancient_e.bin",
+		"offset": 52,
+		"length": 9424
+	},
+	{
+		"filename": "map_ancient_e_u.bin",
+		"offset": 57,
+		"length": 9720
+	},
+	{
+		"filename": "map_ancient_f.bin",
+		"offset": 62,
+		"length": 9948
+	},
+	{
+		"filename": "map_ancient_f_u.bin",
+		"offset": 67,
+		"length": 10372
+	},
+	{
+		"filename": "map_ancient_g.bin",
+		"offset": 73,
+		"length": 11016
+	},
+	{
+		"filename": "map_ancient_g_u.bin",
+		"offset": 79,
+		"length": 10780
+	},
+	{
+		"filename": "map_ancient_j.bin",
+		"offset": 85,
+		"length": 6204
+	},
+	{
+		"filename": "map_ancient_j_u.bin",
+		"offset": 89,
+		"length": 6596
+	},
+	{
+		"filename": "map_ancient_s.bin",
+		"offset": 93,
+		"length": 9120
+	},
+	{
+		"filename": "map_ancient_s_u.bin",
+		"offset": 98,
+		"length": 9324
+	},
+	{
+		"filename": "map_cave_e.bin",
+		"offset": 103,
+		"length": 12984
+	},
+	{
+		"filename": "map_cave_e_u.bin",
+		"offset": 110,
+		"length": 13192
+	},
+	{
+		"filename": "map_cave_f.bin",
+		"offset": 117,
+		"length": 13688
+	},
+	{
+		"filename": "map_cave_f_u.bin",
+		"offset": 124,
+		"length": 13944
+	},
+	{
+		"filename": "map_cave_g.bin",
+		"offset": 131,
+		"length": 13884
+	},
+	{
+		"filename": "map_cave_g_u.bin",
+		"offset": 138,
+		"length": 14040
+	},
+	{
+		"filename": "map_cave_j.bin",
+		"offset": 145,
+		"length": 8820
+	},
+	{
+		"filename": "map_cave_j_u.bin",
+		"offset": 150,
+		"length": 8972
+	},
+	{
+		"filename": "map_cave_s.bin",
+		"offset": 155,
+		"length": 12792
+	},
+	{
+		"filename": "map_cave_s_u.bin",
+		"offset": 162,
+		"length": 12980
+	},
+	{
+		"filename": "map_city_off_e.bin",
+		"offset": 169,
+		"length": 28972
+	},
+	{
+		"filename": "map_city_off_f.bin",
+		"offset": 184,
+		"length": 29920
+	},
+	{
+		"filename": "map_city_off_g.bin",
+		"offset": 199,
+		"length": 29704
+	},
+	{
+		"filename": "map_city_off_j.bin",
+		"offset": 214,
+		"length": 17604
+	},
+	{
+		"filename": "map_city_off_s.bin",
+		"offset": 223,
+		"length": 27368
+	},
+	{
+		"filename": "map_city_on_b.bin",
+		"offset": 237,
+		"length": 24772
+	},
+	{
+		"filename": "map_city_on_e.bin",
+		"offset": 250,
+		"length": 42944
+	},
+	{
+		"filename": "map_city_on_f.bin",
+		"offset": 271,
+		"length": 44248
+	},
+	{
+		"filename": "map_city_on_g.bin",
+		"offset": 293,
+		"length": 44092
+	},
+	{
+		"filename": "map_city_on_j.bin",
+		"offset": 315,
+		"length": 28536
+	},
+	{
+		"filename": "map_city_on_k.bin",
+		"offset": 329,
+		"length": 42944
+	},
+	{
+		"filename": "map_city_on_s.bin",
+		"offset": 350,
+		"length": 41176
+	},
+	{
+		"filename": "map_city_on_t.bin",
+		"offset": 371,
+		"length": 24744
+	},
+	{
+		"filename": "map_city02_off_j.bin",
+		"offset": 384,
+		"length": 17604
+	},
+	{
+		"filename": "map_city02_on_j.bin",
+		"offset": 393,
+		"length": 10748
+	},
+	{
+		"filename": "map_forest_e.bin",
+		"offset": 399,
+		"length": 7544
+	},
+	{
+		"filename": "map_forest_e_u.bin",
+		"offset": 403,
+		"length": 7848
+	},
+	{
+		"filename": "map_forest_f.bin",
+		"offset": 407,
+		"length": 7920
+	},
+	{
+		"filename": "map_forest_f_u.bin",
+		"offset": 411,
+		"length": 8204
+	},
+	{
+		"filename": "map_forest_g.bin",
+		"offset": 416,
+		"length": 7924
+	},
+	{
+		"filename": "map_forest_g_u.bin",
+		"offset": 420,
+		"length": 8164
+	},
+	{
+		"filename": "map_forest_j.bin",
+		"offset": 424,
+		"length": 4932
+	},
+	{
+		"filename": "map_forest_j_u.bin",
+		"offset": 427,
+		"length": 5156
+	},
+	{
+		"filename": "map_forest_s.bin",
+		"offset": 430,
+		"length": 7180
+	},
+	{
+		"filename": "map_forest_s_u.bin",
+		"offset": 434,
+		"length": 7488
+	},
+	{
+		"filename": "map_jungle_b.bin",
+		"offset": 438,
+		"length": 17996
+	},
+	{
+		"filename": "map_jungle_b_u.bin",
+		"offset": 447,
+		"length": 17996
+	},
+	{
+		"filename": "map_jungle_e.bin",
+		"offset": 456,
+		"length": 33516
+	},
+	{
+		"filename": "map_jungle_e_u.bin",
+		"offset": 473,
+		"length": 33516
+	},
+	{
+		"filename": "map_jungle_f.bin",
+		"offset": 490,
+		"length": 35288
+	},
+	{
+		"filename": "map_jungle_f_u.bin",
+		"offset": 508,
+		"length": 35288
+	},
+	{
+		"filename": "map_jungle_g.bin",
+		"offset": 526,
+		"length": 36152
+	},
+	{
+		"filename": "map_jungle_g_u.bin",
+		"offset": 544,
+		"length": 36152
+	},
+	{
+		"filename": "map_jungle_j.bin",
+		"offset": 562,
+		"length": 19912
+	},
+	{
+		"filename": "map_jungle_j_u.bin",
+		"offset": 572,
+		"length": 19912
+	},
+	{
+		"filename": "map_jungle_s.bin",
+		"offset": 582,
+		"length": 35016
+	},
+	{
+		"filename": "map_jungle_s_u.bin",
+		"offset": 600,
+		"length": 35016
+	},
+	{
+		"filename": "map_jungle_t.bin",
+		"offset": 618,
+		"length": 17700
+	},
+	{
+		"filename": "map_jungle_t_u.bin",
+		"offset": 627,
+		"length": 17700
+	},
+	{
+		"filename": "map_labo_off_e.bin",
+		"offset": 636,
+		"length": 45508
+	},
+	{
+		"filename": "map_labo_off_e_u.bin",
+		"offset": 659,
+		"length": 45508
+	},
+	{
+		"filename": "map_labo_off_f.bin",
+		"offset": 682,
+		"length": 48244
+	},
+	{
+		"filename": "map_labo_off_f_u.bin",
+		"offset": 706,
+		"length": 48244
+	},
+	{
+		"filename": "map_labo_off_g.bin",
+		"offset": 730,
+		"length": 48312
+	},
+	{
+		"filename": "map_labo_off_g_u.bin",
+		"offset": 754,
+		"length": 48312
+	},
+	{
+		"filename": "map_labo_off_j.bin",
+		"offset": 778,
+		"length": 26328
+	},
+	{
+		"filename": "map_labo_off_j_u.bin",
+		"offset": 791,
+		"length": 26328
+	},
+	{
+		"filename": "map_labo_off_s.bin",
+		"offset": 804,
+		"length": 45688
+	},
+	{
+		"filename": "map_labo_off_s_u.bin",
+		"offset": 827,
+		"length": 45688
+	},
+	{
+		"filename": "map_labo_on_b.bin",
+		"offset": 850,
+		"length": 26440
+	},
+	{
+		"filename": "map_labo_on_b_u.bin",
+		"offset": 863,
+		"length": 26440
+	},
+	{
+		"filename": "map_labo_on_e.bin",
+		"offset": 876,
+		"length": 50920
+	},
+	{
+		"filename": "map_labo_on_e_u.bin",
+		"offset": 901,
+		"length": 50920
+	},
+	{
+		"filename": "map_labo_on_f.bin",
+		"offset": 926,
+		"length": 53664
+	},
+	{
+		"filename": "map_labo_on_f_u.bin",
+		"offset": 953,
+		"length": 53664
+	},
+	{
+		"filename": "map_labo_on_g.bin",
+		"offset": 980,
+		"length": 53724
+	},
+	{
+		"filename": "map_labo_on_g_u.bin",
+		"offset": 1007,
+		"length": 53724
+	},
+	{
+		"filename": "map_labo_on_j.bin",
+		"offset": 1034,
+		"length": 32092
+	},
+	{
+		"filename": "map_labo_on_j_u.bin",
+		"offset": 1050,
+		"length": 32092
+	},
+	{
+		"filename": "map_labo_on_k.bin",
+		"offset": 1066,
+		"length": 50920
+	},
+	{
+		"filename": "map_labo_on_k_u.bin",
+		"offset": 1091,
+		"length": 50920
+	},
+	{
+		"filename": "map_labo_on_s.bin",
+		"offset": 1116,
+		"length": 51100
+	},
+	{
+		"filename": "map_labo_on_s_u.bin",
+		"offset": 1141,
+		"length": 51100
+	},
+	{
+		"filename": "map_labo_on_t.bin",
+		"offset": 1166,
+		"length": 25752
+	},
+	{
+		"filename": "map_labo_on_t_u.bin",
+		"offset": 1179,
+		"length": 25752
+	},
+	{
+		"filename": "map_machine_e.bin",
+		"offset": 1192,
+		"length": 6968
+	},
+	{
+		"filename": "map_machine_e_u.bin",
+		"offset": 1196,
+		"length": 7212
+	},
+	{
+		"filename": "map_machine_f.bin",
+		"offset": 1200,
+		"length": 7552
+	},
+	{
+		"filename": "map_machine_f_u.bin",
+		"offset": 1204,
+		"length": 7792
+	},
+	{
+		"filename": "map_machine_g.bin",
+		"offset": 1208,
+		"length": 7512
+	},
+	{
+		"filename": "map_machine_g_u.bin",
+		"offset": 1212,
+		"length": 7780
+	},
+	{
+		"filename": "map_machine_j.bin",
+		"offset": 1216,
+		"length": 4816
+	},
+	{
+		"filename": "map_machine_j_u.bin",
+		"offset": 1219,
+		"length": 4852
+	},
+	{
+		"filename": "map_machine_s.bin",
+		"offset": 1222,
+		"length": 6800
+	},
+	{
+		"filename": "map_machine_s_u.bin",
+		"offset": 1226,
+		"length": 7004
+	},
+	{
+		"filename": "map_ruin_b.bin",
+		"offset": 1230,
+		"length": 13532
+	},
+	{
+		"filename": "map_ruin_b_u.bin",
+		"offset": 1237,
+		"length": 13512
+	},
+	{
+		"filename": "map_ruin_e.bin",
+		"offset": 1244,
+		"length": 27008
+	},
+	{
+		"filename": "map_ruin_e_u.bin",
+		"offset": 1258,
+		"length": 26784
+	},
+	{
+		"filename": "map_ruin_f.bin",
+		"offset": 1272,
+		"length": 27944
+	},
+	{
+		"filename": "map_ruin_f_u.bin",
+		"offset": 1286,
+		"length": 27756
+	},
+	{
+		"filename": "map_ruin_g.bin",
+		"offset": 1300,
+		"length": 27556
+	},
+	{
+		"filename": "map_ruin_g_u.bin",
+		"offset": 1314,
+		"length": 27252
+	},
+	{
+		"filename": "map_ruin_j.bin",
+		"offset": 1328,
+		"length": 16544
+	},
+	{
+		"filename": "map_ruin_j_u.bin",
+		"offset": 1337,
+		"length": 16428
+	},
+	{
+		"filename": "map_ruin_s.bin",
+		"offset": 1346,
+		"length": 27464
+	},
+	{
+		"filename": "map_ruin_s_u.bin",
+		"offset": 1360,
+		"length": 27224
+	},
+	{
+		"filename": "map_ruin_t.bin",
+		"offset": 1374,
+		"length": 13416
+	},
+	{
+		"filename": "map_ruin_t_u.bin",
+		"offset": 1381,
+		"length": 13396
+	},
+	{
+		"filename": "map_seabed_b.bin",
+		"offset": 1388,
+		"length": 16632
+	},
+	{
+		"filename": "map_seabed_b_u.bin",
+		"offset": 1397,
+		"length": 16632
+	},
+	{
+		"filename": "map_seabed_e.bin",
+		"offset": 1406,
+		"length": 30952
+	},
+	{
+		"filename": "map_seabed_e_u.bin",
+		"offset": 1422,
+		"length": 30952
+	},
+	{
+		"filename": "map_seabed_f.bin",
+		"offset": 1438,
+		"length": 32732
+	},
+	{
+		"filename": "map_seabed_f_u.bin",
+		"offset": 1454,
+		"length": 32732
+	},
+	{
+		"filename": "map_seabed_g.bin",
+		"offset": 1470,
+		"length": 33192
+	},
+	{
+		"filename": "map_seabed_g_u.bin",
+		"offset": 1487,
+		"length": 33192
+	},
+	{
+		"filename": "map_seabed_j.bin",
+		"offset": 1504,
+		"length": 18732
+	},
+	{
+		"filename": "map_seabed_j_u.bin",
+		"offset": 1514,
+		"length": 18732
+	},
+	{
+		"filename": "map_seabed_s.bin",
+		"offset": 1524,
+		"length": 32992
+	},
+	{
+		"filename": "map_seabed_s_u.bin",
+		"offset": 1541,
+		"length": 32992
+	},
+	{
+		"filename": "map_seabed_t.bin",
+		"offset": 1558,
+		"length": 16640
+	},
+	{
+		"filename": "map_seabed_t_u.bin",
+		"offset": 1567,
+		"length": 16640
+	},
+	{
+		"filename": "map_space_b.bin",
+		"offset": 1576,
+		"length": 12932
+	},
+	{
+		"filename": "map_space_b_u.bin",
+		"offset": 1583,
+		"length": 12972
+	},
+	{
+		"filename": "map_space_e.bin",
+		"offset": 1590,
+		"length": 25980
+	},
+	{
+		"filename": "map_space_e_u.bin",
+		"offset": 1603,
+		"length": 26052
+	},
+	{
+		"filename": "map_space_f.bin",
+		"offset": 1616,
+		"length": 26752
+	},
+	{
+		"filename": "map_space_f_u.bin",
+		"offset": 1630,
+		"length": 26828
+	},
+	{
+		"filename": "map_space_g.bin",
+		"offset": 1644,
+		"length": 26708
+	},
+	{
+		"filename": "map_space_g_u.bin",
+		"offset": 1658,
+		"length": 26768
+	},
+	{
+		"filename": "map_space_j.bin",
+		"offset": 1672,
+		"length": 15808
+	},
+	{
+		"filename": "map_space_j_u.bin",
+		"offset": 1680,
+		"length": 15824
+	},
+	{
+		"filename": "map_space_s.bin",
+		"offset": 1688,
+		"length": 26488
+	},
+	{
+		"filename": "map_space_s_u.bin",
+		"offset": 1701,
+		"length": 26576
+	},
+	{
+		"filename": "map_space_t.bin",
+		"offset": 1714,
+		"length": 12912
+	},
+	{
+		"filename": "map_space_t_u.bin",
+		"offset": 1721,
+		"length": 13000
+	},
+	{
+		"filename": "screen.bin",
+		"offset": 1728,
+		"length": 98316
+	},
+	{
+		"filename": "ws_data_de.bin",
+		"offset": 1777,
+		"length": 27476
+	},
+	{
+		"filename": "ws_data_es.bin",
+		"offset": 1791,
+		"length": 29330
+	},
+	{
+		"filename": "ws_data_fr.bin",
+		"offset": 1806,
+		"length": 29168
+	},
+	{
+		"filename": "ws_data_jp.bin",
+		"offset": 1821,
+		"length": 21815
+	},
+	{
+		"filename": "ws_data_us.bin",
+		"offset": 1832,
+		"length": 24292
+	},
+	{
+		"filename": "abeniji_fe_obj001_niji.bml",
+		"offset": 1844,
+		"length": 3680
+	},
+	{
+		"filename": "abeno_fs_obj001_fosuno.bml",
+		"offset": 1846,
+		"length": 4192
+	},
+	{
+		"filename": "biri_ball.bml",
+		"offset": 1849,
+		"length": 16896
+	},
+	{
+		"filename": "bm_boss1_dragon.bml",
+		"offset": 1858,
+		"length": 811488
+	},
+	{
+		"filename": "bm_boss1_dragon_a.bml",
+		"offset": 2255,
+		"length": 724128
+	},
+	{
+		"filename": "bm_boss2_de_rol_le.bml",
+		"offset": 2609,
+		"length": 404992
+	},
+	{
+		"filename": "bm_boss2_de_rol_le_a.bml",
+		"offset": 2807,
+		"length": 376640
+	},
+	{
+		"filename": "bm_boss3_volopt.bml",
+		"offset": 2991,
+		"length": 831648
+	},
+	{
+		"filename": "bm_boss3_volopt_ap.bml",
+		"offset": 3398,
+		"length": 836896
+	},
+	{
+		"filename": "bm_boss5_gryphon.bml",
+		"offset": 3807,
+		"length": 1043712
+	},
+	{
+		"filename": "bm_boss7_crawfish.bml",
+		"offset": 4317,
+		"length": 87072
+	},
+	{
+		"filename": "bm_boss7_de_rol_le_c.bml",
+		"offset": 4360,
+		"length": 395040
+	},
+	{
+		"filename": "bm_boss8_dragon.bml",
+		"offset": 4553,
+		"length": 983488
+	},
+	{
+		"filename": "bm_butterfly_lobby.bml",
+		"offset": 5034,
+		"length": 3808
+	},
+	{
+		"filename": "bm_eff_ice.bml",
+		"offset": 5036,
+		"length": 13792
+	},
+	{
+		"filename": "bm_ene_abgc01_wola_body.bml",
+		"offset": 5043,
+		"length": 224992
+	},
+	{
+		"filename": "bm_ene_abgc01_wola_body_low.bml",
+		"offset": 5153,
+		"length": 212640
+	},
+	{
+		"filename": "bm_ene_astark.bml",
+		"offset": 5257,
+		"length": 285376
+	},
+	{
+		"filename": "bm_ene_balclaw.bml",
+		"offset": 5397,
+		"length": 114592
+	},
+	{
+		"filename": "bm_ene_biter_body.bml",
+		"offset": 5453,
+		"length": 152512
+	},
+	{
+		"filename": "bm_ene_biter_body_low.bml",
+		"offset": 5528,
+		"length": 145728
+	},
+	{
+		"filename": "bm_ene_bm1_shark.bml",
+		"offset": 5600,
+		"length": 266816
+	},
+	{
+		"filename": "bm_ene_bm1_shark_a.bml",
+		"offset": 5731,
+		"length": 230464
+	},
+	{
+		"filename": "bm_ene_bm2_moja.bml",
+		"offset": 5844,
+		"length": 277568
+	},
+	{
+		"filename": "bm_ene_bm2_moja_a.bml",
+		"offset": 5980,
+		"length": 273728
+	},
+	{
+		"filename": "bm_ene_bm3_fly.bml",
+		"offset": 6114,
+		"length": 118624
+	},
+	{
+		"filename": "bm_ene_bm3_fly_a.bml",
+		"offset": 6172,
+		"length": 112768
+	},
+	{
+		"filename": "bm_ene_bm5_gibon_u.bml",
+		"offset": 6228,
+		"length": 214816
+	},
+	{
+		"filename": "bm_ene_bm5_gibon_u_low.bml",
+		"offset": 6333,
+		"length": 204992
+	},
+	{
+		"filename": "bm_ene_bm5_wolf.bml",
+		"offset": 6434,
+		"length": 202208
+	},
+	{
+		"filename": "bm_ene_bm5_wolf_a.bml",
+		"offset": 6533,
+		"length": 201632
+	},
+	{
+		"filename": "bm_ene_bm9_s_mericarol.bml",
+		"offset": 6632,
+		"length": 286624
+	},
+	{
+		"filename": "bm_ene_bm9_s_mericarol_low.bml",
+		"offset": 6772,
+		"length": 277024
+	},
+	{
+		"filename": "bm_ene_boota.bml",
+		"offset": 6908,
+		"length": 326720
+	},
+	{
+		"filename": "bm_ene_boss09.bml",
+		"offset": 7068,
+		"length": 1495840
+	},
+	{
+		"filename": "bm_ene_cgrass.bml",
+		"offset": 7799,
+		"length": 4896
+	},
+	{
+		"filename": "bm_ene_cgrass_a.bml",
+		"offset": 7802,
+		"length": 4896
+	},
+	{
+		"filename": "bm_ene_common_all.bml",
+		"offset": 7805,
+		"length": 10432
+	},
+	{
+		"filename": "bm_ene_darkgunner.bml",
+		"offset": 7811,
+		"length": 69632
+	},
+	{
+		"filename": "bm_ene_del_depth.bml",
+		"offset": 7845,
+		"length": 120128
+	},
+	{
+		"filename": "bm_ene_del_depth_low.bml",
+		"offset": 7904,
+		"length": 114688
+	},
+	{
+		"filename": "bm_ene_df1_saver.bml",
+		"offset": 7960,
+		"length": 146592
+	},
+	{
+		"filename": "bm_ene_df2_bringer.bml",
+		"offset": 8032,
+		"length": 179264
+	},
+	{
+		"filename": "bm_ene_df2_bringer_a.bml",
+		"offset": 8120,
+		"length": 182592
+	},
+	{
+		"filename": "bm_ene_df3_dimedian.bml",
+		"offset": 8210,
+		"length": 236480
+	},
+	{
+		"filename": "bm_ene_df3_dimedian_a.bml",
+		"offset": 8326,
+		"length": 190176
+	},
+	{
+		"filename": "bm_ene_dkflower.bml",
+		"offset": 8419,
+		"length": 67712
+	},
+	{
+		"filename": "bm_ene_dolphon.bml",
+		"offset": 8453,
+		"length": 508384
+	},
+	{
+		"filename": "bm_ene_dubchik.bml",
+		"offset": 8702,
+		"length": 207040
+	},
+	{
+		"filename": "bm_ene_dubchik_a.bml",
+		"offset": 8804,
+		"length": 193056
+	},
+	{
+		"filename": "bm_ene_epsilon.bml",
+		"offset": 8899,
+		"length": 92064
+	},
+	{
+		"filename": "bm_ene_gi_gue.bml",
+		"offset": 8944,
+		"length": 114560
+	},
+	{
+		"filename": "bm_ene_gi_gue_low.bml",
+		"offset": 9000,
+		"length": 107264
+	},
+	{
+		"filename": "bm_ene_gibbles.bml",
+		"offset": 9053,
+		"length": 150080
+	},
+	{
+		"filename": "bm_ene_gibbles_low.bml",
+		"offset": 9127,
+		"length": 137952
+	},
+	{
+		"filename": "bm_ene_girtablulu.bml",
+		"offset": 9195,
+		"length": 318112
+	},
+	{
+		"filename": "bm_ene_golan.bml",
+		"offset": 9351,
+		"length": 252448
+	},
+	{
+		"filename": "bm_ene_grass.bml",
+		"offset": 9475,
+		"length": 129216
+	},
+	{
+		"filename": "bm_ene_grass_a.bml",
+		"offset": 9539,
+		"length": 127360
+	},
+	{
+		"filename": "bm_ene_gyaranzo.bml",
+		"offset": 9602,
+		"length": 155264
+	},
+	{
+		"filename": "bm_ene_gyaranzo_a.bml",
+		"offset": 9678,
+		"length": 157472
+	},
+	{
+		"filename": "bm_ene_ill_gill.bml",
+		"offset": 9755,
+		"length": 138272
+	},
+	{
+		"filename": "bm_ene_lappy.bml",
+		"offset": 9823,
+		"length": 134272
+	},
+	{
+		"filename": "bm_ene_lappy_ap.bml",
+		"offset": 9889,
+		"length": 132448
+	},
+	{
+		"filename": "bm_ene_lappy_ap_es.bml",
+		"offset": 9954,
+		"length": 130848
+	},
+	{
+		"filename": "bm_ene_lappy_ap_hw.bml",
+		"offset": 10018,
+		"length": 128096
+	},
+	{
+		"filename": "bm_ene_lappy_ap_xs.bml",
+		"offset": 10081,
+		"length": 133440
+	},
+	{
+		"filename": "bm_ene_lappy_es.bml",
+		"offset": 10147,
+		"length": 132672
+	},
+	{
+		"filename": "bm_ene_lappy_es4.bml",
+		"offset": 10212,
+		"length": 147328
+	},
+	{
+		"filename": "bm_ene_lappy_hw.bml",
+		"offset": 10284,
+		"length": 129920
+	},
+	{
+		"filename": "bm_ene_lappy_hw4.bml",
+		"offset": 10348,
+		"length": 144576
+	},
+	{
+		"filename": "bm_ene_lappy_xs.bml",
+		"offset": 10419,
+		"length": 135264
+	},
+	{
+		"filename": "bm_ene_lappy_xs4.bml",
+		"offset": 10486,
+		"length": 149920
+	},
+	{
+		"filename": "bm_ene_me1_gee.bml",
+		"offset": 10560,
+		"length": 51904
+	},
+	{
+		"filename": "bm_ene_me1_gee_low.bml",
+		"offset": 10586,
+		"length": 47904
+	},
+	{
+		"filename": "bm_ene_me1_mb.bml",
+		"offset": 10610,
+		"length": 63616
+	},
+	{
+		"filename": "bm_ene_me1_mb_a.bml",
+		"offset": 10642,
+		"length": 69856
+	},
+	{
+		"filename": "bm_ene_me3_beril_low.bml",
+		"offset": 10677,
+		"length": 223680
+	},
+	{
+		"filename": "bm_ene_me3_shinowa.bml",
+		"offset": 10787,
+		"length": 203232
+	},
+	{
+		"filename": "bm_ene_me3_shinowa_a.bml",
+		"offset": 10887,
+		"length": 220608
+	},
+	{
+		"filename": "bm_ene_me3_shinowa_zoa.bml",
+		"offset": 10995,
+		"length": 244768
+	},
+	{
+		"filename": "bm_ene_me3_stelthshinowa.bml",
+		"offset": 11115,
+		"length": 234112
+	},
+	{
+		"filename": "bm_ene_me3_zoa_low.bml",
+		"offset": 11230,
+		"length": 237280
+	},
+	{
+		"filename": "bm_ene_melissa.bml",
+		"offset": 11346,
+		"length": 159360
+	},
+	{
+		"filename": "bm_ene_morfos.bml",
+		"offset": 11424,
+		"length": 170976
+	},
+	{
+		"filename": "bm_ene_morfos_low.bml",
+		"offset": 11508,
+		"length": 174368
+	},
+	{
+		"filename": "bm_ene_nanodrago.bml",
+		"offset": 11594,
+		"length": 174496
+	},
+	{
+		"filename": "bm_ene_npc_chao.bml",
+		"offset": 11680,
+		"length": 14656
+	},
+	{
+		"filename": "bm_ene_npc_nights.bml",
+		"offset": 11688,
+		"length": 56928
+	},
+	{
+		"filename": "bm_ene_re2_flower.bml",
+		"offset": 11716,
+		"length": 93664
+	},
+	{
+		"filename": "bm_ene_re2_flower_a.bml",
+		"offset": 11762,
+		"length": 86816
+	},
+	{
+		"filename": "bm_ene_re4_sorcerer.bml",
+		"offset": 11805,
+		"length": 103136
+	},
+	{
+		"filename": "bm_ene_re4_sorcerer_a.bml",
+		"offset": 11856,
+		"length": 112832
+	},
+	{
+		"filename": "bm_ene_re7_berura.bml",
+		"offset": 11912,
+		"length": 274848
+	},
+	{
+		"filename": "bm_ene_re7_berura_a.bml",
+		"offset": 12047,
+		"length": 228000
+	},
+	{
+		"filename": "bm_ene_re8_b_beast.bml",
+		"offset": 12159,
+		"length": 197440
+	},
+	{
+		"filename": "bm_ene_re8_b_beast_a.bml",
+		"offset": 12256,
+		"length": 213920
+	},
+	{
+		"filename": "bm_ene_re8_merill_lia.bml",
+		"offset": 12361,
+		"length": 181440
+	},
+	{
+		"filename": "bm_ene_re8_merill_lia_low.bml",
+		"offset": 12450,
+		"length": 173312
+	},
+	{
+		"filename": "bm_ene_recobox.bml",
+		"offset": 12535,
+		"length": 78400
+	},
+	{
+		"filename": "bm_ene_recobox_low.bml",
+		"offset": 12574,
+		"length": 78016
+	},
+	{
+		"filename": "bm_ene_sandlappy.bml",
+		"offset": 12613,
+		"length": 244448
+	},
+	{
+		"filename": "bm_ene_yowie.bml",
+		"offset": 12733,
+		"length": 471200
+	},
+	{
+		"filename": "bm_ene_zu.bml",
+		"offset": 12964,
+		"length": 588672
+	},
+	{
+		"filename": "bm_fd_obj_n_saku_4x2.bml",
+		"offset": 13252,
+		"length": 16864
+	},
+	{
+		"filename": "bm_fd_obj_n_saku_4x4.bml",
+		"offset": 13261,
+		"length": 19264
+	},
+	{
+		"filename": "bm_fd_obj_n_saku_6x2.bml",
+		"offset": 13271,
+		"length": 17248
+	},
+	{
+		"filename": "bm_fd_obj_n_saku_6x4.bml",
+		"offset": 13280,
+		"length": 20128
+	},
+	{
+		"filename": "bm_fd_obj_n_switch.bml",
+		"offset": 13290,
+		"length": 22144
+	},
+	{
+		"filename": "bm_fe_obj_aircon02.bml",
+		"offset": 13301,
+		"length": 8064
+	},
+	{
+		"filename": "bm_fe_obj_kaifuku_moto.bml",
+		"offset": 13305,
+		"length": 31392
+	},
+	{
+		"filename": "bm_fe_obj_komo.bml",
+		"offset": 13321,
+		"length": 3872
+	},
+	{
+		"filename": "bm_fe_obj_o_capsule01.bml",
+		"offset": 13323,
+		"length": 7328
+	},
+	{
+		"filename": "bm_fe_obj_o_door01l.bml",
+		"offset": 13327,
+		"length": 39712
+	},
+	{
+		"filename": "bm_fe_obj_o_door03l.bml",
+		"offset": 13347,
+		"length": 40256
+	},
+	{
+		"filename": "bm_fe_obj_o_door04l.bml",
+		"offset": 13367,
+		"length": 39936
+	},
+	{
+		"filename": "bm_fe_obj_o_hahen.bml",
+		"offset": 13387,
+		"length": 137024
+	},
+	{
+		"filename": "bm_fe_obj_rb_liwa.bml",
+		"offset": 13454,
+		"length": 57216
+	},
+	{
+		"filename": "bm_fe_obj_rb2_liwa.bml",
+		"offset": 13482,
+		"length": 61440
+	},
+	{
+		"filename": "bm_fe_obj_rb3_liwa.bml",
+		"offset": 13512,
+		"length": 59328
+	},
+	{
+		"filename": "bm_fe_obj_tank_hikari.bml",
+		"offset": 13541,
+		"length": 38784
+	},
+	{
+		"filename": "bm_fs_obj_aircon01.bml",
+		"offset": 13560,
+		"length": 17280
+	},
+	{
+		"filename": "bm_fs_obj_cakeya.bml",
+		"offset": 13569,
+		"length": 43104
+	},
+	{
+		"filename": "bm_fs_obj_cap_moto.bml",
+		"offset": 13591,
+		"length": 58496
+	},
+	{
+		"filename": "bm_fs_obj_do_doa_panel.bml",
+		"offset": 13620,
+		"length": 7872
+	},
+	{
+		"filename": "bm_fs_obj_do_doa01.bml",
+		"offset": 13624,
+		"length": 35264
+	},
+	{
+		"filename": "bm_fs_obj_do_doa01_a.bml",
+		"offset": 13642,
+		"length": 32032
+	},
+	{
+		"filename": "bm_fs_obj_do_doa02.bml",
+		"offset": 13658,
+		"length": 35488
+	},
+	{
+		"filename": "bm_fs_obj_do_doa02_a.bml",
+		"offset": 13676,
+		"length": 32160
+	},
+	{
+		"filename": "bm_fs_obj_do_doa03.bml",
+		"offset": 13692,
+		"length": 32768
+	},
+	{
+		"filename": "bm_fs_obj_do_doa03_a.bml",
+		"offset": 13708,
+		"length": 30816
+	},
+	{
+		"filename": "bm_fs_obj_dokanban01.bml",
+		"offset": 13724,
+		"length": 21952
+	},
+	{
+		"filename": "bm_fs_obj_dokanban02.bml",
+		"offset": 13735,
+		"length": 21984
+	},
+	{
+		"filename": "bm_fs_obj_dokanban03.bml",
+		"offset": 13746,
+		"length": 22336
+	},
+	{
+		"filename": "bm_fs_obj_hanger_moto.bml",
+		"offset": 13757,
+		"length": 19392
+	},
+	{
+		"filename": "bm_fs_obj_kenkyu_com.bml",
+		"offset": 13767,
+		"length": 51456
+	},
+	{
+		"filename": "bm_fs_obj_ki_doa.bml",
+		"offset": 13793,
+		"length": 33088
+	},
+	{
+		"filename": "bm_fs_obj_ki_doa_a.bml",
+		"offset": 13810,
+		"length": 30048
+	},
+	{
+		"filename": "bm_fs_obj_ki_doa_panel.bml",
+		"offset": 13825,
+		"length": 28928
+	},
+	{
+		"filename": "bm_fs_obj_ki_doa2.bml",
+		"offset": 13840,
+		"length": 34624
+	},
+	{
+		"filename": "bm_fs_obj_ki_doa2_a.bml",
+		"offset": 13857,
+		"length": 32288
+	},
+	{
+		"filename": "bm_fs_obj_kurage.bml",
+		"offset": 13873,
+		"length": 10176
+	},
+	{
+		"filename": "bm_fs_obj_lazerguard.bml",
+		"offset": 13878,
+		"length": 8448
+	},
+	{
+		"filename": "bm_fs_obj_mekatombo.bml",
+		"offset": 13883,
+		"length": 11136
+	},
+	{
+		"filename": "bm_fs_obj_monitor.bml",
+		"offset": 13889,
+		"length": 32192
+	},
+	{
+		"filename": "bm_fs_obj_o_doorpanel.bml",
+		"offset": 13905,
+		"length": 7168
+	},
+	{
+		"filename": "bm_fs_obj_o_doorswitch01.bml",
+		"offset": 13909,
+		"length": 14176
+	},
+	{
+		"filename": "bm_fs_obj_o_monument01.bml",
+		"offset": 13916,
+		"length": 22592
+	},
+	{
+		"filename": "bm_fs_obj_o_monument02.bml",
+		"offset": 13928,
+		"length": 23616
+	},
+	{
+		"filename": "bm_fs_obj_o_monument03.bml",
+		"offset": 13940,
+		"length": 22816
+	},
+	{
+		"filename": "bm_fs_obj_o_sekihi01.bml",
+		"offset": 13952,
+		"length": 14816
+	},
+	{
+		"filename": "bm_fs_obj_o_sensor01.bml",
+		"offset": 13960,
+		"length": 23360
+	},
+	{
+		"filename": "bm_fs_obj_o_torabasami.bml",
+		"offset": 13972,
+		"length": 11200
+	},
+	{
+		"filename": "bm_fs_obj_sensor.bml",
+		"offset": 13978,
+		"length": 18080
+	},
+	{
+		"filename": "bm_fs_obj_tombo.bml",
+		"offset": 13987,
+		"length": 4352
+	},
+	{
+		"filename": "bm_fs_obj_yukakaiten01.bml",
+		"offset": 13990,
+		"length": 6048
+	},
+	{
+		"filename": "bm_fs_obj_zombie_con.bml",
+		"offset": 13993,
+		"length": 38144
+	},
+	{
+		"filename": "bm_gunsinei_body.bml",
+		"offset": 14012,
+		"length": 42016
+	},
+	{
+		"filename": "bm_kenkyuw2_body.bml",
+		"offset": 14033,
+		"length": 41856
+	},
+	{
+		"filename": "bm_modelparticle_gryphon.bml",
+		"offset": 14054,
+		"length": 6528
+	},
+	{
+		"filename": "bm_n_delta_w_body.bml",
+		"offset": 14058,
+		"length": 52448
+	},
+	{
+		"filename": "bm_n_ebm_i_body.bml",
+		"offset": 14084,
+		"length": 32928
+	},
+	{
+		"filename": "bm_n_ebw_i_body.bml",
+		"offset": 14101,
+		"length": 33152
+	},
+	{
+		"filename": "bm_n_ecm_i_body.bml",
+		"offset": 14118,
+		"length": 31456
+	},
+	{
+		"filename": "bm_n_ecw_i_body.bml",
+		"offset": 14134,
+		"length": 32960
+	},
+	{
+		"filename": "bm_n_efm_i_body.bml",
+		"offset": 14151,
+		"length": 30944
+	},
+	{
+		"filename": "bm_n_efsm_i_body_3.bml",
+		"offset": 14167,
+		"length": 31424
+	},
+	{
+		"filename": "bm_n_efsw_i_body.bml",
+		"offset": 14183,
+		"length": 32512
+	},
+	{
+		"filename": "bm_n_efw_i_body.bml",
+		"offset": 14199,
+		"length": 32064
+	},
+	{
+		"filename": "bm_n_elly_t_body.bml",
+		"offset": 14215,
+		"length": 54336
+	},
+	{
+		"filename": "bm_n_emm_i_body.bml",
+		"offset": 14242,
+		"length": 30784
+	},
+	{
+		"filename": "bm_n_emw_i_body.bml",
+		"offset": 14258,
+		"length": 30912
+	},
+	{
+		"filename": "bm_n_eom_i_body.bml",
+		"offset": 14274,
+		"length": 31168
+	},
+	{
+		"filename": "bm_n_eow_i_body.bml",
+		"offset": 14290,
+		"length": 31552
+	},
+	{
+		"filename": "bm_n_etm_i_body.bml",
+		"offset": 14306,
+		"length": 30880
+	},
+	{
+		"filename": "bm_n_etw_i_body.bml",
+		"offset": 14322,
+		"length": 37536
+	},
+	{
+		"filename": "bm_n_gunb2_i_body.bml",
+		"offset": 14341,
+		"length": 38048
+	},
+	{
+		"filename": "bm_n_gunm_i_body.bml",
+		"offset": 14360,
+		"length": 38560
+	},
+	{
+		"filename": "bm_n_hakase_i_body.bml",
+		"offset": 14379,
+		"length": 31552
+	},
+	{
+		"filename": "bm_n_hisyo_i_body.bml",
+		"offset": 14395,
+		"length": 42816
+	},
+	{
+		"filename": "bm_n_kanteib_i_body.bml",
+		"offset": 14416,
+		"length": 31648
+	},
+	{
+		"filename": "bm_n_kanteib2_i_body.bml",
+		"offset": 14432,
+		"length": 31712
+	},
+	{
+		"filename": "bm_n_kanteif_i_body.bml",
+		"offset": 14448,
+		"length": 33312
+	},
+	{
+		"filename": "bm_n_kanteif2_i_body.bml",
+		"offset": 14465,
+		"length": 34080
+	},
+	{
+		"filename": "bm_n_kanteifs_i_body.bml",
+		"offset": 14482,
+		"length": 31808
+	},
+	{
+		"filename": "bm_n_kanteifs2_i_body.bml",
+		"offset": 14498,
+		"length": 31904
+	},
+	{
+		"filename": "bm_n_kanteio_i_body.bml",
+		"offset": 14514,
+		"length": 31712
+	},
+	{
+		"filename": "bm_n_kanteio2_i_body.bml",
+		"offset": 14530,
+		"length": 38624
+	},
+	{
+		"filename": "bm_n_kanteit_i_body.bml",
+		"offset": 14549,
+		"length": 30656
+	},
+	{
+		"filename": "bm_n_kanteit2_i_body.bml",
+		"offset": 14564,
+		"length": 30752
+	},
+	{
+		"filename": "bm_n_karen_t_body.bml",
+		"offset": 14580,
+		"length": 57312
+	},
+	{
+		"filename": "bm_n_leo_w_body.bml",
+		"offset": 14608,
+		"length": 54144
+	},
+	{
+		"filename": "bm_n_michel_t_body.bml",
+		"offset": 14635,
+		"length": 58592
+	},
+	{
+		"filename": "bm_n_nol_t_body.bml",
+		"offset": 14664,
+		"length": 51648
+	},
+	{
+		"filename": "bm_n_nurse_i_body.bml",
+		"offset": 14690,
+		"length": 45664
+	},
+	{
+		"filename": "bm_n_paganini_t_body.bml",
+		"offset": 14713,
+		"length": 55328
+	},
+	{
+		"filename": "bm_n_soutoku_i_body.bml",
+		"offset": 14741,
+		"length": 36352
+	},
+	{
+		"filename": "bm_n_trunk_i_body.bml",
+		"offset": 14759,
+		"length": 40768
+	},
+	{
+		"filename": "bm_ncchild_body.bml",
+		"offset": 14779,
+		"length": 40480
+	},
+	{
+		"filename": "bm_ncman_body.bml",
+		"offset": 14799,
+		"length": 36512
+	},
+	{
+		"filename": "bm_nctrunk_body.bml",
+		"offset": 14817,
+		"length": 39936
+	},
+	{
+		"filename": "bm_nctrunk2_body.bml",
+		"offset": 14837,
+		"length": 43744
+	},
+	{
+		"filename": "bm_ncwoman_body.bml",
+		"offset": 14859,
+		"length": 39936
+	},
+	{
+		"filename": "bm_npc_hosa.bml",
+		"offset": 14879,
+		"length": 40384
+	},
+	{
+		"filename": "bm_npc_hosa2.bml",
+		"offset": 14899,
+		"length": 40416
+	},
+	{
+		"filename": "bm_npc_kenkyu.bml",
+		"offset": 14919,
+		"length": 38944
+	},
+	{
+		"filename": "bm_npc_kenkyu_w.bml",
+		"offset": 14939,
+		"length": 42720
+	},
+	{
+		"filename": "bm_npc_kenkyu2.bml",
+		"offset": 14960,
+		"length": 39904
+	},
+	{
+		"filename": "bm_npc_momoka.bml",
+		"offset": 14980,
+		"length": 43424
+	},
+	{
+		"filename": "bm_npc_soutokufu.bml",
+		"offset": 15002,
+		"length": 45440
+	},
+	{
+		"filename": "bm_o_abe_butterfly.bml",
+		"offset": 15025,
+		"length": 3520
+	},
+	{
+		"filename": "bm_o_bind.bml",
+		"offset": 15027,
+		"length": 47936
+	},
+	{
+		"filename": "bm_o_boss4.bml",
+		"offset": 15051,
+		"length": 207904
+	},
+	{
+		"filename": "bm_o_container_ancient.bml",
+		"offset": 15153,
+		"length": 16608
+	},
+	{
+		"filename": "bm_o_door_seabed01.bml",
+		"offset": 15162,
+		"length": 43616
+	},
+	{
+		"filename": "bm_o_door_seabed01_u.bml",
+		"offset": 15184,
+		"length": 33664
+	},
+	{
+		"filename": "bm_o_door_vo_ship.bml",
+		"offset": 15201,
+		"length": 30880
+	},
+	{
+		"filename": "bm_o_explosive_machine.bml",
+		"offset": 15217,
+		"length": 83488
+	},
+	{
+		"filename": "bm_o_grass_jungle.bml",
+		"offset": 15258,
+		"length": 2816
+	},
+	{
+		"filename": "bm_o_jungle_doormain.bml",
+		"offset": 15260,
+		"length": 11360
+	},
+	{
+		"filename": "bm_o_light_machine01.bml",
+		"offset": 15266,
+		"length": 10688
+	},
+	{
+		"filename": "bm_o_mine.bml",
+		"offset": 15272,
+		"length": 18592
+	},
+	{
+		"filename": "bm_o_rock_cave01.bml",
+		"offset": 15282,
+		"length": 33664
+	},
+	{
+		"filename": "bm_o_rock_cave02.bml",
+		"offset": 15299,
+		"length": 69472
+	},
+	{
+		"filename": "bm_o_rock_cave03.bml",
+		"offset": 15333,
+		"length": 34624
+	},
+	{
+		"filename": "bm_o_rock_jungle.bml",
+		"offset": 15350,
+		"length": 39392
+	},
+	{
+		"filename": "bm_o_trap_ancient01.bml",
+		"offset": 15370,
+		"length": 57568
+	},
+	{
+		"filename": "bm_o_vs2.bml",
+		"offset": 15399,
+		"length": 577056
+	},
+	{
+		"filename": "bm_o_warp_ancient.bml",
+		"offset": 15681,
+		"length": 47872
+	},
+	{
+		"filename": "bm_o_wreck_ancient.bml",
+		"offset": 15705,
+		"length": 190432
+	},
+	{
+		"filename": "bm_obj_beamdoa.bml",
+		"offset": 15798,
+		"length": 18720
+	},
+	{
+		"filename": "bm_obj_boss1_common.bml",
+		"offset": 15808,
+		"length": 8000
+	},
+	{
+		"filename": "bm_obj_boss1_common_a.bml",
+		"offset": 15812,
+		"length": 8672
+	},
+	{
+		"filename": "bm_obj_boss1_common_j.bml",
+		"offset": 15817,
+		"length": 9728
+	},
+	{
+		"filename": "bm_obj_boss2_common.bml",
+		"offset": 15822,
+		"length": 169408
+	},
+	{
+		"filename": "bm_obj_boss2_common_a.bml",
+		"offset": 15905,
+		"length": 169408
+	},
+	{
+		"filename": "bm_obj_boss5_common.bml",
+		"offset": 15988,
+		"length": 124576
+	},
+	{
+		"filename": "bm_obj_boss7_common.bml",
+		"offset": 16049,
+		"length": 343200
+	},
+	{
+		"filename": "bm_obj_boss8_demoroom.bml",
+		"offset": 16217,
+		"length": 41728
+	},
+	{
+		"filename": "bm_obj_boss8_monitor.bml",
+		"offset": 16238,
+		"length": 292640
+	},
+	{
+		"filename": "bm_obj_boss8_piller.bml",
+		"offset": 16381,
+		"length": 12512
+	},
+	{
+		"filename": "bm_obj_city_21.bml",
+		"offset": 16388,
+		"length": 10048
+	},
+	{
+		"filename": "bm_obj_city_board_2001.bml",
+		"offset": 16393,
+		"length": 7808
+	},
+	{
+		"filename": "bm_obj_city_board_normal.bml",
+		"offset": 16397,
+		"length": 8608
+	},
+	{
+		"filename": "bm_obj_city_board_xmas.bml",
+		"offset": 16402,
+		"length": 8416
+	},
+	{
+		"filename": "bm_obj_city_common.bml",
+		"offset": 16407,
+		"length": 52928
+	},
+	{
+		"filename": "bm_obj_city_easter.bml",
+		"offset": 16433,
+		"length": 14752
+	},
+	{
+		"filename": "bm_obj_city_pump.bml",
+		"offset": 16441,
+		"length": 9792
+	},
+	{
+		"filename": "bm_obj_city_sonic.bml",
+		"offset": 16446,
+		"length": 99296
+	},
+	{
+		"filename": "bm_obj_city_valen.bml",
+		"offset": 16495,
+		"length": 14112
+	},
+	{
+		"filename": "bm_obj_city_xmas.bml",
+		"offset": 16502,
+		"length": 19680
+	},
+	{
+		"filename": "bm_obj_comp_army.bml",
+		"offset": 16512,
+		"length": 25792
+	},
+	{
+		"filename": "bm_obj_comp_norm.bml",
+		"offset": 16525,
+		"length": 25696
+	},
+	{
+		"filename": "bm_obj_desk.bml",
+		"offset": 16538,
+		"length": 13120
+	},
+	{
+		"filename": "bm_obj_door_labo.bml",
+		"offset": 16545,
+		"length": 13216
+	},
+	{
+		"filename": "bm_obj_door_ruins.bml",
+		"offset": 16552,
+		"length": 36192
+	},
+	{
+		"filename": "bm_obj_door_space.bml",
+		"offset": 16570,
+		"length": 29248
+	},
+	{
+		"filename": "bm_obj_ep4_bee_a.bml",
+		"offset": 16585,
+		"length": 8352
+	},
+	{
+		"filename": "bm_obj_ep4_bee_b.bml",
+		"offset": 16590,
+		"length": 8000
+	},
+	{
+		"filename": "bm_obj_ep4_bee_nest.bml",
+		"offset": 16594,
+		"length": 90496
+	},
+	{
+		"filename": "bm_obj_ep4_bohu.bml",
+		"offset": 16639,
+		"length": 31744
+	},
+	{
+		"filename": "bm_obj_ep4_boss09_bossiwa.bml",
+		"offset": 16655,
+		"length": 217152
+	},
+	{
+		"filename": "bm_obj_ep4_boss09_core.bml",
+		"offset": 16762,
+		"length": 121120
+	},
+	{
+		"filename": "bm_obj_ep4_container.bml",
+		"offset": 16822,
+		"length": 45440
+	},
+	{
+		"filename": "bm_obj_ep4_crystal.bml",
+		"offset": 16845,
+		"length": 20864
+	},
+	{
+		"filename": "bm_obj_ep4_door.bml",
+		"offset": 16856,
+		"length": 33312
+	},
+	{
+		"filename": "bm_obj_ep4_flower.bml",
+		"offset": 16873,
+		"length": 13600
+	},
+	{
+		"filename": "bm_obj_ep4_iwa_crater.bml",
+		"offset": 16880,
+		"length": 124768
+	},
+	{
+		"filename": "bm_obj_ep4_iwa_crater_breakable.",
+		"offset": 16941,
+		"length": 65120
+	},
+	{
+		"filename": "bm_obj_ep4_iwa_crater_brk.bml",
+		"offset": 16973,
+		"length": 65120
+	},
+	{
+		"filename": "bm_obj_ep4_iwa_desert.bml",
+		"offset": 17005,
+		"length": 29632
+	},
+	{
+		"filename": "bm_obj_ep4_iwaa.bml",
+		"offset": 17020,
+		"length": 41408
+	},
+	{
+		"filename": "bm_obj_ep4_iwab.bml",
+		"offset": 17041,
+		"length": 33664
+	},
+	{
+		"filename": "bm_obj_ep4_iwac.bml",
+		"offset": 17058,
+		"length": 34240
+	},
+	{
+		"filename": "bm_obj_ep4_kogomi.bml",
+		"offset": 17075,
+		"length": 22976
+	},
+	{
+		"filename": "bm_obj_ep4_nameko.bml",
+		"offset": 17087,
+		"length": 30816
+	},
+	{
+		"filename": "bm_obj_ep4_sabotena.bml",
+		"offset": 17103,
+		"length": 35808
+	},
+	{
+		"filename": "bm_obj_ep4_sabotenb.bml",
+		"offset": 17121,
+		"length": 11200
+	},
+	{
+		"filename": "bm_obj_ep4_sabotenc.bml",
+		"offset": 17127,
+		"length": 17984
+	},
+	{
+		"filename": "bm_obj_ep4_sakana.bml",
+		"offset": 17136,
+		"length": 270976
+	},
+	{
+		"filename": "bm_obj_ep4_syounyuuseki.bml",
+		"offset": 17269,
+		"length": 160704
+	},
+	{
+		"filename": "bm_obj_ep4_umiyuri.bml",
+		"offset": 17348,
+		"length": 82848
+	},
+	{
+		"filename": "bm_obj_geenest.bml",
+		"offset": 17389,
+		"length": 18944
+	},
+	{
+		"filename": "bm_obj_hako01.bml",
+		"offset": 17399,
+		"length": 11552
+	},
+	{
+		"filename": "bm_obj_jungle_bird.bml",
+		"offset": 17405,
+		"length": 6848
+	},
+	{
+		"filename": "bm_obj_jungle_biwamushi.bml",
+		"offset": 17409,
+		"length": 4608
+	},
+	{
+		"filename": "bm_obj_jungle_ebi.bml",
+		"offset": 17412,
+		"length": 5760
+	},
+	{
+		"filename": "bm_obj_jungle_kamome.bml",
+		"offset": 17415,
+		"length": 6496
+	},
+	{
+		"filename": "bm_obj_jungle_mkey.bml",
+		"offset": 17419,
+		"length": 23136
+	},
+	{
+		"filename": "bm_obj_jungle_nokogiri.bml",
+		"offset": 17431,
+		"length": 35232
+	},
+	{
+		"filename": "bm_obj_jungle_tree.bml",
+		"offset": 17449,
+		"length": 18496
+	},
+	{
+		"filename": "bm_obj_labo_infocapsule.bml",
+		"offset": 17459,
+		"length": 9728
+	},
+	{
+		"filename": "bm_obj_labodoor_nrm.bml",
+		"offset": 17464,
+		"length": 7072
+	},
+	{
+		"filename": "bm_obj_lobby_bell.bml",
+		"offset": 17468,
+		"length": 17568
+	},
+	{
+		"filename": "bm_obj_lobby_curtain.bml",
+		"offset": 17477,
+		"length": 6080
+	},
+	{
+		"filename": "bm_obj_lobby_kabocha.bml",
+		"offset": 17480,
+		"length": 3904
+	},
+	{
+		"filename": "bm_obj_lobby_main.bml",
+		"offset": 17482,
+		"length": 193408
+	},
+	{
+		"filename": "bm_obj_lobby_pigeon.bml",
+		"offset": 17577,
+		"length": 6816
+	},
+	{
+		"filename": "bm_obj_lobby_rainbow.bml",
+		"offset": 17581,
+		"length": 3264
+	},
+	{
+		"filename": "bm_obj_lobby_stendglass.bml",
+		"offset": 17583,
+		"length": 13088
+	},
+	{
+		"filename": "bm_obj_lobby_suisou.bml",
+		"offset": 17590,
+		"length": 11232
+	},
+	{
+		"filename": "bm_obj_lobby_tree.bml",
+		"offset": 17596,
+		"length": 7424
+	},
+	{
+		"filename": "bm_obj_lobby_warp.bml",
+		"offset": 17600,
+		"length": 4064
+	},
+	{
+		"filename": "bm_obj_meka_fish_0.bml",
+		"offset": 17602,
+		"length": 10208
+	},
+	{
+		"filename": "bm_obj_meka_fish_1.bml",
+		"offset": 17607,
+		"length": 10240
+	},
+	{
+		"filename": "bm_obj_partition_army.bml",
+		"offset": 17612,
+		"length": 18176
+	},
+	{
+		"filename": "bm_obj_partition_norm.bml",
+		"offset": 17621,
+		"length": 18048
+	},
+	{
+		"filename": "bm_obj_ruins_pillar.bml",
+		"offset": 17630,
+		"length": 11424
+	},
+	{
+		"filename": "bm_obj_ruins_turiten.bml",
+		"offset": 17636,
+		"length": 58848
+	},
+	{
+		"filename": "bm_obj_seabed_con.bml",
+		"offset": 17665,
+		"length": 4544
+	},
+	{
+		"filename": "bm_obj_seabed_con_rare.bml",
+		"offset": 17668,
+		"length": 4544
+	},
+	{
+		"filename": "bm_obj_seabed_dolphin.bml",
+		"offset": 17671,
+		"length": 17664
+	},
+	{
+		"filename": "bm_obj_seabed_pillar.bml",
+		"offset": 17680,
+		"length": 8384
+	},
+	{
+		"filename": "bm_obj_seabed_suiso.bml",
+		"offset": 17685,
+		"length": 87680
+	},
+	{
+		"filename": "bm_obj_seabed_suiso_2.bml",
+		"offset": 17728,
+		"length": 87648
+	},
+	{
+		"filename": "bm_obj_seabed_turigane.bml",
+		"offset": 17771,
+		"length": 8096
+	},
+	{
+		"filename": "bm_obj_table_labo.bml",
+		"offset": 17775,
+		"length": 16896
+	},
+	{
+		"filename": "bm_obj_warp_jung.bml",
+		"offset": 17784,
+		"length": 27680
+	},
+	{
+		"filename": "bm_obj_warp_labo.bml",
+		"offset": 17798,
+		"length": 17408
+	},
+	{
+		"filename": "bm_obj_warpboss.bml",
+		"offset": 17807,
+		"length": 16256
+	},
+	{
+		"filename": "bm_obj_warpboss_ancient.bml",
+		"offset": 17815,
+		"length": 83712
+	},
+	{
+		"filename": "bm_obj_warpboss_jungle.bml",
+		"offset": 17856,
+		"length": 27616
+	},
+	{
+		"filename": "bm_ply_lock_on_cursor.bml",
+		"offset": 17870,
+		"length": 2592
+	},
+	{
+		"filename": "bm_ply_photon_chair.bml",
+		"offset": 17872,
+		"length": 5664
+	},
+	{
+		"filename": "bm_sakana_obj_jungle2.bml",
+		"offset": 17875,
+		"length": 4480
+	},
+	{
+		"filename": "bm_sakana_obj_jungle5.bml",
+		"offset": 17878,
+		"length": 5184
+	},
+	{
+		"filename": "bm_sakana_obj_lobby.bml",
+		"offset": 17881,
+		"length": 5440
+	},
+	{
+		"filename": "bm_sakana_obj_seabed1.bml",
+		"offset": 17884,
+		"length": 9760
+	},
+	{
+		"filename": "bm_sakana_obj_seabed2.bml",
+		"offset": 17889,
+		"length": 10240
+	},
+	{
+		"filename": "bm_tec_regurar.bml",
+		"offset": 17894,
+		"length": 7808
+	},
+	{
+		"filename": "bm_technic.bml",
+		"offset": 17898,
+		"length": 133120
+	},
+	{
+		"filename": "bm4_ps_ma_body.bml",
+		"offset": 17963,
+		"length": 215840
+	},
+	{
+		"filename": "bm7_s_paa_body.bml",
+		"offset": 18069,
+		"length": 474304
+	},
+	{
+		"filename": "boss06_plotfalz_dat.bml",
+		"offset": 18301,
+		"length": 2617056
+	},
+	{
+		"filename": "boss06_rock_dat.bml",
+		"offset": 19579,
+		"length": 16384
+	},
+	{
+		"filename": "boss06_tube_dat.bml",
+		"offset": 19587,
+		"length": 43008
+	},
+	{
+		"filename": "charamakingmot.bml",
+		"offset": 19608,
+		"length": 157088
+	},
+	{
+		"filename": "darkfalz_dat.bml",
+		"offset": 19685,
+		"length": 2210592
+	},
+	{
+		"filename": "fe_obj_baiku.bml",
+		"offset": 20765,
+		"length": 11072
+	},
+	{
+		"filename": "fe_obj_bigtutate.bml",
+		"offset": 20771,
+		"length": 37568
+	},
+	{
+		"filename": "fe_obj_cam.bml",
+		"offset": 20790,
+		"length": 29952
+	},
+	{
+		"filename": "fe_obj_con_hahen1.bml",
+		"offset": 20805,
+		"length": 4576
+	},
+	{
+		"filename": "fe_obj_doa_kanban.bml",
+		"offset": 20808,
+		"length": 10528
+	},
+	{
+		"filename": "fe_obj_ex_box1.bml",
+		"offset": 20814,
+		"length": 16576
+	},
+	{
+		"filename": "fe_obj_h_s_konte.bml",
+		"offset": 20823,
+		"length": 33600
+	},
+	{
+		"filename": "fe_obj_hako_i_rail.bml",
+		"offset": 20840,
+		"length": 4480
+	},
+	{
+		"filename": "fe_obj_hako01_hahen02.bml",
+		"offset": 20843,
+		"length": 4000
+	},
+	{
+		"filename": "fe_obj_hako02.bml",
+		"offset": 20845,
+		"length": 12192
+	},
+	{
+		"filename": "fe_obj_hashi.bml",
+		"offset": 20851,
+		"length": 22944
+	},
+	{
+		"filename": "fe_obj_kaifuku_moto_2.bml",
+		"offset": 20863,
+		"length": 12928
+	},
+	{
+		"filename": "fe_obj_lazer2_2.bml",
+		"offset": 20870,
+		"length": 40544
+	},
+	{
+		"filename": "fe_obj_lazer2_4m.bml",
+		"offset": 20890,
+		"length": 15104
+	},
+	{
+		"filename": "fe_obj_o_vs2container.bml",
+		"offset": 20898,
+		"length": 35520
+	},
+	{
+		"filename": "fe_obj_switch_laz.bml",
+		"offset": 20916,
+		"length": 6528
+	},
+	{
+		"filename": "fe_obj_switch_laz_j.bml",
+		"offset": 20920,
+		"length": 9792
+	},
+	{
+		"filename": "fe_obj_tanmatu02.bml",
+		"offset": 20925,
+		"length": 4576
+	},
+	{
+		"filename": "fe_obj_turiten_moto.bml",
+		"offset": 20928,
+		"length": 52448
+	},
+	{
+		"filename": "fe_obj_tutate.bml",
+		"offset": 20954,
+		"length": 29632
+	},
+	{
+		"filename": "fe_obj306_hashi.bml",
+		"offset": 20969,
+		"length": 25184
+	},
+	{
+		"filename": "fe_obj321_hashi.bml",
+		"offset": 20982,
+		"length": 44000
+	},
+	{
+		"filename": "fs_obj_door07_m.bml",
+		"offset": 21004,
+		"length": 35200
+	},
+	{
+		"filename": "fs_obj_ex_doa01.bml",
+		"offset": 21022,
+		"length": 28992
+	},
+	{
+		"filename": "fs_obj_ex_entombo.bml",
+		"offset": 21037,
+		"length": 8608
+	},
+	{
+		"filename": "fs_obj_hanyousu_body1.bml",
+		"offset": 21042,
+		"length": 6720
+	},
+	{
+		"filename": "fs_obj_hanyousu_body1_j.bml",
+		"offset": 21046,
+		"length": 9632
+	},
+	{
+		"filename": "fs_obj_hanyousu_light.bml",
+		"offset": 21051,
+		"length": 5024
+	},
+	{
+		"filename": "fs_obj_hanyousu_light_j.bml",
+		"offset": 21054,
+		"length": 3936
+	},
+	{
+		"filename": "fs_obj_key_jungle.bml",
+		"offset": 21056,
+		"length": 12576
+	},
+	{
+		"filename": "fs_obj_o_door05l.bml",
+		"offset": 21063,
+		"length": 39328
+	},
+	{
+		"filename": "fs_obj_o_door06l.bml",
+		"offset": 21083,
+		"length": 39520
+	},
+	{
+		"filename": "fs_obj_o_vs2door01l.bml",
+		"offset": 21103,
+		"length": 35104
+	},
+	{
+		"filename": "fs_obj_tank.bml",
+		"offset": 21121,
+		"length": 4960
+	},
+	{
+		"filename": "fs_obj_tanmatu02.bml",
+		"offset": 21124,
+		"length": 9248
+	},
+	{
+		"filename": "fs_obj_warp.bml",
+		"offset": 21129,
+		"length": 17184
+	},
+	{
+		"filename": "item.bml",
+		"offset": 21138,
+		"length": 18208
+	},
+	{
+		"filename": "npcapcmot.bml",
+		"offset": 21147,
+		"length": 324768
+	},
+	{
+		"filename": "obj_f_enemy.bml",
+		"offset": 21306,
+		"length": 3232
+	},
+	{
+		"filename": "onlineending_dat.bml",
+		"offset": 21308,
+		"length": 57856
+	},
+	{
+		"filename": "pm_mdl.bml",
+		"offset": 21337,
+		"length": 615392
+	},
+	{
+		"filename": "re_b_mark_base.bml",
+		"offset": 21638,
+		"length": 4992
+	},
+	{
+		"filename": "rico_body.bml",
+		"offset": 21641,
+		"length": 64704
+	},
+	{
+		"filename": "rico_ring.bml",
+		"offset": 21673,
+		"length": 49440
+	},
+	{
+		"filename": "plyleveltbl.cpt",
+		"offset": 21698,
+		"length": 11552
+	},
+	{
+		"filename": "plymotionnpctown.cpt",
+		"offset": 21704,
+		"length": 8060
+	},
+	{
+		"filename": "battle_mlt_stg1_j.dat",
+		"offset": 21708,
+		"length": 5776
+	},
+	{
+		"filename": "battle_mlt_stg2_j.dat",
+		"offset": 21711,
+		"length": 6084
+	},
+	{
+		"filename": "battle_mlt_stg3_j.dat",
+		"offset": 21714,
+		"length": 8012
+	},
+	{
+		"filename": "battle_mlt_stg4_j.dat",
+		"offset": 21718,
+		"length": 10708
+	},
+	{
+		"filename": "battle_mlt_stg5_j.dat",
+		"offset": 21724,
+		"length": 6560
+	},
+	{
+		"filename": "battle_mlt_stg6_j.dat",
+		"offset": 21728,
+		"length": 2684
+	},
+	{
+		"filename": "battle_mlt_stg7_j.dat",
+		"offset": 21730,
+		"length": 12736
+	},
+	{
+		"filename": "battle_mlt_stg8_j.dat",
+		"offset": 21737,
+		"length": 22536
+	},
+	{
+		"filename": "challenge_mlt_stg1_j.dat",
+		"offset": 21749,
+		"length": 35876
+	},
+	{
+		"filename": "challenge_mlt_stg2_j.dat",
+		"offset": 21767,
+		"length": 86428
+	},
+	{
+		"filename": "challenge_mlt_stg3_j.dat",
+		"offset": 21810,
+		"length": 100176
+	},
+	{
+		"filename": "challenge_mlt_stg4_j.dat",
+		"offset": 21859,
+		"length": 97960
+	},
+	{
+		"filename": "challenge_mlt_stg5_j.dat",
+		"offset": 21907,
+		"length": 81284
+	},
+	{
+		"filename": "challenge_mlt_stg6_j.dat",
+		"offset": 21947,
+		"length": 86028
+	},
+	{
+		"filename": "challenge_mlt_stg7_j.dat",
+		"offset": 21990,
+		"length": 104284
+	},
+	{
+		"filename": "challenge_mlt_stg8_j.dat",
+		"offset": 22041,
+		"length": 110800
+	},
+	{
+		"filename": "challenge_mlt_stg9_j.dat",
+		"offset": 22096,
+		"length": 117048
+	},
+	{
+		"filename": "fogentry.dat",
+		"offset": 22154,
+		"length": 16384
+	},
+	{
+		"filename": "fogentry_a.dat",
+		"offset": 22162,
+		"length": 8192
+	},
+	{
+		"filename": "indinfo.dat",
+		"offset": 22166,
+		"length": 512
+	},
+	{
+		"filename": "indirect.dat",
+		"offset": 22167,
+		"length": 99072
+	},
+	{
+		"filename": "indirect_base.dat",
+		"offset": 22216,
+		"length": 8192
+	},
+	{
+		"filename": "itemmagmotion.dat",
+		"offset": 22220,
+		"length": 9000
+	},
+	{
+		"filename": "itemshieldentry.dat",
+		"offset": 22225,
+		"length": 2200
+	},
+	{
+		"filename": "map_ancient01_00_00e.dat",
+		"offset": 22227,
+		"length": 10872
+	},
+	{
+		"filename": "map_ancient01_00_00o.dat",
+		"offset": 22233,
+		"length": 15912
+	},
+	{
+		"filename": "map_ancient01_00_01e.dat",
+		"offset": 22241,
+		"length": 11808
+	},
+	{
+		"filename": "map_ancient01_00_01o.dat",
+		"offset": 22247,
+		"length": 15980
+	},
+	{
+		"filename": "map_ancient01_00ad.dat",
+		"offset": 22255,
+		"length": 15368
+	},
+	{
+		"filename": "map_ancient01_00d.dat",
+		"offset": 22263,
+		"length": 15368
+	},
+	{
+		"filename": "map_ancient01_01_00e.dat",
+		"offset": 22271,
+		"length": 11736
+	},
+	{
+		"filename": "map_ancient01_01_00o.dat",
+		"offset": 22277,
+		"length": 14824
+	},
+	{
+		"filename": "map_ancient01_01_01e.dat",
+		"offset": 22285,
+		"length": 11376
+	},
+	{
+		"filename": "map_ancient01_01_01o.dat",
+		"offset": 22291,
+		"length": 15164
+	},
+	{
+		"filename": "map_ancient01_01ad.dat",
+		"offset": 22299,
+		"length": 12036
+	},
+	{
+		"filename": "map_ancient01_01d.dat",
+		"offset": 22305,
+		"length": 12036
+	},
+	{
+		"filename": "map_ancient01_02_00e.dat",
+		"offset": 22311,
+		"length": 11592
+	},
+	{
+		"filename": "map_ancient01_02_00o.dat",
+		"offset": 22317,
+		"length": 14416
+	},
+	{
+		"filename": "map_ancient01_02_01e.dat",
+		"offset": 22325,
+		"length": 11520
+	},
+	{
+		"filename": "map_ancient01_02_01o.dat",
+		"offset": 22331,
+		"length": 16728
+	},
+	{
+		"filename": "map_ancient01_02ad.dat",
+		"offset": 22340,
+		"length": 14212
+	},
+	{
+		"filename": "map_ancient01_02d.dat",
+		"offset": 22347,
+		"length": 14212
+	},
+	{
+		"filename": "map_ancient01_03ad.dat",
+		"offset": 22354,
+		"length": 4352
+	},
+	{
+		"filename": "map_ancient01_03d.dat",
+		"offset": 22357,
+		"length": 4352
+	},
+	{
+		"filename": "map_ancient01_04ad.dat",
+		"offset": 22360,
+		"length": 6528
+	},
+	{
+		"filename": "map_ancient01_04d.dat",
+		"offset": 22364,
+		"length": 6528
+	},
+	{
+		"filename": "map_ancient02_00_00e.dat",
+		"offset": 22368,
+		"length": 10872
+	},
+	{
+		"filename": "map_ancient02_00_00o.dat",
+		"offset": 22374,
+		"length": 16388
+	},
+	{
+		"filename": "map_ancient02_00_01e.dat",
+		"offset": 22383,
+		"length": 11088
+	},
+	{
+		"filename": "map_ancient02_00_01o.dat",
+		"offset": 22389,
+		"length": 16932
+	},
+	{
+		"filename": "map_ancient02_00ad.dat",
+		"offset": 22398,
+		"length": 31144
+	},
+	{
+		"filename": "map_ancient02_00d.dat",
+		"offset": 22414,
+		"length": 31144
+	},
+	{
+		"filename": "map_ancient02_01_00e.dat",
+		"offset": 22430,
+		"length": 11304
+	},
+	{
+		"filename": "map_ancient02_01_00o.dat",
+		"offset": 22436,
+		"length": 16796
+	},
+	{
+		"filename": "map_ancient02_01_01e.dat",
+		"offset": 22445,
+		"length": 11016
+	},
+	{
+		"filename": "map_ancient02_01_01o.dat",
+		"offset": 22451,
+		"length": 16592
+	},
+	{
+		"filename": "map_ancient02_01ad.dat",
+		"offset": 22460,
+		"length": 32028
+	},
+	{
+		"filename": "map_ancient02_01d.dat",
+		"offset": 22476,
+		"length": 32028
+	},
+	{
+		"filename": "map_ancient02_02_00e.dat",
+		"offset": 22492,
+		"length": 10512
+	},
+	{
+		"filename": "map_ancient02_02_00o.dat",
+		"offset": 22498,
+		"length": 17068
+	},
+	{
+		"filename": "map_ancient02_02_01e.dat",
+		"offset": 22507,
+		"length": 11304
+	},
+	{
+		"filename": "map_ancient02_02_01o.dat",
+		"offset": 22513,
+		"length": 16864
+	},
+	{
+		"filename": "map_ancient02_02ad.dat",
+		"offset": 22522,
+		"length": 30328
+	},
+	{
+		"filename": "map_ancient02_02d.dat",
+		"offset": 22537,
+		"length": 30328
+	},
+	{
+		"filename": "map_ancient02_03ad.dat",
+		"offset": 22552,
+		"length": 9860
+	},
+	{
+		"filename": "map_ancient02_03d.dat",
+		"offset": 22557,
+		"length": 9860
+	},
+	{
+		"filename": "map_ancient02_04ad.dat",
+		"offset": 22562,
+		"length": 8636
+	},
+	{
+		"filename": "map_ancient02_04d.dat",
+		"offset": 22567,
+		"length": 8636
+	},
+	{
+		"filename": "map_ancient03_00_00e.dat",
+		"offset": 22572,
+		"length": 12240
+	},
+	{
+		"filename": "map_ancient03_00_00o.dat",
+		"offset": 22578,
+		"length": 13124
+	},
+	{
+		"filename": "map_ancient03_00_01e.dat",
+		"offset": 22585,
+		"length": 12672
+	},
+	{
+		"filename": "map_ancient03_00_01o.dat",
+		"offset": 22592,
+		"length": 15368
+	},
+	{
+		"filename": "map_ancient03_00ad.dat",
+		"offset": 22600,
+		"length": 27744
+	},
+	{
+		"filename": "map_ancient03_00d.dat",
+		"offset": 22614,
+		"length": 27744
+	},
+	{
+		"filename": "map_ancient03_01_00e.dat",
+		"offset": 22628,
+		"length": 12816
+	},
+	{
+		"filename": "map_ancient03_01_00o.dat",
+		"offset": 22635,
+		"length": 15028
+	},
+	{
+		"filename": "map_ancient03_01_01e.dat",
+		"offset": 22643,
+		"length": 12456
+	},
+	{
+		"filename": "map_ancient03_01_01o.dat",
+		"offset": 22650,
+		"length": 14824
+	},
+	{
+		"filename": "map_ancient03_01ad.dat",
+		"offset": 22658,
+		"length": 26520
+	},
+	{
+		"filename": "map_ancient03_01d.dat",
+		"offset": 22671,
+		"length": 26520
+	},
+	{
+		"filename": "map_ancient03_02_00e.dat",
+		"offset": 22684,
+		"length": 12744
+	},
+	{
+		"filename": "map_ancient03_02_00o.dat",
+		"offset": 22691,
+		"length": 14144
+	},
+	{
+		"filename": "map_ancient03_02_01e.dat",
+		"offset": 22698,
+		"length": 12168
+	},
+	{
+		"filename": "map_ancient03_02_01o.dat",
+		"offset": 22704,
+		"length": 15028
+	},
+	{
+		"filename": "map_ancient03_02ad.dat",
+		"offset": 22712,
+		"length": 27336
+	},
+	{
+		"filename": "map_ancient03_02d.dat",
+		"offset": 22726,
+		"length": 27336
+	},
+	{
+		"filename": "map_ancient03_03ad.dat",
+		"offset": 22740,
+		"length": 9452
+	},
+	{
+		"filename": "map_ancient03_03d.dat",
+		"offset": 22745,
+		"length": 9452
+	},
+	{
+		"filename": "map_ancient03_04ad.dat",
+		"offset": 22750,
+		"length": 11016
+	},
+	{
+		"filename": "map_ancient03_04d.dat",
+		"offset": 22756,
+		"length": 11016
+	},
+	{
+		"filename": "map_boss01e.dat",
+		"offset": 22762,
+		"length": 72
+	},
+	{
+		"filename": "map_boss01o.dat",
+		"offset": 22763,
+		"length": 1360
+	},
+	{
+		"filename": "map_boss01uo.dat",
+		"offset": 22764,
+		"length": 1360
+	},
+	{
+		"filename": "map_boss02e.dat",
+		"offset": 22765,
+		"length": 72
+	},
+	{
+		"filename": "map_boss02o.dat",
+		"offset": 22766,
+		"length": 1088
+	},
+	{
+		"filename": "map_boss03e.dat",
+		"offset": 22767,
+		"length": 144
+	},
+	{
+		"filename": "map_boss03o.dat",
+		"offset": 22768,
+		"length": 1904
+	},
+	{
+		"filename": "map_boss04_offo.dat",
+		"offset": 22769,
+		"length": 2176
+	},
+	{
+		"filename": "map_boss04ad.dat",
+		"offset": 22771,
+		"length": 2924
+	},
+	{
+		"filename": "map_boss04e.dat",
+		"offset": 22773,
+		"length": 72
+	},
+	{
+		"filename": "map_boss04o.dat",
+		"offset": 22774,
+		"length": 2176
+	},
+	{
+		"filename": "map_boss05_offo.dat",
+		"offset": 22776,
+		"length": 1564
+	},
+	{
+		"filename": "map_boss05d.dat",
+		"offset": 22777,
+		"length": 1156
+	},
+	{
+		"filename": "map_boss05e.dat",
+		"offset": 22778,
+		"length": 72
+	},
+	{
+		"filename": "map_boss05o.dat",
+		"offset": 22779,
+		"length": 1496
+	},
+	{
+		"filename": "map_boss05uo.dat",
+		"offset": 22780,
+		"length": 1360
+	},
+	{
+		"filename": "map_boss06_offo.dat",
+		"offset": 22781,
+		"length": 1564
+	},
+	{
+		"filename": "map_boss06e.dat",
+		"offset": 22782,
+		"length": 72
+	},
+	{
+		"filename": "map_boss06o.dat",
+		"offset": 22783,
+		"length": 1836
+	},
+	{
+		"filename": "map_boss07_offo.dat",
+		"offset": 22784,
+		"length": 1972
+	},
+	{
+		"filename": "map_boss07d.dat",
+		"offset": 22785,
+		"length": 68
+	},
+	{
+		"filename": "map_boss07e.dat",
+		"offset": 22786,
+		"length": 72
+	},
+	{
+		"filename": "map_boss07o.dat",
+		"offset": 22787,
+		"length": 2040
+	},
+	{
+		"filename": "map_boss08_offo.dat",
+		"offset": 22788,
+		"length": 1564
+	},
+	{
+		"filename": "map_boss08e.dat",
+		"offset": 22789,
+		"length": 72
+	},
+	{
+		"filename": "map_boss08o.dat",
+		"offset": 22790,
+		"length": 2040
+	},
+	{
+		"filename": "map_boss09_00_00o.dat",
+		"offset": 22791,
+		"length": 204
+	},
+	{
+		"filename": "map_boss09_00d.dat",
+		"offset": 22792,
+		"length": 272
+	},
+	{
+		"filename": "map_cave01_00_00_offe.dat",
+		"offset": 22793,
+		"length": 5616
+	},
+	{
+		"filename": "map_cave01_00_00e.dat",
+		"offset": 22796,
+		"length": 11520
+	},
+	{
+		"filename": "map_cave01_00_00o.dat",
+		"offset": 22802,
+		"length": 10608
+	},
+	{
+		"filename": "map_cave01_00_01e.dat",
+		"offset": 22808,
+		"length": 12024
+	},
+	{
+		"filename": "map_cave01_00_01o.dat",
+		"offset": 22814,
+		"length": 10948
+	},
+	{
+		"filename": "map_cave01_00ad.dat",
+		"offset": 22820,
+		"length": 13532
+	},
+	{
+		"filename": "map_cave01_00d.dat",
+		"offset": 22827,
+		"length": 13532
+	},
+	{
+		"filename": "map_cave01_01_00_offe.dat",
+		"offset": 22834,
+		"length": 4968
+	},
+	{
+		"filename": "map_cave01_01_00e.dat",
+		"offset": 22837,
+		"length": 10944
+	},
+	{
+		"filename": "map_cave01_01_00o.dat",
+		"offset": 22843,
+		"length": 10812
+	},
+	{
+		"filename": "map_cave01_01_01e.dat",
+		"offset": 22849,
+		"length": 10440
+	},
+	{
+		"filename": "map_cave01_01_01o.dat",
+		"offset": 22855,
+		"length": 10540
+	},
+	{
+		"filename": "map_cave01_01ad.dat",
+		"offset": 22861,
+		"length": 14212
+	},
+	{
+		"filename": "map_cave01_01d.dat",
+		"offset": 22868,
+		"length": 14212
+	},
+	{
+		"filename": "map_cave01_02_00_offe.dat",
+		"offset": 22875,
+		"length": 5760
+	},
+	{
+		"filename": "map_cave01_02_00e.dat",
+		"offset": 22878,
+		"length": 12024
+	},
+	{
+		"filename": "map_cave01_02_00o.dat",
+		"offset": 22884,
+		"length": 12784
+	},
+	{
+		"filename": "map_cave01_02_01e.dat",
+		"offset": 22891,
+		"length": 12168
+	},
+	{
+		"filename": "map_cave01_02_01o.dat",
+		"offset": 22897,
+		"length": 11764
+	},
+	{
+		"filename": "map_cave01_02ad.dat",
+		"offset": 22903,
+		"length": 13600
+	},
+	{
+		"filename": "map_cave01_02d.dat",
+		"offset": 22910,
+		"length": 13600
+	},
+	{
+		"filename": "map_cave01_03ad.dat",
+		"offset": 22917,
+		"length": 3536
+	},
+	{
+		"filename": "map_cave01_03d.dat",
+		"offset": 22919,
+		"length": 3536
+	},
+	{
+		"filename": "map_cave01_04ad.dat",
+		"offset": 22921,
+		"length": 6052
+	},
+	{
+		"filename": "map_cave01_04d.dat",
+		"offset": 22924,
+		"length": 6052
+	},
+	{
+		"filename": "map_cave01_05ad.dat",
+		"offset": 22927,
+		"length": 9112
+	},
+	{
+		"filename": "map_cave01_05d.dat",
+		"offset": 22932,
+		"length": 9112
+	},
+	{
+		"filename": "map_cave02_00_00_offe.dat",
+		"offset": 22937,
+		"length": 4248
+	},
+	{
+		"filename": "map_cave02_00_00e.dat",
+		"offset": 22940,
+		"length": 8280
+	},
+	{
+		"filename": "map_cave02_00_00o.dat",
+		"offset": 22945,
+		"length": 12308
+	},
+	{
+		"filename": "map_cave02_00_01e.dat",
+		"offset": 22952,
+		"length": 8352
+	},
+	{
+		"filename": "map_cave02_00_01o.dat",
+		"offset": 22957,
+		"length": 13396
+	},
+	{
+		"filename": "map_cave02_00ad.dat",
+		"offset": 22964,
+		"length": 15096
+	},
+	{
+		"filename": "map_cave02_00d.dat",
+		"offset": 22972,
+		"length": 15096
+	},
+	{
+		"filename": "map_cave02_01_00_offe.dat",
+		"offset": 22980,
+		"length": 4248
+	},
+	{
+		"filename": "map_cave02_01_00e.dat",
+		"offset": 22983,
+		"length": 7704
+	},
+	{
+		"filename": "map_cave02_01_00o.dat",
+		"offset": 22987,
+		"length": 11832
+	},
+	{
+		"filename": "map_cave02_01_01e.dat",
+		"offset": 22993,
+		"length": 7992
+	},
+	{
+		"filename": "map_cave02_01_01o.dat",
+		"offset": 22997,
+		"length": 12580
+	},
+	{
+		"filename": "map_cave02_01ad.dat",
+		"offset": 23004,
+		"length": 15572
+	},
+	{
+		"filename": "map_cave02_01d.dat",
+		"offset": 23012,
+		"length": 15572
+	},
+	{
+		"filename": "map_cave02_02_00_offe.dat",
+		"offset": 23020,
+		"length": 4248
+	},
+	{
+		"filename": "map_cave02_02_00e.dat",
+		"offset": 23023,
+		"length": 8352
+	},
+	{
+		"filename": "map_cave02_02_00o.dat",
+		"offset": 23028,
+		"length": 12580
+	},
+	{
+		"filename": "map_cave02_02_01e.dat",
+		"offset": 23035,
+		"length": 8496
+	},
+	{
+		"filename": "map_cave02_02_01o.dat",
+		"offset": 23040,
+		"length": 12852
+	},
+	{
+		"filename": "map_cave02_02ad.dat",
+		"offset": 23047,
+		"length": 17408
+	},
+	{
+		"filename": "map_cave02_02d.dat",
+		"offset": 23056,
+		"length": 17408
+	},
+	{
+		"filename": "map_cave02_03ad.dat",
+		"offset": 23065,
+		"length": 8092
+	},
+	{
+		"filename": "map_cave02_03d.dat",
+		"offset": 23069,
+		"length": 8092
+	},
+	{
+		"filename": "map_cave02_04ad.dat",
+		"offset": 23073,
+		"length": 6188
+	},
+	{
+		"filename": "map_cave02_04d.dat",
+		"offset": 23077,
+		"length": 6188
+	},
+	{
+		"filename": "map_cave03_00_00_offe.dat",
+		"offset": 23081,
+		"length": 6336
+	},
+	{
+		"filename": "map_cave03_00_00e.dat",
+		"offset": 23085,
+		"length": 6336
+	},
+	{
+		"filename": "map_cave03_00_00o.dat",
+		"offset": 23089,
+		"length": 13056
+	},
+	{
+		"filename": "map_cave03_00_01e.dat",
+		"offset": 23096,
+		"length": 6768
+	},
+	{
+		"filename": "map_cave03_00_01o.dat",
+		"offset": 23100,
+		"length": 13532
+	},
+	{
+		"filename": "map_cave03_00ad.dat",
+		"offset": 23107,
+		"length": 9588
+	},
+	{
+		"filename": "map_cave03_00d.dat",
+		"offset": 23112,
+		"length": 9588
+	},
+	{
+		"filename": "map_cave03_01_00_offe.dat",
+		"offset": 23117,
+		"length": 5544
+	},
+	{
+		"filename": "map_cave03_01_00e.dat",
+		"offset": 23120,
+		"length": 5544
+	},
+	{
+		"filename": "map_cave03_01_00o.dat",
+		"offset": 23123,
+		"length": 12716
+	},
+	{
+		"filename": "map_cave03_01_01e.dat",
+		"offset": 23130,
+		"length": 5760
+	},
+	{
+		"filename": "map_cave03_01_01o.dat",
+		"offset": 23133,
+		"length": 13396
+	},
+	{
+		"filename": "map_cave03_01ad.dat",
+		"offset": 23140,
+		"length": 9588
+	},
+	{
+		"filename": "map_cave03_01d.dat",
+		"offset": 23145,
+		"length": 9588
+	},
+	{
+		"filename": "map_cave03_02_00_offe.dat",
+		"offset": 23150,
+		"length": 5472
+	},
+	{
+		"filename": "map_cave03_02_00e.dat",
+		"offset": 23153,
+		"length": 5472
+	},
+	{
+		"filename": "map_cave03_02_00o.dat",
+		"offset": 23156,
+		"length": 13328
+	},
+	{
+		"filename": "map_cave03_02_01e.dat",
+		"offset": 23163,
+		"length": 5328
+	},
+	{
+		"filename": "map_cave03_02_01o.dat",
+		"offset": 23166,
+		"length": 14552
+	},
+	{
+		"filename": "map_cave03_02ad.dat",
+		"offset": 23174,
+		"length": 7412
+	},
+	{
+		"filename": "map_cave03_02d.dat",
+		"offset": 23178,
+		"length": 7412
+	},
+	{
+		"filename": "map_cave03_03ad.dat",
+		"offset": 23182,
+		"length": 2312
+	},
+	{
+		"filename": "map_cave03_03d.dat",
+		"offset": 23184,
+		"length": 2312
+	},
+	{
+		"filename": "map_cave03_04ad.dat",
+		"offset": 23186,
+		"length": 2992
+	},
+	{
+		"filename": "map_cave03_04d.dat",
+		"offset": 23188,
+		"length": 2992
+	},
+	{
+		"filename": "map_cave03_05ad.dat",
+		"offset": 23190,
+		"length": 9724
+	},
+	{
+		"filename": "map_cave03_05d.dat",
+		"offset": 23195,
+		"length": 9724
+	},
+	{
+		"filename": "map_city00_00e.dat",
+		"offset": 23200,
+		"length": 1512
+	},
+	{
+		"filename": "map_city00_00e_c1.dat",
+		"offset": 23201,
+		"length": 1152
+	},
+	{
+		"filename": "map_city00_00e_d.dat",
+		"offset": 23202,
+		"length": 1080
+	},
+	{
+		"filename": "map_city00_00e_s.dat",
+		"offset": 23203,
+		"length": 1152
+	},
+	{
+		"filename": "map_city00_00o.dat",
+		"offset": 23204,
+		"length": 2040
+	},
+	{
+		"filename": "map_city00_00o_c1.dat",
+		"offset": 23205,
+		"length": 1768
+	},
+	{
+		"filename": "map_city00_00o_d.dat",
+		"offset": 23206,
+		"length": 1836
+	},
+	{
+		"filename": "map_city00_00o_s.dat",
+		"offset": 23207,
+		"length": 1836
+	},
+	{
+		"filename": "map_city00ad.dat",
+		"offset": 23208,
+		"length": 6528
+	},
+	{
+		"filename": "map_city00d.dat",
+		"offset": 23212,
+		"length": 6528
+	},
+	{
+		"filename": "map_city02_00_00e.dat",
+		"offset": 23216,
+		"length": 1512
+	},
+	{
+		"filename": "map_city02_00_00o.dat",
+		"offset": 23217,
+		"length": 2040
+	},
+	{
+		"filename": "map_city02_00d.dat",
+		"offset": 23218,
+		"length": 6528
+	},
+	{
+		"filename": "map_crater01_00_00e.dat",
+		"offset": 23222,
+		"length": 15552
+	},
+	{
+		"filename": "map_crater01_00_00o.dat",
+		"offset": 23230,
+		"length": 28084
+	},
+	{
+		"filename": "map_crater01_00d.dat",
+		"offset": 23244,
+		"length": 17884
+	},
+	{
+		"filename": "map_desert01_00_00e.dat",
+		"offset": 23253,
+		"length": 1008
+	},
+	{
+		"filename": "map_desert01_00_00o.dat",
+		"offset": 23254,
+		"length": 9928
+	},
+	{
+		"filename": "map_desert01_00d.dat",
+		"offset": 23259,
+		"length": 25500
+	},
+	{
+		"filename": "map_desert01_01_00e.dat",
+		"offset": 23272,
+		"length": 1008
+	},
+	{
+		"filename": "map_desert01_01_00o.dat",
+		"offset": 23273,
+		"length": 10676
+	},
+	{
+		"filename": "map_desert01_01d.dat",
+		"offset": 23279,
+		"length": 26928
+	},
+	{
+		"filename": "map_desert01_02_00e.dat",
+		"offset": 23293,
+		"length": 1008
+	},
+	{
+		"filename": "map_desert01_02_00o.dat",
+		"offset": 23294,
+		"length": 9520
+	},
+	{
+		"filename": "map_desert01_02d.dat",
+		"offset": 23299,
+		"length": 25704
+	},
+	{
+		"filename": "map_desert02_00_00o.dat",
+		"offset": 23312,
+		"length": 3400
+	},
+	{
+		"filename": "map_desert02_00d.dat",
+		"offset": 23314,
+		"length": 46716
+	},
+	{
+		"filename": "map_desert03_00_00e.dat",
+		"offset": 23337,
+		"length": 1368
+	},
+	{
+		"filename": "map_desert03_00_00o.dat",
+		"offset": 23338,
+		"length": 10812
+	},
+	{
+		"filename": "map_desert03_00d.dat",
+		"offset": 23344,
+		"length": 48620
+	},
+	{
+		"filename": "map_desert03_01_00e.dat",
+		"offset": 23368,
+		"length": 1296
+	},
+	{
+		"filename": "map_desert03_01_00o.dat",
+		"offset": 23369,
+		"length": 10268
+	},
+	{
+		"filename": "map_desert03_01d.dat",
+		"offset": 23375,
+		"length": 44880
+	},
+	{
+		"filename": "map_desert03_02_00e.dat",
+		"offset": 23397,
+		"length": 2016
+	},
+	{
+		"filename": "map_desert03_02_00o.dat",
+		"offset": 23398,
+		"length": 10064
+	},
+	{
+		"filename": "map_desert03_02d.dat",
+		"offset": 23403,
+		"length": 50184
+	},
+	{
+		"filename": "map_forest01_00_offe.dat",
+		"offset": 23428,
+		"length": 2304
+	},
+	{
+		"filename": "map_forest01_00e.dat",
+		"offset": 23430,
+		"length": 4824
+	},
+	{
+		"filename": "map_forest01_00o.dat",
+		"offset": 23433,
+		"length": 7412
+	},
+	{
+		"filename": "map_forest01_01e.dat",
+		"offset": 23437,
+		"length": 4608
+	},
+	{
+		"filename": "map_forest01_01o.dat",
+		"offset": 23440,
+		"length": 7752
+	},
+	{
+		"filename": "map_forest01_02_offe.dat",
+		"offset": 23444,
+		"length": 2592
+	},
+	{
+		"filename": "map_forest01_02e.dat",
+		"offset": 23446,
+		"length": 4248
+	},
+	{
+		"filename": "map_forest01_02o.dat",
+		"offset": 23449,
+		"length": 8160
+	},
+	{
+		"filename": "map_forest01_03e.dat",
+		"offset": 23453,
+		"length": 4968
+	},
+	{
+		"filename": "map_forest01_03o.dat",
+		"offset": 23456,
+		"length": 7548
+	},
+	{
+		"filename": "map_forest01_04_offe.dat",
+		"offset": 23460,
+		"length": 2376
+	},
+	{
+		"filename": "map_forest01_04e.dat",
+		"offset": 23462,
+		"length": 4752
+	},
+	{
+		"filename": "map_forest01_04o.dat",
+		"offset": 23465,
+		"length": 7956
+	},
+	{
+		"filename": "map_forest01_05e.dat",
+		"offset": 23469,
+		"length": 720
+	},
+	{
+		"filename": "map_forest01_05o.dat",
+		"offset": 23470,
+		"length": 4828
+	},
+	{
+		"filename": "map_forest01_gjo.dat",
+		"offset": 23473,
+		"length": 3672
+	},
+	{
+		"filename": "map_forest01ad.dat",
+		"offset": 23475,
+		"length": 10200
+	},
+	{
+		"filename": "map_forest01d.dat",
+		"offset": 23480,
+		"length": 10200
+	},
+	{
+		"filename": "map_forest02_00_offe.dat",
+		"offset": 23485,
+		"length": 4464
+	},
+	{
+		"filename": "map_forest02_00e.dat",
+		"offset": 23488,
+		"length": 6768
+	},
+	{
+		"filename": "map_forest02_00o.dat",
+		"offset": 23492,
+		"length": 9248
+	},
+	{
+		"filename": "map_forest02_01e.dat",
+		"offset": 23497,
+		"length": 5904
+	},
+	{
+		"filename": "map_forest02_01o.dat",
+		"offset": 23500,
+		"length": 9656
+	},
+	{
+		"filename": "map_forest02_02e.dat",
+		"offset": 23505,
+		"length": 5832
+	},
+	{
+		"filename": "map_forest02_02o.dat",
+		"offset": 23508,
+		"length": 9452
+	},
+	{
+		"filename": "map_forest02_03_offe.dat",
+		"offset": 23513,
+		"length": 3816
+	},
+	{
+		"filename": "map_forest02_03e.dat",
+		"offset": 23515,
+		"length": 6192
+	},
+	{
+		"filename": "map_forest02_03o.dat",
+		"offset": 23519,
+		"length": 9112
+	},
+	{
+		"filename": "map_forest02_04_offe.dat",
+		"offset": 23524,
+		"length": 3960
+	},
+	{
+		"filename": "map_forest02_04e.dat",
+		"offset": 23526,
+		"length": 6768
+	},
+	{
+		"filename": "map_forest02_04o.dat",
+		"offset": 23530,
+		"length": 9520
+	},
+	{
+		"filename": "map_forest02ad.dat",
+		"offset": 23535,
+		"length": 13396
+	},
+	{
+		"filename": "map_forest02d.dat",
+		"offset": 23542,
+		"length": 13328
+	},
+	{
+		"filename": "map_jungle01_00_offe.dat",
+		"offset": 23549,
+		"length": 1368
+	},
+	{
+		"filename": "map_jungle01_00_offo.dat",
+		"offset": 23550,
+		"length": 5712
+	},
+	{
+		"filename": "map_jungle01_00e.dat",
+		"offset": 23553,
+		"length": 1800
+	},
+	{
+		"filename": "map_jungle01_00o.dat",
+		"offset": 23554,
+		"length": 5440
+	},
+	{
+		"filename": "map_jungle01_01_offe.dat",
+		"offset": 23557,
+		"length": 1296
+	},
+	{
+		"filename": "map_jungle01_01_offo.dat",
+		"offset": 23558,
+		"length": 6256
+	},
+	{
+		"filename": "map_jungle01_01e.dat",
+		"offset": 23562,
+		"length": 2016
+	},
+	{
+		"filename": "map_jungle01_01o.dat",
+		"offset": 23563,
+		"length": 5984
+	},
+	{
+		"filename": "map_jungle01_02_offe.dat",
+		"offset": 23566,
+		"length": 1296
+	},
+	{
+		"filename": "map_jungle01_02_offo.dat",
+		"offset": 23567,
+		"length": 8432
+	},
+	{
+		"filename": "map_jungle01_02e.dat",
+		"offset": 23572,
+		"length": 1944
+	},
+	{
+		"filename": "map_jungle01_02o.dat",
+		"offset": 23573,
+		"length": 8160
+	},
+	{
+		"filename": "map_jungle01_offe.dat",
+		"offset": 23577,
+		"length": 2304
+	},
+	{
+		"filename": "map_jungle01d.dat",
+		"offset": 23579,
+		"length": 3944
+	},
+	{
+		"filename": "map_jungle01e.dat",
+		"offset": 23581,
+		"length": 2304
+	},
+	{
+		"filename": "map_jungle02_00_offe.dat",
+		"offset": 23583,
+		"length": 2592
+	},
+	{
+		"filename": "map_jungle02_00_offo.dat",
+		"offset": 23585,
+		"length": 7276
+	},
+	{
+		"filename": "map_jungle02_00e.dat",
+		"offset": 23589,
+		"length": 4104
+	},
+	{
+		"filename": "map_jungle02_00o.dat",
+		"offset": 23592,
+		"length": 7140
+	},
+	{
+		"filename": "map_jungle02_01_offe.dat",
+		"offset": 23596,
+		"length": 2664
+	},
+	{
+		"filename": "map_jungle02_01_offo.dat",
+		"offset": 23598,
+		"length": 7344
+	},
+	{
+		"filename": "map_jungle02_01e.dat",
+		"offset": 23602,
+		"length": 3672
+	},
+	{
+		"filename": "map_jungle02_01o.dat",
+		"offset": 23604,
+		"length": 7208
+	},
+	{
+		"filename": "map_jungle02_02_offe.dat",
+		"offset": 23608,
+		"length": 2592
+	},
+	{
+		"filename": "map_jungle02_02_offo.dat",
+		"offset": 23610,
+		"length": 12104
+	},
+	{
+		"filename": "map_jungle02_02e.dat",
+		"offset": 23616,
+		"length": 4032
+	},
+	{
+		"filename": "map_jungle02_02o.dat",
+		"offset": 23618,
+		"length": 11968
+	},
+	{
+		"filename": "map_jungle02d.dat",
+		"offset": 23624,
+		"length": 10744
+	},
+	{
+		"filename": "map_jungle03_00_offe.dat",
+		"offset": 23630,
+		"length": 2736
+	},
+	{
+		"filename": "map_jungle03_00_offo.dat",
+		"offset": 23632,
+		"length": 6936
+	},
+	{
+		"filename": "map_jungle03_00e.dat",
+		"offset": 23636,
+		"length": 3960
+	},
+	{
+		"filename": "map_jungle03_00o.dat",
+		"offset": 23638,
+		"length": 6868
+	},
+	{
+		"filename": "map_jungle03_01_offe.dat",
+		"offset": 23642,
+		"length": 2808
+	},
+	{
+		"filename": "map_jungle03_01_offo.dat",
+		"offset": 23644,
+		"length": 8024
+	},
+	{
+		"filename": "map_jungle03_01e.dat",
+		"offset": 23648,
+		"length": 3528
+	},
+	{
+		"filename": "map_jungle03_01o.dat",
+		"offset": 23650,
+		"length": 7956
+	},
+	{
+		"filename": "map_jungle03_02_offe.dat",
+		"offset": 23654,
+		"length": 2808
+	},
+	{
+		"filename": "map_jungle03_02_offo.dat",
+		"offset": 23656,
+		"length": 9520
+	},
+	{
+		"filename": "map_jungle03_02e.dat",
+		"offset": 23661,
+		"length": 4176
+	},
+	{
+		"filename": "map_jungle03_02o.dat",
+		"offset": 23664,
+		"length": 9452
+	},
+	{
+		"filename": "map_jungle03d.dat",
+		"offset": 23669,
+		"length": 9044
+	},
+	{
+		"filename": "map_jungle04_00_00_offe.dat",
+		"offset": 23674,
+		"length": 4968
+	},
+	{
+		"filename": "map_jungle04_00_00_offo.dat",
+		"offset": 23677,
+		"length": 17272
+	},
+	{
+		"filename": "map_jungle04_00_00e.dat",
+		"offset": 23686,
+		"length": 6048
+	},
+	{
+		"filename": "map_jungle04_00_00o.dat",
+		"offset": 23689,
+		"length": 17068
+	},
+	{
+		"filename": "map_jungle04_00_01_offe.dat",
+		"offset": 23698,
+		"length": 4968
+	},
+	{
+		"filename": "map_jungle04_00_01_offo.dat",
+		"offset": 23701,
+		"length": 13192
+	},
+	{
+		"filename": "map_jungle04_00_01e.dat",
+		"offset": 23708,
+		"length": 7200
+	},
+	{
+		"filename": "map_jungle04_00_01o.dat",
+		"offset": 23712,
+		"length": 12988
+	},
+	{
+		"filename": "map_jungle04_00d.dat",
+		"offset": 23719,
+		"length": 9996
+	},
+	{
+		"filename": "map_jungle04_01_00_offe.dat",
+		"offset": 23724,
+		"length": 5040
+	},
+	{
+		"filename": "map_jungle04_01_00_offo.dat",
+		"offset": 23727,
+		"length": 14280
+	},
+	{
+		"filename": "map_jungle04_01_00e.dat",
+		"offset": 23734,
+		"length": 6480
+	},
+	{
+		"filename": "map_jungle04_01_00o.dat",
+		"offset": 23738,
+		"length": 14076
+	},
+	{
+		"filename": "map_jungle04_01_01_offe.dat",
+		"offset": 23745,
+		"length": 4824
+	},
+	{
+		"filename": "map_jungle04_01_01_offo.dat",
+		"offset": 23748,
+		"length": 15436
+	},
+	{
+		"filename": "map_jungle04_01_01e.dat",
+		"offset": 23756,
+		"length": 6984
+	},
+	{
+		"filename": "map_jungle04_01_01o.dat",
+		"offset": 23760,
+		"length": 15232
+	},
+	{
+		"filename": "map_jungle04_01d.dat",
+		"offset": 23768,
+		"length": 12716
+	},
+	{
+		"filename": "map_jungle04_02d.dat",
+		"offset": 23775,
+		"length": 7140
+	},
+	{
+		"filename": "map_jungle05_00_offe.dat",
+		"offset": 23779,
+		"length": 4104
+	},
+	{
+		"filename": "map_jungle05_00_offo.dat",
+		"offset": 23782,
+		"length": 8772
+	},
+	{
+		"filename": "map_jungle05_00e.dat",
+		"offset": 23787,
+		"length": 8784
+	},
+	{
+		"filename": "map_jungle05_00o.dat",
+		"offset": 23792,
+		"length": 8500
+	},
+	{
+		"filename": "map_jungle05_01_offe.dat",
+		"offset": 23797,
+		"length": 4320
+	},
+	{
+		"filename": "map_jungle05_01_offo.dat",
+		"offset": 23800,
+		"length": 10200
+	},
+	{
+		"filename": "map_jungle05_01e.dat",
+		"offset": 23805,
+		"length": 8280
+	},
+	{
+		"filename": "map_jungle05_01o.dat",
+		"offset": 23810,
+		"length": 9928
+	},
+	{
+		"filename": "map_jungle05_02_offe.dat",
+		"offset": 23815,
+		"length": 4392
+	},
+	{
+		"filename": "map_jungle05_02_offo.dat",
+		"offset": 23818,
+		"length": 12376
+	},
+	{
+		"filename": "map_jungle05_02e.dat",
+		"offset": 23825,
+		"length": 8208
+	},
+	{
+		"filename": "map_jungle05_02o.dat",
+		"offset": 23830,
+		"length": 12104
+	},
+	{
+		"filename": "map_jungle05d.dat",
+		"offset": 23836,
+		"length": 13124
+	},
+	{
+		"filename": "map_jungle06d.dat",
+		"offset": 23843,
+		"length": 10472
+	},
+	{
+		"filename": "map_jungle07d.dat",
+		"offset": 23849,
+		"length": 4216
+	},
+	{
+		"filename": "map_labo00_00_offo.dat",
+		"offset": 23852,
+		"length": 3536
+	},
+	{
+		"filename": "map_labo00_00_offo_c1.dat",
+		"offset": 23854,
+		"length": 3332
+	},
+	{
+		"filename": "map_labo00_00_offo_d.dat",
+		"offset": 23856,
+		"length": 3400
+	},
+	{
+		"filename": "map_labo00_00e.dat",
+		"offset": 23858,
+		"length": 1440
+	},
+	{
+		"filename": "map_labo00_00e_c1.dat",
+		"offset": 23859,
+		"length": 1296
+	},
+	{
+		"filename": "map_labo00_00e_d.dat",
+		"offset": 23860,
+		"length": 1080
+	},
+	{
+		"filename": "map_labo00_00e_s.dat",
+		"offset": 23861,
+		"length": 1008
+	},
+	{
+		"filename": "map_labo00_00o.dat",
+		"offset": 23862,
+		"length": 3672
+	},
+	{
+		"filename": "map_labo00_00o_c1.dat",
+		"offset": 23864,
+		"length": 3332
+	},
+	{
+		"filename": "map_labo00_00o_d.dat",
+		"offset": 23866,
+		"length": 3400
+	},
+	{
+		"filename": "map_labo00_00o_s.dat",
+		"offset": 23868,
+		"length": 3468
+	},
+	{
+		"filename": "map_labo00d.dat",
+		"offset": 23870,
+		"length": 1224
+	},
+	{
+		"filename": "map_lobby_01o.dat",
+		"offset": 23871,
+		"length": 3536
+	},
+	{
+		"filename": "map_lobby_02o.dat",
+		"offset": 23873,
+		"length": 4964
+	},
+	{
+		"filename": "map_lobby_03o.dat",
+		"offset": 23876,
+		"length": 3536
+	},
+	{
+		"filename": "map_lobby_04o.dat",
+		"offset": 23878,
+		"length": 3536
+	},
+	{
+		"filename": "map_lobby_05o.dat",
+		"offset": 23880,
+		"length": 4624
+	},
+	{
+		"filename": "map_lobby_06o.dat",
+		"offset": 23883,
+		"length": 4148
+	},
+	{
+		"filename": "map_lobby_07o.dat",
+		"offset": 23886,
+		"length": 3536
+	},
+	{
+		"filename": "map_lobby_08o.dat",
+		"offset": 23888,
+		"length": 3672
+	},
+	{
+		"filename": "map_lobby_09o.dat",
+		"offset": 23890,
+		"length": 3740
+	},
+	{
+		"filename": "map_lobby_10o.dat",
+		"offset": 23892,
+		"length": 4760
+	},
+	{
+		"filename": "map_lobby_green_be00o.dat",
+		"offset": 23895,
+		"length": 1564
+	},
+	{
+		"filename": "map_lobby_red_be00o.dat",
+		"offset": 23896,
+		"length": 1564
+	},
+	{
+		"filename": "map_lobby_soccer01o.dat",
+		"offset": 23897,
+		"length": 1700
+	},
+	{
+		"filename": "map_lobby_soccer02o.dat",
+		"offset": 23898,
+		"length": 1700
+	},
+	{
+		"filename": "map_lobby_yellow_be00o.dat",
+		"offset": 23899,
+		"length": 1564
+	},
+	{
+		"filename": "map_machine01_00_00e.dat",
+		"offset": 23900,
+		"length": 8784
+	},
+	{
+		"filename": "map_machine01_00_00o.dat",
+		"offset": 23905,
+		"length": 14416
+	},
+	{
+		"filename": "map_machine01_00_01e.dat",
+		"offset": 23913,
+		"length": 7272
+	},
+	{
+		"filename": "map_machine01_00_01o.dat",
+		"offset": 23917,
+		"length": 12648
+	},
+	{
+		"filename": "map_machine01_00ad.dat",
+		"offset": 23924,
+		"length": 6936
+	},
+	{
+		"filename": "map_machine01_00d.dat",
+		"offset": 23928,
+		"length": 6936
+	},
+	{
+		"filename": "map_machine01_01_00e.dat",
+		"offset": 23932,
+		"length": 8568
+	},
+	{
+		"filename": "map_machine01_01_00o.dat",
+		"offset": 23937,
+		"length": 12104
+	},
+	{
+		"filename": "map_machine01_01_01e.dat",
+		"offset": 23943,
+		"length": 8856
+	},
+	{
+		"filename": "map_machine01_01_01o.dat",
+		"offset": 23948,
+		"length": 11764
+	},
+	{
+		"filename": "map_machine01_01ad.dat",
+		"offset": 23954,
+		"length": 6052
+	},
+	{
+		"filename": "map_machine01_01d.dat",
+		"offset": 23957,
+		"length": 6052
+	},
+	{
+		"filename": "map_machine01_02_00e.dat",
+		"offset": 23960,
+		"length": 6624
+	},
+	{
+		"filename": "map_machine01_02_00o.dat",
+		"offset": 23964,
+		"length": 12308
+	},
+	{
+		"filename": "map_machine01_02_01e.dat",
+		"offset": 23971,
+		"length": 6912
+	},
+	{
+		"filename": "map_machine01_02_01o.dat",
+		"offset": 23975,
+		"length": 13192
+	},
+	{
+		"filename": "map_machine01_02ad.dat",
+		"offset": 23982,
+		"length": 5916
+	},
+	{
+		"filename": "map_machine01_02d.dat",
+		"offset": 23985,
+		"length": 5916
+	},
+	{
+		"filename": "map_machine01_03ad.dat",
+		"offset": 23988,
+		"length": 2108
+	},
+	{
+		"filename": "map_machine01_03d.dat",
+		"offset": 23990,
+		"length": 2108
+	},
+	{
+		"filename": "map_machine01_04ad.dat",
+		"offset": 23992,
+		"length": 1904
+	},
+	{
+		"filename": "map_machine01_04d.dat",
+		"offset": 23993,
+		"length": 1904
+	},
+	{
+		"filename": "map_machine01_05ad.dat",
+		"offset": 23994,
+		"length": 4624
+	},
+	{
+		"filename": "map_machine01_05d.dat",
+		"offset": 23997,
+		"length": 4624
+	},
+	{
+		"filename": "map_machine02_00_00e.dat",
+		"offset": 24000,
+		"length": 8064
+	},
+	{
+		"filename": "map_machine02_00_00o.dat",
+		"offset": 24004,
+		"length": 10812
+	},
+	{
+		"filename": "map_machine02_00_01e.dat",
+		"offset": 24010,
+		"length": 7632
+	},
+	{
+		"filename": "map_machine02_00_01o.dat",
+		"offset": 24014,
+		"length": 10268
+	},
+	{
+		"filename": "map_machine02_00ad.dat",
+		"offset": 24020,
+		"length": 3604
+	},
+	{
+		"filename": "map_machine02_00d.dat",
+		"offset": 24022,
+		"length": 3604
+	},
+	{
+		"filename": "map_machine02_01_00e.dat",
+		"offset": 24024,
+		"length": 8712
+	},
+	{
+		"filename": "map_machine02_01_00o.dat",
+		"offset": 24029,
+		"length": 11764
+	},
+	{
+		"filename": "map_machine02_01_01e.dat",
+		"offset": 24035,
+		"length": 7992
+	},
+	{
+		"filename": "map_machine02_01_01o.dat",
+		"offset": 24039,
+		"length": 12172
+	},
+	{
+		"filename": "map_machine02_01ad.dat",
+		"offset": 24045,
+		"length": 3536
+	},
+	{
+		"filename": "map_machine02_01d.dat",
+		"offset": 24047,
+		"length": 3536
+	},
+	{
+		"filename": "map_machine02_02_00e.dat",
+		"offset": 24049,
+		"length": 7848
+	},
+	{
+		"filename": "map_machine02_02_00o.dat",
+		"offset": 24053,
+		"length": 11764
+	},
+	{
+		"filename": "map_machine02_02_01e.dat",
+		"offset": 24059,
+		"length": 7632
+	},
+	{
+		"filename": "map_machine02_02_01o.dat",
+		"offset": 24063,
+		"length": 11220
+	},
+	{
+		"filename": "map_machine02_02ad.dat",
+		"offset": 24069,
+		"length": 3604
+	},
+	{
+		"filename": "map_machine02_02d.dat",
+		"offset": 24071,
+		"length": 3604
+	},
+	{
+		"filename": "map_machine02_03ad.dat",
+		"offset": 24073,
+		"length": 1224
+	},
+	{
+		"filename": "map_machine02_03d.dat",
+		"offset": 24074,
+		"length": 1224
+	},
+	{
+		"filename": "map_machine02_04ad.dat",
+		"offset": 24075,
+		"length": 1428
+	},
+	{
+		"filename": "map_machine02_04d.dat",
+		"offset": 24076,
+		"length": 1428
+	},
+	{
+		"filename": "map_machine02_05ad.dat",
+		"offset": 24077,
+		"length": 1904
+	},
+	{
+		"filename": "map_machine02_05d.dat",
+		"offset": 24078,
+		"length": 1904
+	},
+	{
+		"filename": "map_ruins01_00_00_offe.dat",
+		"offset": 24079,
+		"length": 5832
+	},
+	{
+		"filename": "map_ruins01_00_00_offo.dat",
+		"offset": 24082,
+		"length": 14280
+	},
+	{
+		"filename": "map_ruins01_00_00e.dat",
+		"offset": 24089,
+		"length": 7848
+	},
+	{
+		"filename": "map_ruins01_00_00o.dat",
+		"offset": 24093,
+		"length": 14076
+	},
+	{
+		"filename": "map_ruins01_00d.dat",
+		"offset": 24100,
+		"length": 8908
+	},
+	{
+		"filename": "map_ruins01_01_00_offe.dat",
+		"offset": 24105,
+		"length": 6336
+	},
+	{
+		"filename": "map_ruins01_01_00_offo.dat",
+		"offset": 24109,
+		"length": 12920
+	},
+	{
+		"filename": "map_ruins01_01_00e.dat",
+		"offset": 24116,
+		"length": 6768
+	},
+	{
+		"filename": "map_ruins01_01_00o.dat",
+		"offset": 24120,
+		"length": 12716
+	},
+	{
+		"filename": "map_ruins01_01d.dat",
+		"offset": 24127,
+		"length": 9112
+	},
+	{
+		"filename": "map_ruins01_02d.dat",
+		"offset": 24132,
+		"length": 5372
+	},
+	{
+		"filename": "map_ruins02_00_00_offe.dat",
+		"offset": 24135,
+		"length": 5688
+	},
+	{
+		"filename": "map_ruins02_00_00_offo.dat",
+		"offset": 24138,
+		"length": 15504
+	},
+	{
+		"filename": "map_ruins02_00_00e.dat",
+		"offset": 24146,
+		"length": 7704
+	},
+	{
+		"filename": "map_ruins02_00_00o.dat",
+		"offset": 24150,
+		"length": 15300
+	},
+	{
+		"filename": "map_ruins02_00d.dat",
+		"offset": 24158,
+		"length": 11288
+	},
+	{
+		"filename": "map_ruins02_01_00_offe.dat",
+		"offset": 24164,
+		"length": 6048
+	},
+	{
+		"filename": "map_ruins02_01_00_offo.dat",
+		"offset": 24167,
+		"length": 13328
+	},
+	{
+		"filename": "map_ruins02_01_00e.dat",
+		"offset": 24174,
+		"length": 8568
+	},
+	{
+		"filename": "map_ruins02_01_00o.dat",
+		"offset": 24179,
+		"length": 13124
+	},
+	{
+		"filename": "map_ruins02_01d.dat",
+		"offset": 24186,
+		"length": 14620
+	},
+	{
+		"filename": "map_ruins02_02d.dat",
+		"offset": 24194,
+		"length": 7548
+	},
+	{
+		"filename": "map_seabed01_00_00_offe.dat",
+		"offset": 24198,
+		"length": 5328
+	},
+	{
+		"filename": "map_seabed01_00_00_offo.dat",
+		"offset": 24201,
+		"length": 17068
+	},
+	{
+		"filename": "map_seabed01_00_00e.dat",
+		"offset": 24210,
+		"length": 6984
+	},
+	{
+		"filename": "map_seabed01_00_00o.dat",
+		"offset": 24214,
+		"length": 16320
+	},
+	{
+		"filename": "map_seabed01_00_01e.dat",
+		"offset": 24222,
+		"length": 6480
+	},
+	{
+		"filename": "map_seabed01_00_01o.dat",
+		"offset": 24226,
+		"length": 17136
+	},
+	{
+		"filename": "map_seabed01_00d.dat",
+		"offset": 24235,
+		"length": 15776
+	},
+	{
+		"filename": "map_seabed01_01_00_offe.dat",
+		"offset": 24243,
+		"length": 5544
+	},
+	{
+		"filename": "map_seabed01_01_00_offo.dat",
+		"offset": 24246,
+		"length": 16932
+	},
+	{
+		"filename": "map_seabed01_01_00e.dat",
+		"offset": 24255,
+		"length": 7056
+	},
+	{
+		"filename": "map_seabed01_01_00o.dat",
+		"offset": 24259,
+		"length": 16320
+	},
+	{
+		"filename": "map_seabed01_01_01e.dat",
+		"offset": 24267,
+		"length": 5832
+	},
+	{
+		"filename": "map_seabed01_01_01o.dat",
+		"offset": 24270,
+		"length": 15096
+	},
+	{
+		"filename": "map_seabed01_01d.dat",
+		"offset": 24278,
+		"length": 15844
+	},
+	{
+		"filename": "map_seabed01_02d.dat",
+		"offset": 24286,
+		"length": 16388
+	},
+	{
+		"filename": "map_seabed02_00_00_offe.dat",
+		"offset": 24295,
+		"length": 5616
+	},
+	{
+		"filename": "map_seabed02_00_00_offo.dat",
+		"offset": 24298,
+		"length": 17000
+	},
+	{
+		"filename": "map_seabed02_00_00e.dat",
+		"offset": 24307,
+		"length": 6480
+	},
+	{
+		"filename": "map_seabed02_00_00o.dat",
+		"offset": 24311,
+		"length": 16456
+	},
+	{
+		"filename": "map_seabed02_00_01e.dat",
+		"offset": 24320,
+		"length": 6120
+	},
+	{
+		"filename": "map_seabed02_00_01o.dat",
+		"offset": 24323,
+		"length": 16048
+	},
+	{
+		"filename": "map_seabed02_00d.dat",
+		"offset": 24331,
+		"length": 12444
+	},
+	{
+		"filename": "map_seabed02_01_00_offe.dat",
+		"offset": 24338,
+		"length": 6264
+	},
+	{
+		"filename": "map_seabed02_01_00_offo.dat",
+		"offset": 24342,
+		"length": 17340
+	},
+	{
+		"filename": "map_seabed02_01_00e.dat",
+		"offset": 24351,
+		"length": 6696
+	},
+	{
+		"filename": "map_seabed02_01_00o.dat",
+		"offset": 24355,
+		"length": 16796
+	},
+	{
+		"filename": "map_seabed02_01_01e.dat",
+		"offset": 24364,
+		"length": 6984
+	},
+	{
+		"filename": "map_seabed02_01_01o.dat",
+		"offset": 24368,
+		"length": 17000
+	},
+	{
+		"filename": "map_seabed02_01d.dat",
+		"offset": 24377,
+		"length": 12580
+	},
+	{
+		"filename": "map_seabed02_02d.dat",
+		"offset": 24384,
+		"length": 9860
+	},
+	{
+		"filename": "map_space01_00_00_offe.dat",
+		"offset": 24389,
+		"length": 5616
+	},
+	{
+		"filename": "map_space01_00_00_offo.dat",
+		"offset": 24392,
+		"length": 13260
+	},
+	{
+		"filename": "map_space01_00_00e.dat",
+		"offset": 24399,
+		"length": 8496
+	},
+	{
+		"filename": "map_space01_00_00o.dat",
+		"offset": 24404,
+		"length": 13056
+	},
+	{
+		"filename": "map_space01_00d.dat",
+		"offset": 24411,
+		"length": 1156
+	},
+	{
+		"filename": "map_space01_01_00_offe.dat",
+		"offset": 24412,
+		"length": 5616
+	},
+	{
+		"filename": "map_space01_01_00_offo.dat",
+		"offset": 24415,
+		"length": 12716
+	},
+	{
+		"filename": "map_space01_01_00e.dat",
+		"offset": 24422,
+		"length": 8712
+	},
+	{
+		"filename": "map_space01_01_00o.dat",
+		"offset": 24427,
+		"length": 12512
+	},
+	{
+		"filename": "map_space01_01d.dat",
+		"offset": 24434,
+		"length": 1224
+	},
+	{
+		"filename": "map_space01_02d.dat",
+		"offset": 24435,
+		"length": 408
+	},
+	{
+		"filename": "map_space02_00_00_offe.dat",
+		"offset": 24436,
+		"length": 5832
+	},
+	{
+		"filename": "map_space02_00_00_offo.dat",
+		"offset": 24439,
+		"length": 12104
+	},
+	{
+		"filename": "map_space02_00_00e.dat",
+		"offset": 24445,
+		"length": 9288
+	},
+	{
+		"filename": "map_space02_00_00o.dat",
+		"offset": 24450,
+		"length": 11900
+	},
+	{
+		"filename": "map_space02_00d.dat",
+		"offset": 24456,
+		"length": 1088
+	},
+	{
+		"filename": "map_space02_01_00_offe.dat",
+		"offset": 24457,
+		"length": 5976
+	},
+	{
+		"filename": "map_space02_01_00_offo.dat",
+		"offset": 24460,
+		"length": 13532
+	},
+	{
+		"filename": "map_space02_01_00e.dat",
+		"offset": 24467,
+		"length": 7920
+	},
+	{
+		"filename": "map_space02_01_00o.dat",
+		"offset": 24471,
+		"length": 13328
+	},
+	{
+		"filename": "map_space02_01d.dat",
+		"offset": 24478,
+		"length": 1156
+	},
+	{
+		"filename": "map_space02_02d.dat",
+		"offset": 24479,
+		"length": 1020
+	},
+	{
+		"filename": "map_vs01_00ad.dat",
+		"offset": 24480,
+		"length": 816
+	},
+	{
+		"filename": "map_vs01_00d.dat",
+		"offset": 24481,
+		"length": 816
+	},
+	{
+		"filename": "map_vs01_01ad.dat",
+		"offset": 24482,
+		"length": 1020
+	},
+	{
+		"filename": "map_vs01_01d.dat",
+		"offset": 24483,
+		"length": 1020
+	},
+	{
+		"filename": "map_vs01_02ad.dat",
+		"offset": 24484,
+		"length": 748
+	},
+	{
+		"filename": "map_vs01_02d.dat",
+		"offset": 24485,
+		"length": 748
+	},
+	{
+		"filename": "map_vs02_00ad.dat",
+		"offset": 24486,
+		"length": 4964
+	},
+	{
+		"filename": "map_vs02_00d.dat",
+		"offset": 24489,
+		"length": 4964
+	},
+	{
+		"filename": "map_vs02_01ad.dat",
+		"offset": 24492,
+		"length": 5780
+	},
+	{
+		"filename": "map_vs02_01d.dat",
+		"offset": 24495,
+		"length": 5780
+	},
+	{
+		"filename": "map_vs02_02ad.dat",
+		"offset": 24498,
+		"length": 5576
+	},
+	{
+		"filename": "map_vs02_02d.dat",
+		"offset": 24501,
+		"length": 5576
+	},
+	{
+		"filename": "map_wilds01_00_00e.dat",
+		"offset": 24504,
+		"length": 16920
+	},
+	{
+		"filename": "map_wilds01_00_00o.dat",
+		"offset": 24513,
+		"length": 19448
+	},
+	{
+		"filename": "map_wilds01_00d.dat",
+		"offset": 24523,
+		"length": 22440
+	},
+	{
+		"filename": "map_wilds01_01_00e.dat",
+		"offset": 24534,
+		"length": 13896
+	},
+	{
+		"filename": "map_wilds01_01_00o.dat",
+		"offset": 24541,
+		"length": 16524
+	},
+	{
+		"filename": "map_wilds01_01d.dat",
+		"offset": 24550,
+		"length": 22916
+	},
+	{
+		"filename": "map_wilds01_02_00e.dat",
+		"offset": 24562,
+		"length": 11736
+	},
+	{
+		"filename": "map_wilds01_02_00o.dat",
+		"offset": 24568,
+		"length": 11560
+	},
+	{
+		"filename": "map_wilds01_02d.dat",
+		"offset": 24574,
+		"length": 14688
+	},
+	{
+		"filename": "map_wilds01_03_00e.dat",
+		"offset": 24582,
+		"length": 14688
+	},
+	{
+		"filename": "map_wilds01_03_00o.dat",
+		"offset": 24590,
+		"length": 2448
+	},
+	{
+		"filename": "map_wilds01_03d.dat",
+		"offset": 24592,
+		"length": 27336
+	},
+	{
+		"filename": "npcplayerchar.dat",
+		"offset": 24606,
+		"length": 7168
+	},
+	{
+		"filename": "particleentry.dat",
+		"offset": 24610,
+		"length": 77824
+	},
+	{
+		"filename": "particleentrya00.dat",
+		"offset": 24648,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya01.dat",
+		"offset": 24653,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya02.dat",
+		"offset": 24658,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya03.dat",
+		"offset": 24663,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya04.dat",
+		"offset": 24668,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya05.dat",
+		"offset": 24673,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya06.dat",
+		"offset": 24678,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya07.dat",
+		"offset": 24683,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya08.dat",
+		"offset": 24688,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya09.dat",
+		"offset": 24693,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya10.dat",
+		"offset": 24698,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya11.dat",
+		"offset": 24703,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya12.dat",
+		"offset": 24708,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya13.dat",
+		"offset": 24713,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya14.dat",
+		"offset": 24718,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya15.dat",
+		"offset": 24723,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya16.dat",
+		"offset": 24728,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya17.dat",
+		"offset": 24733,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya18.dat",
+		"offset": 24738,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya19.dat",
+		"offset": 24743,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya20.dat",
+		"offset": 24748,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya21.dat",
+		"offset": 24753,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya22.dat",
+		"offset": 24758,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya23.dat",
+		"offset": 24763,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya24.dat",
+		"offset": 24768,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya25.dat",
+		"offset": 24773,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya26.dat",
+		"offset": 24778,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya27.dat",
+		"offset": 24783,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya28.dat",
+		"offset": 24788,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya29.dat",
+		"offset": 24793,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya30.dat",
+		"offset": 24798,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya31.dat",
+		"offset": 24803,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya32.dat",
+		"offset": 24808,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya33.dat",
+		"offset": 24813,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya34.dat",
+		"offset": 24818,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya35.dat",
+		"offset": 24823,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya36.dat",
+		"offset": 24828,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya37.dat",
+		"offset": 24833,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya38.dat",
+		"offset": 24838,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya39.dat",
+		"offset": 24843,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya40.dat",
+		"offset": 24848,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya41.dat",
+		"offset": 24853,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya42.dat",
+		"offset": 24858,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya43.dat",
+		"offset": 24863,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya44.dat",
+		"offset": 24868,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya45.dat",
+		"offset": 24873,
+		"length": 9728
+	},
+	{
+		"filename": "particleentrya46.dat",
+		"offset": 24878,
+		"length": 9728
+	},
+	{
+		"filename": "symbolchat.dat",
+		"offset": 24883,
+		"length": 1344
+	},
+	{
+		"filename": "map_ancient01_00_00.evt",
+		"offset": 24884,
+		"length": 872
+	},
+	{
+		"filename": "map_ancient01_00_01.evt",
+		"offset": 24885,
+		"length": 1136
+	},
+	{
+		"filename": "map_ancient01_01_00.evt",
+		"offset": 24886,
+		"length": 1068
+	},
+	{
+		"filename": "map_ancient01_01_01.evt",
+		"offset": 24887,
+		"length": 1180
+	},
+	{
+		"filename": "map_ancient01_02_00.evt",
+		"offset": 24888,
+		"length": 1080
+	},
+	{
+		"filename": "map_ancient01_02_01.evt",
+		"offset": 24889,
+		"length": 1212
+	},
+	{
+		"filename": "map_ancient02_00_00.evt",
+		"offset": 24890,
+		"length": 1008
+	},
+	{
+		"filename": "map_ancient02_00_01.evt",
+		"offset": 24891,
+		"length": 1064
+	},
+	{
+		"filename": "map_ancient02_01_00.evt",
+		"offset": 24892,
+		"length": 1088
+	},
+	{
+		"filename": "map_ancient02_01_01.evt",
+		"offset": 24893,
+		"length": 1224
+	},
+	{
+		"filename": "map_ancient02_02_00.evt",
+		"offset": 24894,
+		"length": 1052
+	},
+	{
+		"filename": "map_ancient02_02_01.evt",
+		"offset": 24895,
+		"length": 1132
+	},
+	{
+		"filename": "map_ancient03_00_00.evt",
+		"offset": 24896,
+		"length": 1088
+	},
+	{
+		"filename": "map_ancient03_00_01.evt",
+		"offset": 24897,
+		"length": 1384
+	},
+	{
+		"filename": "map_ancient03_01_00.evt",
+		"offset": 24898,
+		"length": 1252
+	},
+	{
+		"filename": "map_ancient03_01_01.evt",
+		"offset": 24899,
+		"length": 1260
+	},
+	{
+		"filename": "map_ancient03_02_00.evt",
+		"offset": 24900,
+		"length": 1372
+	},
+	{
+		"filename": "map_ancient03_02_01.evt",
+		"offset": 24901,
+		"length": 1392
+	},
+	{
+		"filename": "map_boss01.evt",
+		"offset": 24902,
+		"length": 44
+	},
+	{
+		"filename": "map_boss02.evt",
+		"offset": 24903,
+		"length": 44
+	},
+	{
+		"filename": "map_boss02jm.evt",
+		"offset": 24904,
+		"length": 44
+	},
+	{
+		"filename": "map_boss04.evt",
+		"offset": 24905,
+		"length": 52
+	},
+	{
+		"filename": "map_boss05.evt",
+		"offset": 24906,
+		"length": 44
+	},
+	{
+		"filename": "map_boss05jm.evt",
+		"offset": 24907,
+		"length": 44
+	},
+	{
+		"filename": "map_boss06.evt",
+		"offset": 24908,
+		"length": 44
+	},
+	{
+		"filename": "map_boss07.evt",
+		"offset": 24909,
+		"length": 44
+	},
+	{
+		"filename": "map_boss08.evt",
+		"offset": 24910,
+		"length": 44
+	},
+	{
+		"filename": "map_cave01_00_00.evt",
+		"offset": 24911,
+		"length": 964
+	},
+	{
+		"filename": "map_cave01_00_00_off.evt",
+		"offset": 24912,
+		"length": 964
+	},
+	{
+		"filename": "map_cave01_00_01.evt",
+		"offset": 24913,
+		"length": 976
+	},
+	{
+		"filename": "map_cave01_01_00.evt",
+		"offset": 24914,
+		"length": 900
+	},
+	{
+		"filename": "map_cave01_01_00_off.evt",
+		"offset": 24915,
+		"length": 900
+	},
+	{
+		"filename": "map_cave01_01_01.evt",
+		"offset": 24916,
+		"length": 856
+	},
+	{
+		"filename": "map_cave01_02_00.evt",
+		"offset": 24917,
+		"length": 1264
+	},
+	{
+		"filename": "map_cave01_02_00_off.evt",
+		"offset": 24918,
+		"length": 1264
+	},
+	{
+		"filename": "map_cave01_02_01.evt",
+		"offset": 24919,
+		"length": 1156
+	},
+	{
+		"filename": "map_cave02_00_00.evt",
+		"offset": 24920,
+		"length": 864
+	},
+	{
+		"filename": "map_cave02_00_00_off.evt",
+		"offset": 24921,
+		"length": 864
+	},
+	{
+		"filename": "map_cave02_00_01.evt",
+		"offset": 24922,
+		"length": 932
+	},
+	{
+		"filename": "map_cave02_01_00.evt",
+		"offset": 24923,
+		"length": 908
+	},
+	{
+		"filename": "map_cave02_01_00_off.evt",
+		"offset": 24924,
+		"length": 908
+	},
+	{
+		"filename": "map_cave02_01_01.evt",
+		"offset": 24925,
+		"length": 940
+	},
+	{
+		"filename": "map_cave02_02_00.evt",
+		"offset": 24926,
+		"length": 876
+	},
+	{
+		"filename": "map_cave02_02_00_off.evt",
+		"offset": 24927,
+		"length": 876
+	},
+	{
+		"filename": "map_cave02_02_01.evt",
+		"offset": 24928,
+		"length": 848
+	},
+	{
+		"filename": "map_cave03_00_00.evt",
+		"offset": 24929,
+		"length": 1164
+	},
+	{
+		"filename": "map_cave03_00_00_off.evt",
+		"offset": 24930,
+		"length": 1164
+	},
+	{
+		"filename": "map_cave03_00_01.evt",
+		"offset": 24931,
+		"length": 1252
+	},
+	{
+		"filename": "map_cave03_01_00.evt",
+		"offset": 24932,
+		"length": 1080
+	},
+	{
+		"filename": "map_cave03_01_00_off.evt",
+		"offset": 24933,
+		"length": 1080
+	},
+	{
+		"filename": "map_cave03_01_01.evt",
+		"offset": 24934,
+		"length": 1104
+	},
+	{
+		"filename": "map_cave03_02_00.evt",
+		"offset": 24935,
+		"length": 1020
+	},
+	{
+		"filename": "map_cave03_02_00_off.evt",
+		"offset": 24936,
+		"length": 1020
+	},
+	{
+		"filename": "map_cave03_02_01.evt",
+		"offset": 24937,
+		"length": 924
+	},
+	{
+		"filename": "map_crater01_00_00.evt",
+		"offset": 24938,
+		"length": 1308
+	},
+	{
+		"filename": "map_desert01_00_00.evt",
+		"offset": 24939,
+		"length": 352
+	},
+	{
+		"filename": "map_desert01_01_00.evt",
+		"offset": 24940,
+		"length": 352
+	},
+	{
+		"filename": "map_desert01_02_00.evt",
+		"offset": 24941,
+		"length": 352
+	},
+	{
+		"filename": "map_desert03_00_00.evt",
+		"offset": 24942,
+		"length": 380
+	},
+	{
+		"filename": "map_desert03_01_00.evt",
+		"offset": 24943,
+		"length": 380
+	},
+	{
+		"filename": "map_desert03_02_00.evt",
+		"offset": 24944,
+		"length": 404
+	},
+	{
+		"filename": "map_forest01_00.evt",
+		"offset": 24945,
+		"length": 500
+	},
+	{
+		"filename": "map_forest01_00_off.evt",
+		"offset": 24946,
+		"length": 500
+	},
+	{
+		"filename": "map_forest01_01.evt",
+		"offset": 24947,
+		"length": 544
+	},
+	{
+		"filename": "map_forest01_02.evt",
+		"offset": 24948,
+		"length": 564
+	},
+	{
+		"filename": "map_forest01_02_off.evt",
+		"offset": 24949,
+		"length": 564
+	},
+	{
+		"filename": "map_forest01_03.evt",
+		"offset": 24950,
+		"length": 524
+	},
+	{
+		"filename": "map_forest01_04.evt",
+		"offset": 24951,
+		"length": 524
+	},
+	{
+		"filename": "map_forest01_04_off.evt",
+		"offset": 24952,
+		"length": 524
+	},
+	{
+		"filename": "map_forest01_05.evt",
+		"offset": 24953,
+		"length": 116
+	},
+	{
+		"filename": "map_forest01_gj.evt",
+		"offset": 24954,
+		"length": 144
+	},
+	{
+		"filename": "map_forest02_00.evt",
+		"offset": 24955,
+		"length": 744
+	},
+	{
+		"filename": "map_forest02_00_off.evt",
+		"offset": 24956,
+		"length": 744
+	},
+	{
+		"filename": "map_forest02_01.evt",
+		"offset": 24957,
+		"length": 776
+	},
+	{
+		"filename": "map_forest02_02.evt",
+		"offset": 24958,
+		"length": 844
+	},
+	{
+		"filename": "map_forest02_03.evt",
+		"offset": 24959,
+		"length": 768
+	},
+	{
+		"filename": "map_forest02_03_off.evt",
+		"offset": 24960,
+		"length": 768
+	},
+	{
+		"filename": "map_forest02_04.evt",
+		"offset": 24961,
+		"length": 816
+	},
+	{
+		"filename": "map_forest02_04_off.evt",
+		"offset": 24962,
+		"length": 816
+	},
+	{
+		"filename": "map_jungle01.evt",
+		"offset": 24963,
+		"length": 216
+	},
+	{
+		"filename": "map_jungle01_00.evt",
+		"offset": 24964,
+		"length": 256
+	},
+	{
+		"filename": "map_jungle01_00_off.evt",
+		"offset": 24965,
+		"length": 236
+	},
+	{
+		"filename": "map_jungle01_01.evt",
+		"offset": 24966,
+		"length": 308
+	},
+	{
+		"filename": "map_jungle01_01_off.evt",
+		"offset": 24967,
+		"length": 284
+	},
+	{
+		"filename": "map_jungle01_02.evt",
+		"offset": 24968,
+		"length": 336
+	},
+	{
+		"filename": "map_jungle01_02_off.evt",
+		"offset": 24969,
+		"length": 264
+	},
+	{
+		"filename": "map_jungle01_off.evt",
+		"offset": 24970,
+		"length": 216
+	},
+	{
+		"filename": "map_jungle02_00.evt",
+		"offset": 24971,
+		"length": 576
+	},
+	{
+		"filename": "map_jungle02_00_off.evt",
+		"offset": 24972,
+		"length": 356
+	},
+	{
+		"filename": "map_jungle02_01.evt",
+		"offset": 24973,
+		"length": 488
+	},
+	{
+		"filename": "map_jungle02_01_off.evt",
+		"offset": 24974,
+		"length": 384
+	},
+	{
+		"filename": "map_jungle02_02.evt",
+		"offset": 24975,
+		"length": 488
+	},
+	{
+		"filename": "map_jungle02_02_off.evt",
+		"offset": 24976,
+		"length": 388
+	},
+	{
+		"filename": "map_jungle03_00.evt",
+		"offset": 24977,
+		"length": 720
+	},
+	{
+		"filename": "map_jungle03_00_off.evt",
+		"offset": 24978,
+		"length": 580
+	},
+	{
+		"filename": "map_jungle03_01.evt",
+		"offset": 24979,
+		"length": 640
+	},
+	{
+		"filename": "map_jungle03_01_off.evt",
+		"offset": 24980,
+		"length": 524
+	},
+	{
+		"filename": "map_jungle03_02.evt",
+		"offset": 24981,
+		"length": 704
+	},
+	{
+		"filename": "map_jungle03_02_off.evt",
+		"offset": 24982,
+		"length": 600
+	},
+	{
+		"filename": "map_jungle04_00_00.evt",
+		"offset": 24983,
+		"length": 808
+	},
+	{
+		"filename": "map_jungle04_00_00_off.evt",
+		"offset": 24984,
+		"length": 760
+	},
+	{
+		"filename": "map_jungle04_00_01.evt",
+		"offset": 24985,
+		"length": 928
+	},
+	{
+		"filename": "map_jungle04_00_01_off.evt",
+		"offset": 24986,
+		"length": 708
+	},
+	{
+		"filename": "map_jungle04_01_00.evt",
+		"offset": 24987,
+		"length": 904
+	},
+	{
+		"filename": "map_jungle04_01_00_off.evt",
+		"offset": 24988,
+		"length": 720
+	},
+	{
+		"filename": "map_jungle04_01_01.evt",
+		"offset": 24989,
+		"length": 868
+	},
+	{
+		"filename": "map_jungle04_01_01_off.evt",
+		"offset": 24990,
+		"length": 676
+	},
+	{
+		"filename": "map_jungle05_00.evt",
+		"offset": 24991,
+		"length": 1052
+	},
+	{
+		"filename": "map_jungle05_00_jm.evt",
+		"offset": 24992,
+		"length": 412
+	},
+	{
+		"filename": "map_jungle05_00_off.evt",
+		"offset": 24993,
+		"length": 560
+	},
+	{
+		"filename": "map_jungle05_01.evt",
+		"offset": 24994,
+		"length": 1044
+	},
+	{
+		"filename": "map_jungle05_01_off.evt",
+		"offset": 24995,
+		"length": 536
+	},
+	{
+		"filename": "map_jungle05_02.evt",
+		"offset": 24996,
+		"length": 1124
+	},
+	{
+		"filename": "map_jungle05_02_off.evt",
+		"offset": 24997,
+		"length": 580
+	},
+	{
+		"filename": "map_machine01_00_00.evt",
+		"offset": 24998,
+		"length": 892
+	},
+	{
+		"filename": "map_machine01_00_01.evt",
+		"offset": 24999,
+		"length": 796
+	},
+	{
+		"filename": "map_machine01_01_00.evt",
+		"offset": 25000,
+		"length": 1136
+	},
+	{
+		"filename": "map_machine01_01_01.evt",
+		"offset": 25001,
+		"length": 1152
+	},
+	{
+		"filename": "map_machine01_02_00.evt",
+		"offset": 25002,
+		"length": 928
+	},
+	{
+		"filename": "map_machine01_02_01.evt",
+		"offset": 25003,
+		"length": 876
+	},
+	{
+		"filename": "map_machine02_00_00.evt",
+		"offset": 25004,
+		"length": 748
+	},
+	{
+		"filename": "map_machine02_00_01.evt",
+		"offset": 25005,
+		"length": 748
+	},
+	{
+		"filename": "map_machine02_01_00.evt",
+		"offset": 25006,
+		"length": 1080
+	},
+	{
+		"filename": "map_machine02_01_01.evt",
+		"offset": 25007,
+		"length": 980
+	},
+	{
+		"filename": "map_machine02_02_00.evt",
+		"offset": 25008,
+		"length": 808
+	},
+	{
+		"filename": "map_machine02_02_01.evt",
+		"offset": 25009,
+		"length": 784
+	},
+	{
+		"filename": "map_ruins01_00_00.evt",
+		"offset": 25010,
+		"length": 788
+	},
+	{
+		"filename": "map_ruins01_00_00_off.evt",
+		"offset": 25011,
+		"length": 664
+	},
+	{
+		"filename": "map_ruins01_00_jm.evt",
+		"offset": 25012,
+		"length": 336
+	},
+	{
+		"filename": "map_ruins01_01_00.evt",
+		"offset": 25013,
+		"length": 760
+	},
+	{
+		"filename": "map_ruins01_01_00_off.evt",
+		"offset": 25014,
+		"length": 756
+	},
+	{
+		"filename": "map_ruins02_00_00.evt",
+		"offset": 25015,
+		"length": 756
+	},
+	{
+		"filename": "map_ruins02_00_00_off.evt",
+		"offset": 25016,
+		"length": 648
+	},
+	{
+		"filename": "map_ruins02_01_00.evt",
+		"offset": 25017,
+		"length": 752
+	},
+	{
+		"filename": "map_ruins02_01_00_off.evt",
+		"offset": 25018,
+		"length": 648
+	},
+	{
+		"filename": "map_seabed01_00_00.evt",
+		"offset": 25019,
+		"length": 1008
+	},
+	{
+		"filename": "map_seabed01_00_00_off.evt",
+		"offset": 25020,
+		"length": 812
+	},
+	{
+		"filename": "map_seabed01_00_01.evt",
+		"offset": 25021,
+		"length": 892
+	},
+	{
+		"filename": "map_seabed01_01_00.evt",
+		"offset": 25022,
+		"length": 872
+	},
+	{
+		"filename": "map_seabed01_01_00_off.evt",
+		"offset": 25023,
+		"length": 848
+	},
+	{
+		"filename": "map_seabed01_01_01.evt",
+		"offset": 25024,
+		"length": 896
+	},
+	{
+		"filename": "map_seabed02_00_00.evt",
+		"offset": 25025,
+		"length": 876
+	},
+	{
+		"filename": "map_seabed02_00_00_off.evt",
+		"offset": 25026,
+		"length": 776
+	},
+	{
+		"filename": "map_seabed02_00_01.evt",
+		"offset": 25027,
+		"length": 860
+	},
+	{
+		"filename": "map_seabed02_01_00.evt",
+		"offset": 25028,
+		"length": 948
+	},
+	{
+		"filename": "map_seabed02_01_00_off.evt",
+		"offset": 25029,
+		"length": 924
+	},
+	{
+		"filename": "map_seabed02_01_01.evt",
+		"offset": 25030,
+		"length": 1052
+	},
+	{
+		"filename": "map_space01_00_00.evt",
+		"offset": 25031,
+		"length": 808
+	},
+	{
+		"filename": "map_space01_00_00_off.evt",
+		"offset": 25032,
+		"length": 680
+	},
+	{
+		"filename": "map_space01_01_00.evt",
+		"offset": 25033,
+		"length": 752
+	},
+	{
+		"filename": "map_space01_01_00_off.evt",
+		"offset": 25034,
+		"length": 780
+	},
+	{
+		"filename": "map_space02_00_00.evt",
+		"offset": 25035,
+		"length": 732
+	},
+	{
+		"filename": "map_space02_00_00_off.evt",
+		"offset": 25036,
+		"length": 680
+	},
+	{
+		"filename": "map_space02_01_00.evt",
+		"offset": 25037,
+		"length": 752
+	},
+	{
+		"filename": "map_space02_01_00_off.evt",
+		"offset": 25038,
+		"length": 656
+	},
+	{
+		"filename": "map_wilds01_00_00.evt",
+		"offset": 25039,
+		"length": 1284
+	},
+	{
+		"filename": "map_wilds01_01_00.evt",
+		"offset": 25040,
+		"length": 1244
+	},
+	{
+		"filename": "map_wilds01_02_00.evt",
+		"offset": 25041,
+		"length": 864
+	},
+	{
+		"filename": "map_wilds01_03_00.evt",
+		"offset": 25042,
+		"length": 880
+	},
+	{
+		"filename": "textenglish.pr2",
+		"offset": 25043,
+		"length": 43701
+	},
+	{
+		"filename": "textfrench.pr2",
+		"offset": 25065,
+		"length": 45288
+	},
+	{
+		"filename": "textgerman.pr2",
+		"offset": 25088,
+		"length": 45666
+	},
+	{
+		"filename": "textjapanese.pr2",
+		"offset": 25111,
+		"length": 52094
+	},
+	{
+		"filename": "textspanish.pr2",
+		"offset": 25137,
+		"length": 44610
+	},
+	{
+		"filename": "textenglish.pr3",
+		"offset": 25159,
+		"length": 117
+	},
+	{
+		"filename": "textfrench.pr3",
+		"offset": 25160,
+		"length": 119
+	},
+	{
+		"filename": "textgerman.pr3",
+		"offset": 25161,
+		"length": 119
+	},
+	{
+		"filename": "textjapanese.pr3",
+		"offset": 25162,
+		"length": 120
+	},
+	{
+		"filename": "textspanish.pr3",
+		"offset": 25163,
+		"length": 119
+	},
+	{
+		"filename": "addrawlinetask.prs",
+		"offset": 25164,
+		"length": 5295
+	},
+	{
+		"filename": "chatsensor.prs",
+		"offset": 25167,
+		"length": 61
+	},
+	{
+		"filename": "f064_mucarsol.prs",
+		"offset": 25168,
+		"length": 6985
+	},
+	{
+		"filename": "f064_multiconfirm.prs",
+		"offset": 25172,
+		"length": 1324
+	},
+	{
+		"filename": "f128_controller.prs",
+		"offset": 25173,
+		"length": 12260
+	},
+	{
+		"filename": "f128_player_ad.prs",
+		"offset": 25179,
+		"length": 4237
+	},
+	{
+		"filename": "f128_player_ad_eng.prs",
+		"offset": 25182,
+		"length": 4181
+	},
+	{
+		"filename": "f128_ray.prs",
+		"offset": 25185,
+		"length": 54918
+	},
+	{
+		"filename": "f256_ad.prs",
+		"offset": 25212,
+		"length": 18053
+	},
+	{
+		"filename": "f256_ad_eng.prs",
+		"offset": 25221,
+		"length": 16698
+	},
+	{
+		"filename": "f256_ad_pic_2.prs",
+		"offset": 25230,
+		"length": 65828
+	},
+	{
+		"filename": "f256_backtext.prs",
+		"offset": 25263,
+		"length": 103326
+	},
+	{
+		"filename": "f256_hyouji.prs",
+		"offset": 25314,
+		"length": 181815
+	},
+	{
+		"filename": "f256_hyoujismall.prs",
+		"offset": 25403,
+		"length": 38092
+	},
+	{
+		"filename": "f256_joyboot.prs",
+		"offset": 25422,
+		"length": 115357
+	},
+	{
+		"filename": "f256_memorycard.prs",
+		"offset": 25479,
+		"length": 5523
+	},
+	{
+		"filename": "f256_memorycard_select.prs",
+		"offset": 25482,
+		"length": 8816
+	},
+	{
+		"filename": "f256_player_prate.prs",
+		"offset": 25487,
+		"length": 9980
+	},
+	{
+		"filename": "f256_player_tex.prs",
+		"offset": 25492,
+		"length": 19363
+	},
+	{
+		"filename": "f256_player_tex_eng.prs",
+		"offset": 25502,
+		"length": 20450
+	},
+	{
+		"filename": "f256_selectgamen_a.prs",
+		"offset": 25512,
+		"length": 41087
+	},
+	{
+		"filename": "f256_selectgamen_a_eng.prs",
+		"offset": 25533,
+		"length": 38567
+	},
+	{
+		"filename": "f256_slot.prs",
+		"offset": 25552,
+		"length": 7265
+	},
+	{
+		"filename": "f256_slot_eng.prs",
+		"offset": 25556,
+		"length": 6894
+	},
+	{
+		"filename": "f256_tag.prs",
+		"offset": 25560,
+		"length": 12651
+	},
+	{
+		"filename": "f256_tag_eng.prs",
+		"offset": 25567,
+		"length": 12245
+	},
+	{
+		"filename": "f256_uniticon.prs",
+		"offset": 25573,
+		"length": 9787
+	},
+	{
+		"filename": "f512_midashi.prs",
+		"offset": 25578,
+		"length": 111256
+	},
+	{
+		"filename": "f512_midashi_eng.prs",
+		"offset": 25633,
+		"length": 106063
+	},
+	{
+		"filename": "f512_multiplay.prs",
+		"offset": 25685,
+		"length": 17595
+	},
+	{
+		"filename": "itemmagedit.prs",
+		"offset": 25694,
+		"length": 776
+	},
+	{
+		"filename": "logo.prs",
+		"offset": 25695,
+		"length": 9061
+	},
+	{
+		"filename": "nowloading.prs",
+		"offset": 25700,
+		"length": 7432
+	},
+	{
+		"filename": "smutdata.prs",
+		"offset": 25704,
+		"length": 7393
+	},
+	{
+		"filename": "symbolchatcolli.prs",
+		"offset": 25708,
+		"length": 704
+	},
+	{
+		"filename": "title.prs",
+		"offset": 25709,
+		"length": 264996
+	},
+	{
+		"filename": "title_eng.prs",
+		"offset": 25839,
+		"length": 277269
+	},
+	{
+		"filename": "unitxt_cs.prs",
+		"offset": 25975,
+		"length": 39866
+	},
+	{
+		"filename": "unitxt_ct.prs",
+		"offset": 25995,
+		"length": 49961
+	},
+	{
+		"filename": "unitxt_e.prs",
+		"offset": 26020,
+		"length": 61084
+	},
+	{
+		"filename": "unitxt_f.prs",
+		"offset": 26050,
+		"length": 58468
+	},
+	{
+		"filename": "unitxt_g.prs",
+		"offset": 26079,
+		"length": 59049
+	},
+	{
+		"filename": "unitxt_h.prs",
+		"offset": 26108,
+		"length": 10733
+	},
+	{
+		"filename": "unitxt_j.prs",
+		"offset": 26114,
+		"length": 64473
+	},
+	{
+		"filename": "unitxt_s.prs",
+		"offset": 26146,
+		"length": 58197
+	},
+	{
+		"filename": "unitxt_shop_cs.prs",
+		"offset": 26175,
+		"length": 9293
+	},
+	{
+		"filename": "unitxt_shop_ct.prs",
+		"offset": 26180,
+		"length": 9517
+	},
+	{
+		"filename": "unitxt_shop_e.prs",
+		"offset": 26185,
+		"length": 9362
+	},
+	{
+		"filename": "unitxt_shop_f.prs",
+		"offset": 26190,
+		"length": 9905
+	},
+	{
+		"filename": "unitxt_shop_g.prs",
+		"offset": 26195,
+		"length": 10153
+	},
+	{
+		"filename": "unitxt_shop_h.prs",
+		"offset": 26200,
+		"length": 6097
+	},
+	{
+		"filename": "unitxt_shop_j.prs",
+		"offset": 26203,
+		"length": 9900
+	},
+	{
+		"filename": "unitxt_shop_s.prs",
+		"offset": 26208,
+		"length": 9888
+	},
+	{
+		"filename": "unitxt_ws_e.prs",
+		"offset": 26213,
+		"length": 20594
+	},
+	{
+		"filename": "unitxt_ws_f.prs",
+		"offset": 26224,
+		"length": 24827
+	},
+	{
+		"filename": "unitxt_ws_g.prs",
+		"offset": 26237,
+		"length": 23564
+	},
+	{
+		"filename": "unitxt_ws_j.prs",
+		"offset": 26249,
+		"length": 15635
+	},
+	{
+		"filename": "unitxt_ws_s.prs",
+		"offset": 26257,
+		"length": 24975
+	},
+	{
+		"filename": "adending.rel",
+		"offset": 26270,
+		"length": 7744
+	},
+	{
+		"filename": "bo01encam.rel",
+		"offset": 26274,
+		"length": 8576
+	},
+	{
+		"filename": "bo01opcam.rel",
+		"offset": 26279,
+		"length": 16768
+	},
+	{
+		"filename": "bo02encam.rel",
+		"offset": 26288,
+		"length": 3872
+	},
+	{
+		"filename": "bo02opcam.rel",
+		"offset": 26290,
+		"length": 7328
+	},
+	{
+		"filename": "bo03encam.rel",
+		"offset": 26294,
+		"length": 5728
+	},
+	{
+		"filename": "bo03opcam.rel",
+		"offset": 26297,
+		"length": 5024
+	},
+	{
+		"filename": "bo04opcam.rel",
+		"offset": 26300,
+		"length": 27968
+	},
+	{
+		"filename": "bo05encam.rel",
+		"offset": 26314,
+		"length": 4448
+	},
+	{
+		"filename": "bo05opcam.rel",
+		"offset": 26317,
+		"length": 16192
+	},
+	{
+		"filename": "bo06opcam.rel",
+		"offset": 26325,
+		"length": 42016
+	},
+	{
+		"filename": "bo07encam.rel",
+		"offset": 26346,
+		"length": 6624
+	},
+	{
+		"filename": "bo07opcam.rel",
+		"offset": 26350,
+		"length": 4448
+	},
+	{
+		"filename": "bo08encam.rel",
+		"offset": 26353,
+		"length": 4352
+	},
+	{
+		"filename": "bo08opcam.rel",
+		"offset": 26356,
+		"length": 5632
+	},
+	{
+		"filename": "boss01cam.rel",
+		"offset": 26359,
+		"length": 5600
+	},
+	{
+		"filename": "commoncam.rel",
+		"offset": 26362,
+		"length": 22048
+	},
+	{
+		"filename": "effect_nt.rel",
+		"offset": 26373,
+		"length": 480
+	},
+	{
+		"filename": "npc_a00_data.rel",
+		"offset": 26374,
+		"length": 30112
+	},
+	{
+		"filename": "npc_b00_data.rel",
+		"offset": 26389,
+		"length": 33920
+	},
+	{
+		"filename": "npc_b01_data.rel",
+		"offset": 26406,
+		"length": 33600
+	},
+	{
+		"filename": "npc_c01_data.rel",
+		"offset": 26423,
+		"length": 27168
+	},
+	{
+		"filename": "npc_d00_data.rel",
+		"offset": 26437,
+		"length": 29568
+	},
+	{
+		"filename": "npc_d01_data.rel",
+		"offset": 26452,
+		"length": 29120
+	},
+	{
+		"filename": "npc_e00_data.rel",
+		"offset": 26467,
+		"length": 29632
+	},
+	{
+		"filename": "npc_f00_data.rel",
+		"offset": 26482,
+		"length": 30144
+	},
+	{
+		"filename": "npc_g00_data.rel",
+		"offset": 26497,
+		"length": 32576
+	},
+	{
+		"filename": "npc_g01_data.rel",
+		"offset": 26513,
+		"length": 32928
+	},
+	{
+		"filename": "npc_h00_data.rel",
+		"offset": 26530,
+		"length": 31264
+	},
+	{
+		"filename": "npc_h01_data.rel",
+		"offset": 26546,
+		"length": 31328
+	},
+	{
+		"filename": "npc_i00_data.rel",
+		"offset": 26562,
+		"length": 33600
+	},
+	{
+		"filename": "npc_i01_data.rel",
+		"offset": 26579,
+		"length": 33216
+	},
+	{
+		"filename": "plyendingmotiondata.rel",
+		"offset": 26596,
+		"length": 52896
+	},
+	{
+		"filename": "setdatatableoff.rel",
+		"offset": 26622,
+		"length": 9120
+	},
+	{
+		"filename": "setdatatableoffulti.rel",
+		"offset": 26627,
+		"length": 9056
+	},
+	{
+		"filename": "setdatatableon.rel",
+		"offset": 26632,
+		"length": 11008
+	},
+	{
+		"filename": "setdatatableonulti.rel",
+		"offset": 26638,
+		"length": 9344
+	},
+	{
+		"filename": "plymotiondata.rlc",
+		"offset": 26643,
+		"length": 1501504
+	},
+	{
+		"filename": "vssver.scc",
+		"offset": 27377,
+		"length": 128
+	},
+	{
+		"filename": "bg_lightning.xvm",
+		"offset": 27378,
+		"length": 19072
+	},
+	{
+		"filename": "bg_multi.xvm",
+		"offset": 27388,
+		"length": 16512
+	},
+	{
+		"filename": "biri_ball.xvm",
+		"offset": 27397,
+		"length": 2176
+	},
+	{
+		"filename": "bm_obj_city_common.xvm",
+		"offset": 27399,
+		"length": 173440
+	},
+	{
+		"filename": "bm_obj_ep4_boss09_core_tex.xvm",
+		"offset": 27484,
+		"length": 67648
+	},
+	{
+		"filename": "bom_ball.xvm",
+		"offset": 27518,
+		"length": 2176
+	},
+	{
+		"filename": "boss06_rock_dat.xvm",
+		"offset": 27520,
+		"length": 57664
+	},
+	{
+		"filename": "boss06_tube_dat.xvm",
+		"offset": 27549,
+		"length": 197440
+	},
+	{
+		"filename": "ccconsole_e.xvm",
+		"offset": 27646,
+		"length": 1017152
+	},
+	{
+		"filename": "ccconsole_j.xvm",
+		"offset": 28143,
+		"length": 1017152
+	},
+	{
+		"filename": "de_obj2_swarp_beam_r.xvm",
+		"offset": 28640,
+		"length": 832
+	},
+	{
+		"filename": "ed_512kabe_ab_nh.xvm",
+		"offset": 28641,
+		"length": 656320
+	},
+	{
+		"filename": "ed_512kabe_ab_secret.xvm",
+		"offset": 28962,
+		"length": 656320
+	},
+	{
+		"filename": "ed_512kabe_ab_sh.xvm",
+		"offset": 29283,
+		"length": 656320
+	},
+	{
+		"filename": "ed_512kabe_ab_ul.xvm",
+		"offset": 29604,
+		"length": 656320
+	},
+	{
+		"filename": "ed_512kabe_c.xvm",
+		"offset": 29925,
+		"length": 147648
+	},
+	{
+		"filename": "ed128_font.xvm",
+		"offset": 29998,
+		"length": 180608
+	},
+	{
+		"filename": "effect_nt.xvm",
+		"offset": 30087,
+		"length": 177280
+	},
+	{
+		"filename": "f512_hunters.xvm",
+		"offset": 30174,
+		"length": 131200
+	},
+	{
+		"filename": "f512_hunters_eng.xvm",
+		"offset": 30239,
+		"length": 131200
+	},
+	{
+		"filename": "f512_inazuma.xvm",
+		"offset": 30304,
+		"length": 262336
+	},
+	{
+		"filename": "fd_obj804_gorl03.xvm",
+		"offset": 30433,
+		"length": 11008
+	},
+	{
+		"filename": "fd_obj804_gorl03_b.xvm",
+		"offset": 30439,
+		"length": 11008
+	},
+	{
+		"filename": "fe_obj_computer.xvm",
+		"offset": 30445,
+		"length": 13632
+	},
+	{
+		"filename": "fe_obj_door.xvm",
+		"offset": 30452,
+		"length": 53248
+	},
+	{
+		"filename": "fe_obj_ex_box2_hahen01.xvm",
+		"offset": 30478,
+		"length": 4288
+	},
+	{
+		"filename": "fe_obj_ex_box2_hahen02.xvm",
+		"offset": 30481,
+		"length": 4288
+	},
+	{
+		"filename": "fe_obj_lazer2.xvm",
+		"offset": 30484,
+		"length": 5568
+	},
+	{
+		"filename": "fe_obj_lazer2_2.xvm",
+		"offset": 30487,
+		"length": 11200
+	},
+	{
+		"filename": "fe_obj_o_container_hahen01r.xvm",
+		"offset": 30493,
+		"length": 4992
+	},
+	{
+		"filename": "fe_obj_o_container_hahen02r.xvm",
+		"offset": 30496,
+		"length": 2880
+	},
+	{
+		"filename": "fe_obj_o_container_r.xvm",
+		"offset": 30498,
+		"length": 6080
+	},
+	{
+		"filename": "fe_obj_o_door01g.xvm",
+		"offset": 30501,
+		"length": 33472
+	},
+	{
+		"filename": "fe_obj_o_door03g.xvm",
+		"offset": 30518,
+		"length": 33472
+	},
+	{
+		"filename": "fe_obj_o_door04g.xvm",
+		"offset": 30535,
+		"length": 33472
+	},
+	{
+		"filename": "fe_obj_o_vs2cont_hahen1_r.xvm",
+		"offset": 30552,
+		"length": 10432
+	},
+	{
+		"filename": "fe_obj_o_vs2cont_hahen2_r.xvm",
+		"offset": 30558,
+		"length": 10432
+	},
+	{
+		"filename": "fe_obj_switch.xvm",
+		"offset": 30564,
+		"length": 29184
+	},
+	{
+		"filename": "fe_obj_switch_laz.xvm",
+		"offset": 30579,
+		"length": 22080
+	},
+	{
+		"filename": "fe_obj_switch_laz_a.xvm",
+		"offset": 30590,
+		"length": 22080
+	},
+	{
+		"filename": "fe_obj_switch_laz_j.xvm",
+		"offset": 30601,
+		"length": 22144
+	},
+	{
+		"filename": "fe_obj_vo_momitor.xvm",
+		"offset": 30612,
+		"length": 790144
+	},
+	{
+		"filename": "fs_obj_do_doa_panelr.xvm",
+		"offset": 30998,
+		"length": 6400
+	},
+	{
+		"filename": "fs_obj_do_doa01r.xvm",
+		"offset": 31002,
+		"length": 35584
+	},
+	{
+		"filename": "fs_obj_do_doa01r_a.xvm",
+		"offset": 31020,
+		"length": 35584
+	},
+	{
+		"filename": "fs_obj_do_doa02r.xvm",
+		"offset": 31038,
+		"length": 35584
+	},
+	{
+		"filename": "fs_obj_do_doa02r_a.xvm",
+		"offset": 31056,
+		"length": 35584
+	},
+	{
+		"filename": "fs_obj_door07_m_01_g.xvm",
+		"offset": 31074,
+		"length": 33472
+	},
+	{
+		"filename": "fs_obj_door07_m_02_g.xvm",
+		"offset": 31091,
+		"length": 33472
+	},
+	{
+		"filename": "fs_obj_door07_m_02_r.xvm",
+		"offset": 31108,
+		"length": 33472
+	},
+	{
+		"filename": "fs_obj_door07_m_03_g.xvm",
+		"offset": 31125,
+		"length": 33472
+	},
+	{
+		"filename": "fs_obj_door07_m_03_r.xvm",
+		"offset": 31142,
+		"length": 33472
+	},
+	{
+		"filename": "fs_obj_doorx4_atui.xvm",
+		"offset": 31159,
+		"length": 44992
+	},
+	{
+		"filename": "fs_obj_doorx4_atui_02.xvm",
+		"offset": 31181,
+		"length": 44992
+	},
+	{
+		"filename": "fs_obj_doorx4_atui_green.xvm",
+		"offset": 31203,
+		"length": 44992
+	},
+	{
+		"filename": "fs_obj_doorx4_atui_green_02.xvm",
+		"offset": 31225,
+		"length": 44992
+	},
+	{
+		"filename": "fs_obj_doorx4_u.xvm",
+		"offset": 31247,
+		"length": 36160
+	},
+	{
+		"filename": "fs_obj_doorx4_u_green.xvm",
+		"offset": 31265,
+		"length": 36160
+	},
+	{
+		"filename": "fs_obj_doorx4_usui_02.xvm",
+		"offset": 31283,
+		"length": 36160
+	},
+	{
+		"filename": "fs_obj_doorx4_usui_green_02.xvm",
+		"offset": 31301,
+		"length": 36160
+	},
+	{
+		"filename": "fs_obj_ex_box2.xvm",
+		"offset": 31319,
+		"length": 7488
+	},
+	{
+		"filename": "fs_obj_hako01_a.xvm",
+		"offset": 31323,
+		"length": 7488
+	},
+	{
+		"filename": "fs_obj_hako01_n.xvm",
+		"offset": 31327,
+		"length": 7488
+	},
+	{
+		"filename": "fs_obj_hanyousu_light_ao.xvm",
+		"offset": 31331,
+		"length": 640
+	},
+	{
+		"filename": "fs_obj_hanyousu_light_ao_j.xvm",
+		"offset": 31332,
+		"length": 640
+	},
+	{
+		"filename": "fs_obj_key_jungle_red.xvm",
+		"offset": 31333,
+		"length": 6976
+	},
+	{
+		"filename": "fs_obj_ki_doa_panel_r.xvm",
+		"offset": 31337,
+		"length": 35008
+	},
+	{
+		"filename": "fs_obj_ki_doa_r.xvm",
+		"offset": 31355,
+		"length": 35584
+	},
+	{
+		"filename": "fs_obj_ki_doa_r_a.xvm",
+		"offset": 31373,
+		"length": 35584
+	},
+	{
+		"filename": "fs_obj_ki_doa2_r.xvm",
+		"offset": 31391,
+		"length": 35584
+	},
+	{
+		"filename": "fs_obj_ki_doa2_r_a.xvm",
+		"offset": 31409,
+		"length": 35584
+	},
+	{
+		"filename": "fs_obj_laz_guard_r.xvm",
+		"offset": 31427,
+		"length": 640
+	},
+	{
+		"filename": "fs_obj_o_door05l_g.xvm",
+		"offset": 31428,
+		"length": 33472
+	},
+	{
+		"filename": "fs_obj_o_door06l_r.xvm",
+		"offset": 31445,
+		"length": 33472
+	},
+	{
+		"filename": "fs_obj_o_doorpanelg.xvm",
+		"offset": 31462,
+		"length": 4864
+	},
+	{
+		"filename": "fs_obj_o_sensor01r.xvm",
+		"offset": 31465,
+		"length": 15232
+	},
+	{
+		"filename": "fs_obj_o_sensor02.xvm",
+		"offset": 31473,
+		"length": 15232
+	},
+	{
+		"filename": "fs_obj_o_sensor02r.xvm",
+		"offset": 31481,
+		"length": 15232
+	},
+	{
+		"filename": "fs_obj_o_vs2container_r.xvm",
+		"offset": 31489,
+		"length": 11520
+	},
+	{
+		"filename": "fs_obj_o_vs2door01lr.xvm",
+		"offset": 31495,
+		"length": 33472
+	},
+	{
+		"filename": "fs_obj_sensor_r.xvm",
+		"offset": 31512,
+		"length": 13312
+	},
+	{
+		"filename": "fs_obj_tank.xvm",
+		"offset": 31519,
+		"length": 26688
+	},
+	{
+		"filename": "fs_obj_tanmatu02.xvm",
+		"offset": 31533,
+		"length": 20992
+	},
+	{
+		"filename": "fs_obj_turiten_singo.xvm",
+		"offset": 31544,
+		"length": 2176
+	},
+	{
+		"filename": "fs_obj_turiten_singo_r.xvm",
+		"offset": 31546,
+		"length": 2176
+	},
+	{
+		"filename": "fs_obj_warp.xvm",
+		"offset": 31548,
+		"length": 9856
+	},
+	{
+		"filename": "ha_u032_kage.xvm",
+		"offset": 31553,
+		"length": 1152
+	},
+	{
+		"filename": "indirect.xvm",
+		"offset": 31554,
+		"length": 99136
+	},
+	{
+		"filename": "infoicon.xvm",
+		"offset": 31603,
+		"length": 4288
+	},
+	{
+		"filename": "me2_y_me2_z.xvm",
+		"offset": 31606,
+		"length": 65728
+	},
+	{
+		"filename": "me2_y_me2_z_a.xvm",
+		"offset": 31639,
+		"length": 65728
+	},
+	{
+		"filename": "modelparticle_gryphon.xvm",
+		"offset": 31672,
+		"length": 48064
+	},
+	{
+		"filename": "n_a00_w_body.xvm",
+		"offset": 31696,
+		"length": 32384
+	},
+	{
+		"filename": "n_b00_body.xvm",
+		"offset": 31712,
+		"length": 37696
+	},
+	{
+		"filename": "n_b01_e_body.xvm",
+		"offset": 31731,
+		"length": 37696
+	},
+	{
+		"filename": "n_c01_e_body.xvm",
+		"offset": 31750,
+		"length": 29696
+	},
+	{
+		"filename": "n_d00_w_body.xvm",
+		"offset": 31765,
+		"length": 31424
+	},
+	{
+		"filename": "n_d01_e_body.xvm",
+		"offset": 31781,
+		"length": 31296
+	},
+	{
+		"filename": "n_e00_w_body.xvm",
+		"offset": 31797,
+		"length": 30720
+	},
+	{
+		"filename": "n_f00_w_body.xvm",
+		"offset": 31812,
+		"length": 32768
+	},
+	{
+		"filename": "n_g00_body.xvm",
+		"offset": 31828,
+		"length": 35456
+	},
+	{
+		"filename": "n_g01_e_body.xvm",
+		"offset": 31846,
+		"length": 35456
+	},
+	{
+		"filename": "n_h00_body.xvm",
+		"offset": 31864,
+		"length": 36032
+	},
+	{
+		"filename": "n_h01_e_body.xvm",
+		"offset": 31882,
+		"length": 36032
+	},
+	{
+		"filename": "n_i00_body.xvm",
+		"offset": 31900,
+		"length": 44736
+	},
+	{
+		"filename": "n_i01_e_body.xvm",
+		"offset": 31922,
+		"length": 33920
+	},
+	{
+		"filename": "o_fence_ancient_b.xvm",
+		"offset": 31939,
+		"length": 13632
+	},
+	{
+		"filename": "o_fence_ancient_g.xvm",
+		"offset": 31946,
+		"length": 13632
+	},
+	{
+		"filename": "o_fence_ancient_p.xvm",
+		"offset": 31953,
+		"length": 13632
+	},
+	{
+		"filename": "o_grass_jungle.xvm",
+		"offset": 31960,
+		"length": 8320
+	},
+	{
+		"filename": "o_jungle_doormain.xvm",
+		"offset": 31965,
+		"length": 98624
+	},
+	{
+		"filename": "o_key_ancient01b.xvm",
+		"offset": 32014,
+		"length": 19968
+	},
+	{
+		"filename": "o_key_ancient01g.xvm",
+		"offset": 32024,
+		"length": 19968
+	},
+	{
+		"filename": "o_key_ancient01p.xvm",
+		"offset": 32034,
+		"length": 19968
+	},
+	{
+		"filename": "o_key_ancient02.xvm",
+		"offset": 32044,
+		"length": 2752
+	},
+	{
+		"filename": "o_labodoor_nrm_green.xvm",
+		"offset": 32046,
+		"length": 15424
+	},
+	{
+		"filename": "o_labodoor_nrm_red.xvm",
+		"offset": 32054,
+		"length": 15424
+	},
+	{
+		"filename": "o_rock_jungle_04.xvm",
+		"offset": 32062,
+		"length": 11072
+	},
+	{
+		"filename": "o_rock_jungle_05.xvm",
+		"offset": 32068,
+		"length": 11072
+	},
+	{
+		"filename": "o_rock_jungle_123.xvm",
+		"offset": 32074,
+		"length": 11072
+	},
+	{
+		"filename": "obj_abecon.xvm",
+		"offset": 32080,
+		"length": 26496
+	},
+	{
+		"filename": "obj_boss1_common.xvm",
+		"offset": 32093,
+		"length": 289344
+	},
+	{
+		"filename": "obj_boss1_common_a.xvm",
+		"offset": 32235,
+		"length": 270848
+	},
+	{
+		"filename": "obj_boss1_common_j.xvm",
+		"offset": 32368,
+		"length": 270848
+	},
+	{
+		"filename": "obj_boss2_common.xvm",
+		"offset": 32501,
+		"length": 749632
+	},
+	{
+		"filename": "obj_boss2_common_a.xvm",
+		"offset": 32868,
+		"length": 906752
+	},
+	{
+		"filename": "obj_boss5_common.xvm",
+		"offset": 33311,
+		"length": 322880
+	},
+	{
+		"filename": "obj_boss7_common.xvm",
+		"offset": 33469,
+		"length": 1084160
+	},
+	{
+		"filename": "obj_containerido.xvm",
+		"offset": 33999,
+		"length": 18816
+	},
+	{
+		"filename": "obj_door_ruins_green.xvm",
+		"offset": 34009,
+		"length": 33472
+	},
+	{
+		"filename": "obj_door_space_green.xvm",
+		"offset": 34026,
+		"length": 35584
+	},
+	{
+		"filename": "obj_jungle_bird.xvm",
+		"offset": 34044,
+		"length": 4288
+	},
+	{
+		"filename": "obj_jungle_ebi.xvm",
+		"offset": 34047,
+		"length": 2176
+	},
+	{
+		"filename": "obj_jungle_kamome.xvm",
+		"offset": 34049,
+		"length": 4288
+	},
+	{
+		"filename": "obj_lobby_main.xvm",
+		"offset": 34052,
+		"length": 148352
+	},
+	{
+		"filename": "obj_motorcycle.xvm",
+		"offset": 34125,
+		"length": 131328
+	},
+	{
+		"filename": "obj_o_labodoor_l_grn.xvm",
+		"offset": 34190,
+		"length": 22144
+	},
+	{
+		"filename": "obj_o_labodoor_l_red.xvm",
+		"offset": 34201,
+		"length": 22144
+	},
+	{
+		"filename": "obj_seabed_con.xvm",
+		"offset": 34212,
+		"length": 7168
+	},
+	{
+		"filename": "obj_seabed_con_rare.xvm",
+		"offset": 34216,
+		"length": 7168
+	},
+	{
+		"filename": "obj_seabed_dolphin.xvm",
+		"offset": 34220,
+		"length": 8320
+	},
+	{
+		"filename": "obj_seabed_suiso.xvm",
+		"offset": 34225,
+		"length": 113280
+	},
+	{
+		"filename": "obj_seabed_suiso_2.xvm",
+		"offset": 34281,
+		"length": 119360
+	},
+	{
+		"filename": "obj_seabed_turigane.xvm",
+		"offset": 34340,
+		"length": 14656
+	},
+	{
+		"filename": "patch.xvm",
+		"offset": 34348,
+		"length": 37056
+	},
+	{
+		"filename": "player_footstamp.xvm",
+		"offset": 34367,
+		"length": 2240
+	},
+	{
+		"filename": "radermapframe.xvm",
+		"offset": 34369,
+		"length": 1728
+	},
+	{
+		"filename": "re3_b_lappy_base_ao.xvm",
+		"offset": 34370,
+		"length": 33088
+	},
+	{
+		"filename": "re3_b_lappy_base_niji.xvm",
+		"offset": 34387,
+		"length": 33088
+	},
+	{
+		"filename": "re5_b_gunner_body_pika.xvm",
+		"offset": 34404,
+		"length": 33472
+	},
+	{
+		"filename": "robby_cat.xvm",
+		"offset": 34421,
+		"length": 3904
+	},
+	{
+		"filename": "robby_chu.xvm",
+		"offset": 34423,
+		"length": 5376
+	},
+	{
+		"filename": "rokeblue_pso_churoke.xvm",
+		"offset": 34426,
+		"length": 768
+	},
+	{
+		"filename": "rokeorange_churoke.xvm",
+		"offset": 34427,
+		"length": 768
+	},
+	{
+		"filename": "soft_ball.xvm",
+		"offset": 34428,
+		"length": 2176
+	},
+	{
+		"filename": "technic.xvm",
+		"offset": 34430,
+		"length": 9280
+	},
+	{
+		"filename": "technic_pt.xvm",
+		"offset": 34435,
+		"length": 17536
+	},
+	{
+		"filename": "tecregular.xvm",
+		"offset": 34444,
+		"length": 256
+	},
+	{
+		"filename": "test2.xvm",
+		"offset": 34445,
+		"length": 6400
+	},
+	{
+		"filename": "textureenglish.xvm",
+		"offset": 34449,
+		"length": 217472
+	},
+	{
+		"filename": "texturefrench.xvm",
+		"offset": 34556,
+		"length": 217472
+	},
+	{
+		"filename": "texturegerman.xvm",
+		"offset": 34663,
+		"length": 217472
+	},
+	{
+		"filename": "texturejapanese.xvm",
+		"offset": 34770,
+		"length": 217472
+	},
+	{
+		"filename": "texturespanish.xvm",
+		"offset": 34877,
+		"length": 217472
+	},
+	{
+		"filename": "title2.xvm",
+		"offset": 34984,
+		"length": 65664
+	},
+	{
+		"filename": "title2_eng.xvm",
+		"offset": 35017,
+		"length": 65664
+	}
+]

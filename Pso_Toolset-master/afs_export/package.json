@@ -1,0 +1,24 @@
+{
+  "name": "afs_export",
+  "version": "0.0.04",
+  "description": "Tool for extracting files from an afs archive",
+  "main": "afs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seiche/Pso_Toolset.git"
+  },
+  "keywords": [
+    "afs"
+  ],
+  "dependencies" : {
+  },
+  "author": "Benjamin Collins <seichestream@gmail.com>",
+  "license": "GPL-2.0",
+  "bin" : {
+    "afs_export" : "./afs.js"
+  },
+  "homepage": "https://github.com/seiche/Pso_Toolset/"
+}

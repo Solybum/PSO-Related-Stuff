@@ -1,0 +1,19 @@
+{
+  "name": "ninja-lib",
+  "version": "0.0.54",
+  "description": "library for converting various 3d and texture file formats along with required decompression methods",
+  "main": "ninja-lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kion",
+  "contributors" : ["Tofuman"],
+  "license": {
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/seiche/Ninja-Lib"
+  }
+}

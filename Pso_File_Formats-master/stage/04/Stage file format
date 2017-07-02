@@ -1,0 +1,27 @@
+Phantasy Star Online Version 2 for PC
+
+The files that we are interested in is the *n.rel files in the STAGE folder.
+
+n.rel files are pretty much packaged NJCM files into a wrapper, possibly with
+additional information for actions that take place inside the game such as foot
+steps or shadows. I have not confirmed this personally, I'm generally taking a
+guess as to what information is in the file that is not model information.
+
+Start by going to the end of the file -16 bytes
+There is a pointer to the head of the file.
+
+
+typedef struct {
+
+} NJS_MAP_SECTION
+
+typedef struct {
+
+} NJS_TEXTURE_LIST
+
+typedef struct {
+  unsigned int num_sections;
+  unsigned int magic_number; //..HD
+  NJS_MAP_SECTION** map_section;
+  NJS_TEXTURE_LIST*
+} NJS_STAGE_HEADER

@@ -1,0 +1,180 @@
+/*//NJA 0.73alpha1 NinjaAsciiDataMix (SI)*/
+
+/*// ROOT OBJECT : object_yaji_yaji1_yaji1 n(1) d(1) */
+
+MATERIAL    defmat_yaji_yaji1[]
+START
+
+MATSTART
+Diffuse   ( 255, 191, 191, 191 ),
+Specular  ( 255, 255, 255, 255 ),
+Exponent  (  6.0F ),
+AttrTexId ( 0x0, 0 ),
+AttrFlags ( 0x94000400 ),
+MATEND
+
+END
+
+
+OBJECT_START
+
+POLYGON     pg3_0_yaji_yaji1_yaji1[]
+START
+	6, 2, 0,
+	5, 9, 1,
+	10, 6, 0,
+	9, 13, 1,
+	14, 10, 0,
+	13, 17, 1,
+	18, 14, 0,
+	17, 21, 1,
+	22, 18, 0,
+	21, 25, 1,
+	3, 22, 0,
+	25, 15, 1,
+	19, 3, 0,
+	15, 23, 1,
+	2, 19, 0,
+	23, 5, 1,
+END
+
+POLYGON     pg4_0_yaji_yaji1_yaji1[]
+START
+	2, 6, 4, 8,
+	4, 8, 5, 9,
+	6, 10, 8, 12,
+	8, 12, 9, 13,
+	10, 14, 12, 16,
+	12, 16, 13, 17,
+	14, 18, 16, 20,
+	16, 20, 17, 21,
+	18, 22, 20, 24,
+	20, 24, 21, 25,
+	22, 3, 24, 11,
+	24, 11, 25, 15,
+	3, 19, 11, 7,
+	11, 7, 15, 23,
+	19, 2, 7, 4,
+	7, 4, 23, 5,
+END
+
+MESHSET     meshset_yaji_yaji1_yaji1[]
+START
+
+MESHSTART
+TypeMatId ( 0x0000, 0 ),
+MeshNum     16,
+Meshes      pg3_0_yaji_yaji1_yaji1,
+PolyAttrs   NULL,
+PolyNormal  NULL,
+VertColor   NULL,
+VertUV      NULL,
+MESHEND
+
+MESHSTART
+TypeMatId ( 0x4000, 0 ),
+MeshNum     16,
+Meshes      pg4_0_yaji_yaji1_yaji1,
+PolyAttrs   NULL,
+PolyNormal  NULL,
+VertColor   NULL,
+VertUV      NULL,
+MESHEND
+
+END
+
+POINT       point_yaji_yaji1_yaji1[]
+START
+	VERT(  0.000000F, -2.500000F,  0.000000F ),
+	VERT(  0.000000F,  3.814737F,  0.000000F ),
+	VERT(  1.000000F, -2.500000F,  0.000000F ),
+	VERT(  0.000000F, -2.500000F,  1.000000F ),
+	VERT(  1.000000F,  0.833333F,  0.000000F ),
+	VERT(  2.000000F,  0.839279F,  0.000000F ),
+	VERT(  0.707107F, -2.500000F, -0.707107F ),
+	VERT(  0.707107F,  0.833333F,  0.707107F ),
+	VERT(  0.707107F,  0.833333F, -0.707107F ),
+	VERT(  1.414214F,  0.839279F, -1.414214F ),
+	VERT(  0.000000F, -2.500000F, -1.000000F ),
+	VERT(  0.000000F,  0.833333F,  1.000000F ),
+	VERT(  0.000000F,  0.833333F, -1.000000F ),
+	VERT(  0.000000F,  0.839279F, -2.000000F ),
+	VERT( -0.707107F, -2.500000F, -0.707107F ),
+	VERT(  0.000000F,  0.839279F,  2.000000F ),
+	VERT( -0.707107F,  0.833333F, -0.707107F ),
+	VERT( -1.414213F,  0.839279F, -1.414213F ),
+	VERT( -1.000000F, -2.500000F,  0.000000F ),
+	VERT(  0.707107F, -2.500000F,  0.707107F ),
+	VERT( -1.000000F,  0.833333F,  0.000000F ),
+	VERT( -2.000000F,  0.839279F,  0.000000F ),
+	VERT( -0.707107F, -2.500000F,  0.707107F ),
+	VERT(  1.414213F,  0.839279F,  1.414213F ),
+	VERT( -0.707107F,  0.833333F,  0.707107F ),
+	VERT( -1.414213F,  0.839279F,  1.414213F ),
+END
+
+NORMAL      normal_yaji_yaji1_yaji1[]
+START
+	NORM(  0.000000F, -1.000000F,  0.000000F ),
+	NORM(  0.000000F,  1.000000F,  0.000000F ),
+	NORM(  0.776382F, -0.630263F,  0.000000F ),
+	NORM(  0.000000F, -0.630263F,  0.776382F ),
+	NORM(  0.597466F, -0.801895F,  0.000000F ),
+	NORM(  0.917931F, -0.396740F,  0.000000F ),
+	NORM(  0.548985F, -0.630262F, -0.548985F ),
+	NORM(  0.422472F, -0.801895F,  0.422472F ),
+	NORM(  0.422472F, -0.801895F, -0.422472F ),
+	NORM(  0.649075F, -0.396740F, -0.649075F ),
+	NORM(  0.000000F, -0.630263F, -0.776382F ),
+	NORM(  0.000000F, -0.801895F,  0.597466F ),
+	NORM(  0.000000F, -0.801895F, -0.597466F ),
+	NORM(  0.000000F, -0.396740F, -0.917931F ),
+	NORM( -0.548985F, -0.630262F, -0.548985F ),
+	NORM(  0.000000F, -0.396740F,  0.917931F ),
+	NORM( -0.422472F, -0.801895F, -0.422472F ),
+	NORM( -0.649075F, -0.396740F, -0.649075F ),
+	NORM( -0.776382F, -0.630263F,  0.000000F ),
+	NORM(  0.548985F, -0.630262F,  0.548985F ),
+	NORM( -0.597466F, -0.801895F,  0.000000F ),
+	NORM( -0.917931F, -0.396740F,  0.000000F ),
+	NORM( -0.548985F, -0.630263F,  0.548985F ),
+	NORM(  0.649075F, -0.396740F,  0.649075F ),
+	NORM( -0.422472F, -0.801895F,  0.422472F ),
+	NORM( -0.649075F, -0.396740F,  0.649075F ),
+END
+
+MODEL       model_yaji_yaji1_yaji1[]
+START
+Points      point_yaji_yaji1_yaji1,
+Normal      normal_yaji_yaji1_yaji1,
+PointNum    26,
+Meshset     meshset_yaji_yaji1_yaji1,
+Materials   defmat_yaji_yaji1,
+MeshsetNum  2,
+MatNum      0,
+Center       0.000000F,  0.657369F,  0.000000F,
+Radius       3.737509F,
+END
+
+OBJECT      object_arrow[]
+START
+EvalFlags ( 0x00000017 ),
+Model       model_yaji_yaji1_yaji1,
+OPosition  (  0.000000F,  0.000000F,  0.000000F ),
+OAngle     (  0.000000F,  0.000000F,  0.000000F ),
+OScale     (  1.000000F,  1.000000F,  1.000000F ),
+Child       NULL,
+Sibling     NULL,
+END
+
+OBJECT_END
+
+
+DEFAULT_START
+
+#ifndef DEFAULT_OBJECT_NAME
+#define DEFAULT_OBJECT_NAME object_yaji_yaji1_yaji1
+#endif
+
+DEFAULT_END
+

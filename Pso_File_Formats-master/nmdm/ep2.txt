@@ -1,0 +1,54 @@
+NMDM
+End of file location 8524
+Pointer to motion data 12
+Number of frames 40
+2c040000
+64050000
+f4050000
+0c070000
+4c080000
+3c090000
+540a0000
+8c0b0000
+bc0c0000
+fc0d0000
+2c0f0000
+5c100000
+9c110000
+d4120000
+fc130000
+3c150000
+7c160000
+ac170000
+ec180000
+f4190000
+341b0000
+741c0000
+b41d0000
+f41e0000
+0c200000
+[ { pointer: 1068, unkown1: 0, frames: 39, unkown2: 0 },
+  { pointer: 1380, unkown1: 0, frames: 18, unkown2: 0 },
+  { pointer: 1524, unkown1: 0, frames: 35, unkown2: 0 },
+  { pointer: 1804, unkown1: 0, frames: 40, unkown2: 0 },
+  { pointer: 2124, unkown1: 0, frames: 30, unkown2: 0 },
+  { pointer: 2364, unkown1: 0, frames: 35, unkown2: 0 },
+  { pointer: 2644, unkown1: 0, frames: 39, unkown2: 0 },
+  { pointer: 2956, unkown1: 0, frames: 38, unkown2: 0 },
+  { pointer: 3260, unkown1: 0, frames: 40, unkown2: 0 },
+  { pointer: 3580, unkown1: 0, frames: 38, unkown2: 0 },
+  { pointer: 3884, unkown1: 0, frames: 38, unkown2: 0 },
+  { pointer: 4188, unkown1: 0, frames: 40, unkown2: 0 },
+  { pointer: 4508, unkown1: 0, frames: 39, unkown2: 0 },
+  { pointer: 4820, unkown1: 0, frames: 37, unkown2: 0 },
+  { pointer: 5116, unkown1: 0, frames: 40, unkown2: 0 },
+  { pointer: 5436, unkown1: 0, frames: 40, unkown2: 0 },
+  { pointer: 5756, unkown1: 0, frames: 38, unkown2: 0 },
+  { pointer: 6060, unkown1: 0, frames: 40, unkown2: 0 },
+  { pointer: 6380, unkown1: 0, frames: 33, unkown2: 0 },
+  { pointer: 6644, unkown1: 0, frames: 40, unkown2: 0 },
+  { pointer: 6964, unkown1: 0, frames: 40, unkown2: 0 },
+  { pointer: 7284, unkown1: 0, frames: 40, unkown2: 0 },
+  { pointer: 7604, unkown1: 0, frames: 40, unkown2: 0 },
+  { pointer: 7924, unkown1: 0, frames: 35, unkown2: 0 },
+  { pointer: 8204, unkown1: 0, frames: 40, unkown2: 0 } ]

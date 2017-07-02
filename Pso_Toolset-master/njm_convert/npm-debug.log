@@ -1,0 +1,790 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'cache',
+1 verbose cli   'clean' ]
+2 info using npm@2.14.4
+3 info using node@v4.1.1
+4 silly ls normalized .
+5 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\_locks is being purged
+6 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\_locks
+7 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\abbrev is being purged
+8 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\abbrev
+9 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\afs_export is being purged
+10 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\afs_export
+11 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\ansi is being purged
+12 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\ansi
+13 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\ansi-regex is being purged
+14 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\ansi-regex
+15 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\ansi-styles is being purged
+16 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\ansi-styles
+17 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\archiver is being purged
+18 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\archiver
+19 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\are-we-there-yet is being purged
+20 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\are-we-there-yet
+21 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\arguments-extended is being purged
+22 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\arguments-extended
+23 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\array-extended is being purged
+24 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\array-extended
+25 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\array-index is being purged
+26 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\array-index
+27 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\asn1 is being purged
+28 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\asn1
+29 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\assert-plus is being purged
+30 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\assert-plus
+31 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\async is being purged
+32 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\async
+33 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\aws-sign2 is being purged
+34 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\aws-sign2
+35 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\balanced-match is being purged
+36 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\balanced-match
+37 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\binary is being purged
+38 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\binary
+39 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\bindings is being purged
+40 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\bindings
+41 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\bl is being purged
+42 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\bl
+43 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\block-stream is being purged
+44 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\block-stream
+45 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\bluebird is being purged
+46 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\bluebird
+47 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\bml_export is being purged
+48 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\bml_export
+49 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\boom is being purged
+50 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\boom
+51 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\brace-expansion is being purged
+52 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\brace-expansion
+53 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\buffer-crc32 is being purged
+54 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\buffer-crc32
+55 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\buffers is being purged
+56 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\buffers
+57 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\canvas is being purged
+58 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\canvas
+59 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\caseless is being purged
+60 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\caseless
+61 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\chainsaw is being purged
+62 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\chainsaw
+63 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\chalk is being purged
+64 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\chalk
+65 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\clone is being purged
+66 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\clone
+67 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\combined-stream is being purged
+68 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\combined-stream
+69 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\commander is being purged
+70 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\commander
+71 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\compress-commons is being purged
+72 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\compress-commons
+73 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\concat-map is being purged
+74 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\concat-map
+75 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\core-util-is is being purged
+76 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\core-util-is
+77 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\crc32-stream is being purged
+78 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\crc32-stream
+79 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\cryptiles is being purged
+80 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\cryptiles
+81 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\ctype is being purged
+82 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\ctype
+83 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\curlrequest is being purged
+84 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\curlrequest
+85 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\date-extended is being purged
+86 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\date-extended
+87 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\debug is being purged
+88 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\debug
+89 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\decimal.js is being purged
+90 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\decimal.js
+91 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\declare.js is being purged
+92 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\declare.js
+93 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\delayed-stream is being purged
+94 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\delayed-stream
+95 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\delegates is being purged
+96 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\delegates
+97 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\dxt is being purged
+98 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\dxt
+99 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\end-of-stream is being purged
+100 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\end-of-stream
+101 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\escape-string-regexp is being purged
+102 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\escape-string-regexp
+103 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\exceljs is being purged
+104 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\exceljs
+105 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\extend is being purged
+106 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\extend
+107 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\extended is being purged
+108 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\extended
+109 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\extender is being purged
+110 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\extender
+111 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\fast-csv is being purged
+112 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\fast-csv
+113 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\filepointer is being purged
+114 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\filepointer
+115 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\forever-agent is being purged
+116 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\forever-agent
+117 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\form-data is being purged
+118 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\form-data
+119 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\fraction.js is being purged
+120 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\fraction.js
+121 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\fstream is being purged
+122 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\fstream
+123 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\gauge is being purged
+124 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\gauge
+125 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\generate-function is being purged
+126 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\generate-function
+127 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\generate-object-property is being purged
+128 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\generate-object-property
+129 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\glob is being purged
+130 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\glob
+131 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\graceful-fs is being purged
+132 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\graceful-fs
+133 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\graceful-readlink is being purged
+134 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\graceful-readlink
+135 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\gsl_export is being purged
+136 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\gsl_export
+137 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\har-validator is being purged
+138 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\har-validator
+139 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\has-ansi is being purged
+140 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\has-ansi
+141 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\has-unicode is being purged
+142 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\has-unicode
+143 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\hawk is being purged
+144 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\hawk
+145 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\hexcel is being purged
+146 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\hexcel
+147 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\hoek is being purged
+148 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\hoek
+149 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\http-signature is being purged
+150 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\http-signature
+151 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\inflight is being purged
+152 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\inflight
+153 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\inherits is being purged
+154 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\inherits
+155 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\is-absolute is being purged
+156 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\is-absolute
+157 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\is-extended is being purged
+158 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\is-extended
+159 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\is-my-json-valid is being purged
+160 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\is-my-json-valid
+161 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\is-property is being purged
+162 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\is-property
+163 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\is-relative is being purged
+164 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\is-relative
+165 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\isarray is being purged
+166 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\isarray
+167 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\isstream is being purged
+168 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\isstream
+169 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\jpeg-js is being purged
+170 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\jpeg-js
+171 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\json-stringify-safe is being purged
+172 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\json-stringify-safe
+173 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\jsonpointer is being purged
+174 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\jsonpointer
+175 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\keypress is being purged
+176 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\keypress
+177 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\lazystream is being purged
+178 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\lazystream
+179 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash is being purged
+180 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash
+181 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash._basetostring is being purged
+182 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash._basetostring
+183 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash._createpadding is being purged
+184 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash._createpadding
+185 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash.pad is being purged
+186 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash.pad
+187 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash.padleft is being purged
+188 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash.padleft
+189 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash.padright is being purged
+190 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash.padright
+191 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash.repeat is being purged
+192 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash.repeat
+193 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\lru-cache is being purged
+194 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\lru-cache
+195 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\match-stream is being purged
+196 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\match-stream
+197 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\mathjs is being purged
+198 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\mathjs
+199 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\mime-db is being purged
+200 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\mime-db
+201 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\mime-types is being purged
+202 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\mime-types
+203 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\minimatch is being purged
+204 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\minimatch
+205 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\minimist is being purged
+206 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\minimist
+207 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\mkdirp is being purged
+208 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\mkdirp
+209 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\moment is being purged
+210 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\moment
+211 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\ms is being purged
+212 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\ms
+213 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\nan is being purged
+214 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\nan
+215 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\ninja-lib is being purged
+216 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\ninja-lib
+217 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\njm_convert is being purged
+218 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\njm_convert
+219 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\node-curl is being purged
+220 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\node-curl
+221 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\node-gyp is being purged
+222 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\node-gyp
+223 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\node-int64 is being purged
+224 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\node-int64
+225 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\node-libcurl is being purged
+226 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\node-libcurl
+227 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\node-uuid is being purged
+228 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\node-uuid
+229 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\nodejs-websocket is being purged
+230 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\nodejs-websocket
+231 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\nopt is being purged
+232 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\nopt
+233 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\npmlog is being purged
+234 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\npmlog
+235 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\oauth-sign is being purged
+236 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\oauth-sign
+237 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\object-extended is being purged
+238 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\object-extended
+239 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\once is being purged
+240 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\once
+241 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\os-homedir is being purged
+242 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\os-homedir
+243 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\os-tmpdir is being purged
+244 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\os-tmpdir
+245 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\osenv is being purged
+246 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\osenv
+247 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\over is being purged
+248 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\over
+249 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\path-array is being purged
+250 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\path-array
+251 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\path-is-absolute is being purged
+252 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\path-is-absolute
+253 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\pinkie is being purged
+254 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\pinkie
+255 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\pinkie-promise is being purged
+256 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\pinkie-promise
+257 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\ply_motion is being purged
+258 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\ply_motion
+259 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\png is being purged
+260 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\png
+261 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\pngjs is being purged
+262 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\pngjs
+263 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\process-nextick-args is being purged
+264 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\process-nextick-args
+265 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\pullstream is being purged
+266 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\pullstream
+267 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\pvm_export is being purged
+268 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\pvm_export
+269 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\qs is being purged
+270 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\qs
+271 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\readable-stream is being purged
+272 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\readable-stream
+273 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\registry.npmjs.org is being purged
+274 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\registry.npmjs.org
+275 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\request is being purged
+276 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\request
+277 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\rimraf is being purged
+278 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\rimraf
+279 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\sax is being purged
+280 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\sax
+281 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\semver is being purged
+282 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\semver
+283 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\setimmediate is being purged
+284 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\setimmediate
+285 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\sigmund is being purged
+286 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\sigmund
+287 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\slice-stream is being purged
+288 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\slice-stream
+289 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\sntp is being purged
+290 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\sntp
+291 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\string-extended is being purged
+292 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\string-extended
+293 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\string_decoder is being purged
+294 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\string_decoder
+295 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\stringstream is being purged
+296 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\stringstream
+297 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\strip-ansi is being purged
+298 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\strip-ansi
+299 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\supports-color is being purged
+300 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\supports-color
+301 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\tar is being purged
+302 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\tar
+303 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\tar-stream is being purged
+304 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\tar-stream
+305 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\tiny-emitter is being purged
+306 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\tiny-emitter
+307 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\tough-cookie is being purged
+308 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\tough-cookie
+309 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\traverse is being purged
+310 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\traverse
+311 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\tunnel-agent is being purged
+312 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\tunnel-agent
+313 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\typed-function is being purged
+314 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\typed-function
+315 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\underscore is being purged
+316 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\underscore
+317 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\unzip is being purged
+318 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\unzip
+319 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\util-deprecate is being purged
+320 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\util-deprecate
+321 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\which is being purged
+322 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\which
+323 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\winser is being purged
+324 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\winser
+325 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\wrappy is being purged
+326 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\wrappy
+327 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\xtend is being purged
+328 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\xtend
+329 silly gentlyRm C:\Users\Benjamin\AppData\Roaming\npm-cache\zip-stream is being purged
+330 verbose gentlyRm don't care about contents; nuking C:\Users\Benjamin\AppData\Roaming\npm-cache\zip-stream
+331 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\_locks
+332 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\afs_export
+333 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\abbrev
+334 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\ansi
+335 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\ansi-regex
+336 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\ansi-styles
+337 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\archiver
+338 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\are-we-there-yet
+339 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\arguments-extended
+340 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\array-extended
+341 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\array-index
+342 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\asn1
+343 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\assert-plus
+344 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\async
+345 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\balanced-match
+346 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\aws-sign2
+347 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\binary
+348 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\bindings
+349 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\bl
+350 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\block-stream
+351 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\bluebird
+352 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\bml_export
+353 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\boom
+354 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\brace-expansion
+355 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\buffer-crc32
+356 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\buffers
+357 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\canvas
+358 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\caseless
+359 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\chainsaw
+360 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\chalk
+361 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\clone
+362 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\combined-stream
+363 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\commander
+364 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\compress-commons
+365 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\concat-map
+366 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\core-util-is
+367 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\crc32-stream
+368 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\cryptiles
+369 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\ctype
+370 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\curlrequest
+371 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\date-extended
+372 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\debug
+373 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\decimal.js
+374 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\declare.js
+375 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\delayed-stream
+376 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\dxt
+377 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\delegates
+378 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\end-of-stream
+379 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\escape-string-regexp
+380 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\exceljs
+381 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\extend
+382 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\fast-csv
+383 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\extended
+384 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\extender
+385 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\filepointer
+386 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\forever-agent
+387 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\form-data
+388 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\fraction.js
+389 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\fstream
+390 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\generate-function
+391 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\gauge
+392 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\generate-object-property
+393 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\graceful-fs
+394 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\graceful-readlink
+395 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\glob
+396 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\gsl_export
+397 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\har-validator
+398 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\has-ansi
+399 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\has-unicode
+400 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\hawk
+401 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\hexcel
+402 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\hoek
+403 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\http-signature
+404 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\inflight
+405 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\inherits
+406 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\is-absolute
+407 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\is-my-json-valid
+408 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\is-extended
+409 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\is-property
+410 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\is-relative
+411 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\isarray
+412 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\isstream
+413 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\jpeg-js
+414 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\jsonpointer
+415 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\json-stringify-safe
+416 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\keypress
+417 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\lazystream
+418 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash
+419 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash._basetostring
+420 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash.padleft
+421 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash.pad
+422 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash.padright
+423 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash._createpadding
+424 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\lru-cache
+425 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\mathjs
+426 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\match-stream
+427 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\lodash.repeat
+428 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\minimatch
+429 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\mime-types
+430 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\mime-db
+431 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\minimist
+432 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\mkdirp
+433 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\ms
+434 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\moment
+435 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\nan
+436 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\njm_convert
+437 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\node-curl
+438 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\node-gyp
+439 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\ninja-lib
+440 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\node-int64
+441 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\node-libcurl
+442 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\node-uuid
+443 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\nodejs-websocket
+444 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\nopt
+445 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\npmlog
+446 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\oauth-sign
+447 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\object-extended
+448 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\once
+449 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\os-tmpdir
+450 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\over
+451 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\osenv
+452 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\os-homedir
+453 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\path-array
+454 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\path-is-absolute
+455 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\pinkie
+456 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\pinkie-promise
+457 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\png
+458 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\ply_motion
+459 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\process-nextick-args
+460 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\pullstream
+461 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\pngjs
+462 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\pvm_export
+463 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\qs
+464 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\registry.npmjs.org
+465 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\readable-stream
+466 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\request
+467 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\rimraf
+468 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\sax
+469 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\semver
+470 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\sigmund
+471 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\setimmediate
+472 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\sntp
+473 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\slice-stream
+474 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\string-extended
+475 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\string_decoder
+476 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\stringstream
+477 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\strip-ansi
+478 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\supports-color
+479 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\tar
+480 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\tar-stream
+481 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\tiny-emitter
+482 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\tough-cookie
+483 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\traverse
+484 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\tunnel-agent
+485 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\typed-function
+486 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\underscore
+487 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\unzip
+488 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\util-deprecate
+489 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\which
+490 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\wrappy
+491 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\winser
+492 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\zip-stream
+493 silly vacuum-fs purging C:\Users\Benjamin\AppData\Roaming\npm-cache\xtend
+494 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+495 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+496 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+497 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+498 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+499 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+500 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+501 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+502 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+503 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+504 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+505 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+506 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+507 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+508 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+509 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+510 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+511 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+512 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+513 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+514 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+515 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+516 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+517 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+518 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+519 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+520 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+521 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+522 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+523 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+524 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+525 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+526 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+527 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+528 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+529 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+530 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+531 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+532 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+533 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+534 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+535 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+536 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+537 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+538 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+539 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+540 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+541 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+542 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+543 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+544 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+545 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming\npm-cache
+546 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+547 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+548 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+549 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+550 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+551 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+552 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+553 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+554 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+555 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+556 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+557 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+558 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+559 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+560 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+561 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+562 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+563 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+564 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+565 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+566 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+567 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+568 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+569 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+570 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+571 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+572 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+573 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+574 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+575 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+576 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+577 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+578 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+579 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+580 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+581 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+582 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+583 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+584 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+585 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+586 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+587 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+588 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+589 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+590 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+591 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+592 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+593 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+594 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+595 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+596 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+597 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+598 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+599 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+600 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+601 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+602 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+603 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+604 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+605 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+606 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+607 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+608 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+609 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+610 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+611 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+612 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+613 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+614 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+615 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+616 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+617 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+618 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+619 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+620 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+621 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+622 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+623 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+624 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+625 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+626 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+627 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+628 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+629 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+630 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+631 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+632 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+633 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+634 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+635 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+636 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+637 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+638 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+639 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+640 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+641 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+642 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+643 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+644 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+645 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+646 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+647 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+648 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+649 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+650 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+651 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+652 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+653 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+654 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+655 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+656 silly vacuum-fs removing C:\Users\Benjamin\AppData\Roaming\npm-cache
+657 silly vacuum-fs unable to lstat C:\Users\Benjamin\AppData\Roaming\npm-cache due to EPERM: operation not permitted, lstat 'C:\Users\Benjamin\AppData\Roaming\npm-cache'
+658 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+659 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+660 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+661 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+662 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+663 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+664 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+665 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+666 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+667 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+668 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+669 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+670 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+671 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+672 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+673 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+674 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+675 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+676 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+677 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+678 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+679 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+680 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+681 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+682 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+683 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+684 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+685 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+686 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+687 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+688 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+689 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+690 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+691 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+692 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+693 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+694 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+695 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+696 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+697 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+698 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+699 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+700 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+701 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+702 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+703 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+704 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+705 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+706 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+707 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+708 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+709 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+710 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+711 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+712 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+713 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+714 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+715 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+716 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+717 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+718 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+719 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+720 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+721 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+722 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+723 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+724 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+725 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+726 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+727 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+728 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+729 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+730 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+731 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+732 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+733 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+734 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+735 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+736 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+737 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+738 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+739 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+740 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+741 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+742 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+743 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+744 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+745 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+746 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+747 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+748 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+749 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+750 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+751 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+752 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+753 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+754 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+755 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+756 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+757 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+758 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+759 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+760 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+761 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+762 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+763 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+764 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+765 silly vacuum-fs quitting because lost the race to remove C:\Users\Benjamin\AppData\Roaming\npm-cache
+766 silly vacuum-fs quitting because other entries in C:\Users\Benjamin\AppData\Roaming
+767 verbose stack Error: EPERM: operation not permitted, lstat 'C:\Users\Benjamin\AppData\Roaming\npm-cache'
+767 verbose stack     at Error (native)
+768 verbose cwd C:\Users\Benjamin\Documents\GitHub\Pso_Toolset\njm_convert
+769 error Windows_NT 10.0.10240
+770 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "cache" "clean"
+771 error node v4.1.1
+772 error npm  v2.14.4
+773 error path C:\Users\Benjamin\AppData\Roaming\npm-cache
+774 error code EPERM
+775 error errno -4048
+776 error syscall lstat
+777 error Error: EPERM: operation not permitted, lstat 'C:\Users\Benjamin\AppData\Roaming\npm-cache'
+777 error     at Error (native)
+777 error  { [Error: EPERM: operation not permitted, lstat 'C:\Users\Benjamin\AppData\Roaming\npm-cache']
+777 error   errno: -4048,
+777 error   code: 'EPERM',
+777 error   syscall: 'lstat',
+777 error   path: 'C:\\Users\\Benjamin\\AppData\\Roaming\\npm-cache' }
+778 error Please try running this command again as root/Administrator.
+779 verbose exit [ -4048, true ]

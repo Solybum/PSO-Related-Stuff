@@ -1,0 +1,191 @@
+{ flags: 
+   { skip_pos: 0,
+     skip_ang: 1,
+     skip_scl: 1,
+     hide: 0,
+     eval_break: 0,
+     lightwave_zxy: 0,
+     skip_motion: 0,
+     skip_shape: 0 },
+  model: 
+   { a_dword: 0,
+     vertex_list: 
+      { flag_a: [Object],
+        list: [Object],
+        flag_b: [Object],
+        num_verts: 6 },
+     vtemp: 1,
+     list_a: 
+      { text_list: '1b20',
+        unkown: 4,
+        indice_list: [Object],
+        indice_num: 18 },
+     text_a: 1,
+     list_b: 0,
+     text_b: 0,
+     center: 
+      [ 9.999999974752427e-7,
+        -0.07341399788856506,
+        -1.6849100589752197 ],
+     radius: 3.977134943008423 },
+  position: [ 0, 0, -0.061831001192331314 ],
+  angle: [ 0, 0, 0 ],
+  scale: [ '1.000000', '1.000000', '1.000000' ],
+  child: 56,
+  sibling: 0,
+  id: 0 }
+{ skip_pos: 0,
+  skip_ang: 1,
+  skip_scl: 1,
+  hide: 0,
+  eval_break: 0,
+  lightwave_zxy: 0,
+  skip_motion: 0,
+  skip_shape: 0 }
+{ pos: [ 0, 0, -0.061831001192331314 ] }
+{ angle: [ 0, 0, 0 ] }
+
+a flags
+{ skip_pos: 1,
+  skip_ang: 1,
+  skip_scl: 1,
+  hide: 0,
+  eval_break: 0,
+  lightwave_zxy: 0,
+  skip_motion: 0,
+  skip_shape: 0 }
+parent 0
+{ skip_pos: 0,
+  skip_ang: 0,
+  skip_scl: 1,
+  hide: 0,
+  eval_break: 0,
+  lightwave_zxy: 0,
+  skip_motion: 0,
+  skip_shape: 0 }
+{ pos: [ 0.000003999999989900971, 0, 6 ] }
+{ angle: [ 16384, 0, 0 ] }
+
+a flags
+{ skip_pos: 1,
+  skip_ang: 1,
+  skip_scl: 1,
+  hide: 0,
+  eval_break: 0,
+  lightwave_zxy: 0,
+  skip_motion: 0,
+  skip_shape: 0 }
+parent 1
+{ skip_pos: 0,
+  skip_ang: 0,
+  skip_scl: 1,
+  hide: 0,
+  eval_break: 0,
+  lightwave_zxy: 0,
+  skip_motion: 0,
+  skip_shape: 0 }
+{ pos: [ -0.00943399965763092, 5.046088218688965, 0.03842400014400482 ] }
+{ angle: [ 0, 0, -10922 ] }
+
+a flags
+{ skip_pos: 1,
+  skip_ang: 1,
+  skip_scl: 1,
+  hide: 0,
+  eval_break: 0,
+  lightwave_zxy: 0,
+  skip_motion: 0,
+  skip_shape: 0 }
+parent 2
+{ skip_pos: 1,
+  skip_ang: 1,
+  skip_scl: 1,
+  hide: 0,
+  eval_break: 1,
+  lightwave_zxy: 0,
+  skip_motion: 0,
+  skip_shape: 0 }
+{ pos: [ -0, 0, -0 ] }
+{ angle: [ 0, 0, 0 ] }
+
+b flags
+{ skip_pos: 0,
+  skip_ang: 0,
+  skip_scl: 1,
+  hide: 0,
+  eval_break: 0,
+  lightwave_zxy: 1,
+  skip_motion: 0,
+  skip_shape: 0 }
+sibling 2
+{ skip_pos: 1,
+  skip_ang: 1,
+  skip_scl: 1,
+  hide: 0,
+  eval_break: 1,
+  lightwave_zxy: 0,
+  skip_motion: 0,
+  skip_shape: 0 }
+{ pos: [ 0, 0, 0 ] }
+{ angle: [ 0, 0, 0 ] }
+
+a flags
+{ skip_pos: 1,
+  skip_ang: 1,
+  skip_scl: 1,
+  hide: 0,
+  eval_break: 0,
+  lightwave_zxy: 0,
+  skip_motion: 0,
+  skip_shape: 0 }
+b flags
+{ skip_pos: 0,
+  skip_ang: 0,
+  skip_scl: 1,
+  hide: 0,
+  eval_break: 0,
+  lightwave_zxy: 1,
+  skip_motion: 0,
+  skip_shape: 0 }
+sibling 4
+{ skip_pos: 0,
+  skip_ang: 0,
+  skip_scl: 1,
+  hide: 0,
+  eval_break: 0,
+  lightwave_zxy: 0,
+  skip_motion: 0,
+  skip_shape: 0 }
+{ pos: [ 0.00943399965763092, 5.04608678817749, 0.03842400014400482 ] }
+{ angle: [ 0, 0, 10922 ] }
+
+a flags
+{ skip_pos: 1,
+  skip_ang: 1,
+  skip_scl: 1,
+  hide: 0,
+  eval_break: 0,
+  lightwave_zxy: 0,
+  skip_motion: 0,
+  skip_shape: 0 }
+parent 5
+{ skip_pos: 1,
+  skip_ang: 1,
+  skip_scl: 1,
+  hide: 0,
+  eval_break: 1,
+  lightwave_zxy: 0,
+  skip_motion: 0,
+  skip_shape: 0 }
+{ pos: [ -0, 9.999999974752427e-7, 0 ] }
+{ angle: [ 0, 0, 0 ] }
+
+b flags
+{ skip_pos: 0,
+  skip_ang: 0,
+  skip_scl: 1,
+  hide: 0,
+  eval_break: 0,
+  lightwave_zxy: 1,
+  skip_motion: 0,
+  skip_shape: 0 }

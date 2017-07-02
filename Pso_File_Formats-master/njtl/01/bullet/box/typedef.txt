@@ -1,0 +1,66 @@
+typedef XYZ_Coord {
+  X : Single
+  Y : Single
+  Z : Single
+}
+
+typedef ABC {
+  X : (DWord & 0xFFFF) * 0.005493164
+  Y : (DWord & 0xFFFF) * 0.005493164
+  Z : (DWord & 0xFFFF) * 0.005493164
+}
+
+typedef Node{
+  EvalFlag : DWord
+  Model : DWord
+  Position : Single[3]
+  Angle : Sint32[3]
+  Scale : Single[3]
+  Child : DWord
+  Sibling : DWord
+}
+
+typedef Model{
+  Vert_List : DWord
+  Mesh_List : DWord
+  Center : Single[3]
+  Radius : Single
+}
+
+typedef RGBA{
+  R : Byte
+  G : Byte
+  B : Byte
+  A : Byte
+}
+
+typedef strip {
+  Unknow1 : Word
+  Unknow2 : Word
+  Unknow3 : Word
+  Num_Index : Word
+  Array[] : {Pos,Norm}
+}
+
+Flags:
+F = F & 0x1FF
+"Translate : " & MakeYN(Not BitTest(F, 0)) & ", "
+"Rotate    : " & MakeYN(Not BitTest(F, 1)) & ", "
+"Scale     : " & MakeYN(Not BitTest(F, 2)) & ", "
+"Draw      : " & MakeYN(Not BitTest(F, 3)) & ", "
+"Trace     : " & MakeYN(Not BitTest(F, 4)) & ", "
+"LWO Order : " & MakeYN(BitTest(F, 5)) & ", "
+"Skip      : " & MakeYN(BitTest(F, 6)) & ", "
+"Shape Skip: " & MakeYN(BitTest(F, 7)) & ", "
+"Clip      : " & MakeYN(BitTest(F, 8))
+
+/* NJTLx Log */
+
+Null[1]
+Vertex : 260
+Template : 01
+Mesh : 2E0 (B)
+Template : 01
+Null[2]
+Center Single[3]
+Radius Single

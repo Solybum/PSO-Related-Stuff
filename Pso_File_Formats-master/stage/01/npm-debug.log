@@ -1,0 +1,701 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'fs-ext',
+1 verbose cli   '-msvs_version=2012' ]
+2 info using npm@2.11.3
+3 info using node@v0.12.7
+4 verbose install initial load of C:\Users\kion\Documents\Pso_File_Formats\stage\package.json
+5 verbose readDependencies loading dependencies from C:\Users\kion\Documents\Pso_File_Formats\stage\package.json
+6 silly cache add args [ 'fs-ext', null ]
+7 verbose cache add spec fs-ext
+8 silly cache add parsed spec { raw: 'fs-ext',
+8 silly cache add   scope: null,
+8 silly cache add   name: 'fs-ext',
+8 silly cache add   rawSpec: '',
+8 silly cache add   spec: '*',
+8 silly cache add   type: 'range' }
+9 silly addNamed fs-ext@*
+10 verbose addNamed "*" is a valid semver range for fs-ext
+11 silly addNameRange { name: 'fs-ext', range: '*', hasData: false }
+12 silly mapToRegistry name fs-ext
+13 silly mapToRegistry using default registry
+14 silly mapToRegistry registry https://registry.npmjs.org/
+15 silly mapToRegistry uri https://registry.npmjs.org/fs-ext
+16 verbose addNameRange registry:https://registry.npmjs.org/fs-ext not in flight; fetching
+17 verbose request uri https://registry.npmjs.org/fs-ext
+18 verbose request no auth needed
+19 info attempt registry request try #1 at 06:05:56
+20 verbose request id df71112d2f752a98
+21 verbose etag "6M7IUX5M7A2VJMLSM34ZDIOV6"
+22 http request GET https://registry.npmjs.org/fs-ext
+23 http 304 https://registry.npmjs.org/fs-ext
+24 silly get cb [ 304,
+24 silly get   { date: 'Thu, 27 Aug 2015 21:05:56 GMT',
+24 silly get     via: '1.1 varnish',
+24 silly get     'cache-control': 'max-age=60',
+24 silly get     etag: '"6M7IUX5M7A2VJMLSM34ZDIOV6"',
+24 silly get     age: '49',
+24 silly get     connection: 'keep-alive',
+24 silly get     'x-served-by': 'cache-nrt6130-NRT',
+24 silly get     'x-cache': 'HIT',
+24 silly get     'x-cache-hits': '1',
+24 silly get     'x-timer': 'S1440709556.780028,VS0,VE0',
+24 silly get     vary: 'Accept' } ]
+25 verbose etag https://registry.npmjs.org/fs-ext from cache
+26 verbose get saving fs-ext to C:\Users\kion\AppData\Roaming\npm-cache\registry.npmjs.org\fs-ext\.cache.json
+27 silly addNameRange number 2 { name: 'fs-ext', range: '*', hasData: true }
+28 silly addNameRange versions [ 'fs-ext',
+28 silly addNameRange   [ '0.2.0',
+28 silly addNameRange     '0.2.1',
+28 silly addNameRange     '0.2.2',
+28 silly addNameRange     '0.2.3',
+28 silly addNameRange     '0.3.0',
+28 silly addNameRange     '0.3.1',
+28 silly addNameRange     '0.3.2',
+28 silly addNameRange     '0.4.0',
+28 silly addNameRange     '0.4.1',
+28 silly addNameRange     '0.4.2',
+28 silly addNameRange     '0.4.3',
+28 silly addNameRange     '0.4.4',
+28 silly addNameRange     '0.4.5',
+28 silly addNameRange     '0.4.6' ] ]
+29 silly addNamed fs-ext@0.4.6
+30 verbose addNamed "0.4.6" is a plain semver version for fs-ext
+31 silly cache afterAdd fs-ext@0.4.6
+32 verbose afterAdd C:\Users\kion\AppData\Roaming\npm-cache\fs-ext\0.4.6\package\package.json not in flight; writing
+33 verbose afterAdd C:\Users\kion\AppData\Roaming\npm-cache\fs-ext\0.4.6\package\package.json written
+34 silly install resolved [ { author:
+34 silly install resolved      { name: 'Matt Sergeant',
+34 silly install resolved        email: 'helpme@gmail.com',
+34 silly install resolved        url: 'http://baudehlo.wordpress.com/' },
+34 silly install resolved     name: 'fs-ext',
+34 silly install resolved     description: 'Extensions to core \'fs\' module.',
+34 silly install resolved     keywords: [ 'fs', 'filesystem', 'flock', 'seek' ],
+34 silly install resolved     version: '0.4.6',
+34 silly install resolved     homepage: 'https://github.com/baudehlo/node-fs-ext/',
+34 silly install resolved     repository:
+34 silly install resolved      { type: 'git',
+34 silly install resolved        url: 'git://github.com/baudehlo/node-fs-ext.git' },
+34 silly install resolved     main: 'fs-ext.js',
+34 silly install resolved     engines: { node: '>= v0.8.0' },
+34 silly install resolved     dependencies: { nan: '^1.9' },
+34 silly install resolved     licenses: [ [Object] ],
+34 silly install resolved     bugs: { url: 'https://github.com/baudehlo/node-fs-ext/issues' },
+34 silly install resolved     scripts: { install: 'node-gyp configure build', test: './run_tests' },
+34 silly install resolved     _id: 'fs-ext@0.4.6',
+34 silly install resolved     dist:
+34 silly install resolved      { shasum: 'cf1a438b997e9a9647e4a28d306c8182cebbcd16',
+34 silly install resolved        tarball: 'http://registry.npmjs.org/fs-ext/-/fs-ext-0.4.6.tgz' },
+34 silly install resolved     _from: 'fs-ext@*',
+34 silly install resolved     _npmVersion: '1.4.6',
+34 silly install resolved     _npmUser: { name: 'msergeant', email: 'helpme@gmail.com' },
+34 silly install resolved     maintainers: [ [Object] ],
+34 silly install resolved     directories: {},
+34 silly install resolved     _shasum: 'cf1a438b997e9a9647e4a28d306c8182cebbcd16',
+34 silly install resolved     _resolved: 'https://registry.npmjs.org/fs-ext/-/fs-ext-0.4.6.tgz',
+34 silly install resolved     readme: 'ERROR: No README data found!' } ]
+35 info install fs-ext@0.4.6 into C:\Users\kion\Documents\Pso_File_Formats\stage
+36 info installOne fs-ext@0.4.6
+37 verbose installOne of fs-ext to C:\Users\kion\Documents\Pso_File_Formats\stage not in flight; installing
+38 verbose lock using C:\Users\kion\AppData\Roaming\npm-cache\_locks\fs-ext-629c44e1731b4d1c.lock for C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext
+39 silly install write writing fs-ext 0.4.6 to C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext
+40 verbose unbuild node_modules\fs-ext
+41 silly gentlyRm C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext is being purged from base C:\Users\kion\Documents\Pso_File_Formats\stage
+42 verbose gentlyRm don't care about contents; nuking C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext
+43 verbose tar unpack C:\Users\kion\AppData\Roaming\npm-cache\fs-ext\0.4.6\package.tgz
+44 verbose tar unpacking to C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext
+45 silly gentlyRm C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext is being purged
+46 verbose gentlyRm don't care about contents; nuking C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext
+47 silly gunzTarPerm modes [ '777', '666' ]
+48 silly gunzTarPerm extractEntry package.json
+49 silly gunzTarPerm modified mode [ 'package.json', 420, 438 ]
+50 silly gunzTarPerm extractEntry .npmignore
+51 silly gunzTarPerm modified mode [ '.npmignore', 420, 438 ]
+52 silly gunzTarPerm extractEntry README.md
+53 silly gunzTarPerm modified mode [ 'README.md', 420, 438 ]
+54 silly gunzTarPerm extractEntry example.js
+55 silly gunzTarPerm modified mode [ 'example.js', 420, 438 ]
+56 silly gunzTarPerm extractEntry fs-ext.js
+57 silly gunzTarPerm modified mode [ 'fs-ext.js', 420, 438 ]
+58 silly gunzTarPerm extractEntry LICENSE.txt
+59 silly gunzTarPerm modified mode [ 'LICENSE.txt', 420, 438 ]
+60 silly gunzTarPerm extractEntry binding.gyp
+61 silly gunzTarPerm modified mode [ 'binding.gyp', 420, 438 ]
+62 silly gunzTarPerm extractEntry wscript
+63 silly gunzTarPerm modified mode [ 'wscript', 420, 438 ]
+64 silly gunzTarPerm extractEntry run_tests
+65 silly gunzTarPerm modified mode [ 'run_tests', 493, 511 ]
+66 silly gunzTarPerm extractEntry tests/test-fs-fcntl.js
+67 silly gunzTarPerm modified mode [ 'tests/test-fs-fcntl.js', 420, 438 ]
+68 silly gunzTarPerm extractEntry tests/test-fs-flock.js
+69 silly gunzTarPerm modified mode [ 'tests/test-fs-flock.js', 420, 438 ]
+70 silly gunzTarPerm extractEntry tests/test-fs-flock_stress.js
+71 silly gunzTarPerm modified mode [ 'tests/test-fs-flock_stress.js', 420, 438 ]
+72 silly gunzTarPerm extractEntry tests/test-fs-seek.js
+73 silly gunzTarPerm modified mode [ 'tests/test-fs-seek.js', 420, 438 ]
+74 silly gunzTarPerm extractEntry tests/test-fs-seek_stress.js
+75 silly gunzTarPerm modified mode [ 'tests/test-fs-seek_stress.js', 420, 438 ]
+76 silly gunzTarPerm extractEntry tests/test-fs-statvfs.js
+77 silly gunzTarPerm modified mode [ 'tests/test-fs-statvfs.js', 420, 438 ]
+78 silly gunzTarPerm extractEntry tests/test-fs-utime.js
+79 silly gunzTarPerm modified mode [ 'tests/test-fs-utime.js', 420, 438 ]
+80 silly gunzTarPerm extractEntry tests/test-fs-utime_stress.js
+81 silly gunzTarPerm modified mode [ 'tests/test-fs-utime_stress.js', 420, 438 ]
+82 silly gunzTarPerm extractEntry fs-ext.cc
+83 silly gunzTarPerm modified mode [ 'fs-ext.cc', 420, 438 ]
+84 verbose write writing to C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\package.json
+85 info preinstall fs-ext@0.4.6
+86 verbose readDependencies loading dependencies from C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\package.json
+87 silly prepareForInstallMany adding nan@^1.9 from fs-ext dependencies
+88 verbose readDependencies loading dependencies from C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\package.json
+89 silly cache add args [ 'nan@^1.9', null ]
+90 verbose cache add spec nan@^1.9
+91 silly cache add parsed spec { raw: 'nan@^1.9',
+91 silly cache add   scope: null,
+91 silly cache add   name: 'nan',
+91 silly cache add   rawSpec: '^1.9',
+91 silly cache add   spec: '>=1.9.0 <2.0.0',
+91 silly cache add   type: 'range' }
+92 silly addNamed nan@>=1.9.0 <2.0.0
+93 verbose addNamed ">=1.9.0 <2.0.0" is a valid semver range for nan
+94 silly addNameRange { name: 'nan', range: '>=1.9.0 <2.0.0', hasData: false }
+95 silly mapToRegistry name nan
+96 silly mapToRegistry using default registry
+97 silly mapToRegistry registry https://registry.npmjs.org/
+98 silly mapToRegistry uri https://registry.npmjs.org/nan
+99 verbose addNameRange registry:https://registry.npmjs.org/nan not in flight; fetching
+100 verbose request uri https://registry.npmjs.org/nan
+101 verbose request no auth needed
+102 info attempt registry request try #1 at 06:05:56
+103 verbose etag "1E9ZPWSY0D5J95SNERYY3JUEX"
+104 http request GET https://registry.npmjs.org/nan
+105 http 304 https://registry.npmjs.org/nan
+106 silly get cb [ 304,
+106 silly get   { date: 'Thu, 27 Aug 2015 21:05:57 GMT',
+106 silly get     via: '1.1 varnish',
+106 silly get     'cache-control': 'max-age=60',
+106 silly get     etag: '"1E9ZPWSY0D5J95SNERYY3JUEX"',
+106 silly get     age: '2',
+106 silly get     connection: 'keep-alive',
+106 silly get     'x-served-by': 'cache-nrt6129-NRT',
+106 silly get     'x-cache': 'HIT',
+106 silly get     'x-cache-hits': '1',
+106 silly get     'x-timer': 'S1440709557.406061,VS0,VE1',
+106 silly get     vary: 'Accept' } ]
+107 verbose etag https://registry.npmjs.org/nan from cache
+108 verbose get saving nan to C:\Users\kion\AppData\Roaming\npm-cache\registry.npmjs.org\nan\.cache.json
+109 silly addNameRange number 2 { name: 'nan', range: '>=1.9.0 <2.0.0', hasData: true }
+110 silly addNameRange versions [ 'nan',
+110 silly addNameRange   [ '0.3.0-wip',
+110 silly addNameRange     '0.3.0-wip2',
+110 silly addNameRange     '0.3.0',
+110 silly addNameRange     '0.3.1',
+110 silly addNameRange     '0.3.2',
+110 silly addNameRange     '0.4.0',
+110 silly addNameRange     '0.4.1',
+110 silly addNameRange     '0.4.2',
+110 silly addNameRange     '0.4.3',
+110 silly addNameRange     '0.4.4',
+110 silly addNameRange     '0.5.0',
+110 silly addNameRange     '0.5.1',
+110 silly addNameRange     '0.5.2',
+110 silly addNameRange     '0.6.0',
+110 silly addNameRange     '0.7.0',
+110 silly addNameRange     '0.7.1',
+110 silly addNameRange     '0.8.0',
+110 silly addNameRange     '1.0.0',
+110 silly addNameRange     '1.1.0',
+110 silly addNameRange     '1.1.1',
+110 silly addNameRange     '1.1.2',
+110 silly addNameRange     '1.2.0',
+110 silly addNameRange     '1.3.0',
+110 silly addNameRange     '1.4.0',
+110 silly addNameRange     '1.4.1',
+110 silly addNameRange     '1.5.0',
+110 silly addNameRange     '1.4.2',
+110 silly addNameRange     '1.4.3',
+110 silly addNameRange     '1.5.1',
+110 silly addNameRange     '1.5.2',
+110 silly addNameRange     '1.6.0',
+110 silly addNameRange     '1.5.3',
+110 silly addNameRange     '1.6.1',
+110 silly addNameRange     '1.6.2',
+110 silly addNameRange     '1.7.0',
+110 silly addNameRange     '1.8.0',
+110 silly addNameRange     '1.8.1',
+110 silly addNameRange     '1.8.2',
+110 silly addNameRange     '1.8.3',
+110 silly addNameRange     '1.8.4',
+110 silly addNameRange     '1.9.0',
+110 silly addNameRange     '2.0.0',
+110 silly addNameRange     '2.0.1',
+110 silly addNameRange     '2.0.2',
+110 silly addNameRange     '2.0.3',
+110 silly addNameRange     '2.0.4',
+110 silly addNameRange     '2.0.5',
+110 silly addNameRange     '2.0.6',
+110 silly addNameRange     '2.0.7' ] ]
+111 silly addNamed nan@1.9.0
+112 verbose addNamed "1.9.0" is a plain semver version for nan
+113 silly cache afterAdd nan@1.9.0
+114 verbose afterAdd C:\Users\kion\AppData\Roaming\npm-cache\nan\1.9.0\package\package.json not in flight; writing
+115 verbose afterAdd C:\Users\kion\AppData\Roaming\npm-cache\nan\1.9.0\package\package.json written
+116 silly install resolved [ { name: 'nan',
+116 silly install resolved     version: '1.9.0',
+116 silly install resolved     description: 'Native Abstractions for Node.js: C++ header for Node 0.8->0.12 compatibility',
+116 silly install resolved     main: 'include_dirs.js',
+116 silly install resolved     repository: { type: 'git', url: 'git://github.com/nodejs/nan.git' },
+116 silly install resolved     scripts:
+116 silly install resolved      { test: 'tap --gc test/js/*-test.js',
+116 silly install resolved        'rebuild-tests': 'pangyp rebuild --msvs_version=2013 --directory test' },
+116 silly install resolved     contributors:
+116 silly install resolved      [ [Object],
+116 silly install resolved        [Object],
+116 silly install resolved        [Object],
+116 silly install resolved        [Object],
+116 silly install resolved        [Object],
+116 silly install resolved        [Object],
+116 silly install resolved        [Object] ],
+116 silly install resolved     devDependencies:
+116 silly install resolved      { bindings: '~1.2.1',
+116 silly install resolved        'node-gyp': '~2.0.2',
+116 silly install resolved        pangyp: '~2.2.0',
+116 silly install resolved        tap: '~0.7.1',
+116 silly install resolved        xtend: '~4.0.0' },
+116 silly install resolved     license: 'MIT',
+116 silly install resolved     gitHead: '399b3a54ada39a7cf7a11978ea727eae3686666e',
+116 silly install resolved     bugs: { url: 'https://github.com/nodejs/nan/issues' },
+116 silly install resolved     homepage: 'https://github.com/nodejs/nan#readme',
+116 silly install resolved     _id: 'nan@1.9.0',
+116 silly install resolved     _shasum: '1a9cd2755609766f5c291e4194fce39fde286515',
+116 silly install resolved     _from: 'nan@>=1.9.0 <2.0.0',
+116 silly install resolved     _npmVersion: '2.13.3',
+116 silly install resolved     _nodeVersion: '0.12.2',
+116 silly install resolved     _npmUser: { name: 'kkoopa', email: 'bbyholm@abo.fi' },
+116 silly install resolved     maintainers: [ [Object], [Object] ],
+116 silly install resolved     dist:
+116 silly install resolved      { shasum: '1a9cd2755609766f5c291e4194fce39fde286515',
+116 silly install resolved        tarball: 'http://registry.npmjs.org/nan/-/nan-1.9.0.tgz' },
+116 silly install resolved     directories: {},
+116 silly install resolved     _resolved: 'https://registry.npmjs.org/nan/-/nan-1.9.0.tgz',
+116 silly install resolved     readme: 'ERROR: No README data found!' } ]
+117 info install nan@1.9.0 into C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext
+118 info installOne nan@1.9.0
+119 verbose installOne of nan to C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext not in flight; installing
+120 verbose lock using C:\Users\kion\AppData\Roaming\npm-cache\_locks\nan-775b9560d53e4193.lock for C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\node_modules\nan
+121 silly install write writing nan 1.9.0 to C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\node_modules\nan
+122 verbose unbuild node_modules\fs-ext\node_modules\nan
+123 silly gentlyRm C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\node_modules\nan is being purged from base C:\Users\kion\Documents\Pso_File_Formats\stage
+124 verbose gentlyRm don't care about contents; nuking C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\node_modules\nan
+125 verbose tar unpack C:\Users\kion\AppData\Roaming\npm-cache\nan\1.9.0\package.tgz
+126 verbose tar unpacking to C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\node_modules\nan
+127 silly gentlyRm C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\node_modules\nan is being purged
+128 verbose gentlyRm don't care about contents; nuking C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\node_modules\nan
+129 silly gunzTarPerm modes [ '777', '666' ]
+130 silly gunzTarPerm extractEntry package.json
+131 silly gunzTarPerm modified mode [ 'package.json', 436, 438 ]
+132 silly gunzTarPerm extractEntry README.md
+133 silly gunzTarPerm modified mode [ 'README.md', 436, 438 ]
+134 silly gunzTarPerm extractEntry include_dirs.js
+135 silly gunzTarPerm modified mode [ 'include_dirs.js', 436, 438 ]
+136 silly gunzTarPerm extractEntry LICENSE.md
+137 silly gunzTarPerm modified mode [ 'LICENSE.md', 436, 438 ]
+138 silly gunzTarPerm extractEntry .dntrc
+139 silly gunzTarPerm modified mode [ '.dntrc', 436, 438 ]
+140 silly gunzTarPerm extractEntry appveyor.yml
+141 silly gunzTarPerm modified mode [ 'appveyor.yml', 436, 438 ]
+142 silly gunzTarPerm extractEntry nan.h
+143 silly gunzTarPerm modified mode [ 'nan.h', 436, 438 ]
+144 silly gunzTarPerm extractEntry nan_implementation_12_inl.h
+145 silly gunzTarPerm modified mode [ 'nan_implementation_12_inl.h', 436, 438 ]
+146 silly gunzTarPerm extractEntry nan_implementation_pre_12_inl.h
+147 silly gunzTarPerm modified mode [ 'nan_implementation_pre_12_inl.h', 436, 438 ]
+148 silly gunzTarPerm extractEntry nan_new.h
+149 silly gunzTarPerm modified mode [ 'nan_new.h', 436, 438 ]
+150 silly gunzTarPerm extractEntry nan_string_bytes.h
+151 silly gunzTarPerm modified mode [ 'nan_string_bytes.h', 436, 438 ]
+152 silly gunzTarPerm extractEntry CHANGELOG.md
+153 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 436, 438 ]
+154 silly gunzTarPerm extractEntry tools/node_modules/commander/package.json
+155 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/package.json', 436, 438 ]
+156 silly gunzTarPerm extractEntry tools/node_modules/commander/LICENSE
+157 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/LICENSE', 436, 438 ]
+158 silly gunzTarPerm extractEntry tools/node_modules/commander/index.js
+159 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/index.js', 436, 438 ]
+160 silly gunzTarPerm extractEntry tools/node_modules/commander/History.md
+161 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/History.md', 436, 438 ]
+162 silly gunzTarPerm extractEntry tools/node_modules/commander/Readme.md
+163 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/Readme.md', 436, 438 ]
+164 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/package.json
+165 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/package.json',
+165 silly gunzTarPerm   436,
+165 silly gunzTarPerm   438 ]
+166 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/.npmignore
+167 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/.npmignore',
+167 silly gunzTarPerm   436,
+167 silly gunzTarPerm   438 ]
+168 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/README.md
+169 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/README.md',
+169 silly gunzTarPerm   436,
+169 silly gunzTarPerm   438 ]
+170 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/LICENSE
+171 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/LICENSE',
+171 silly gunzTarPerm   436,
+171 silly gunzTarPerm   438 ]
+172 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/index.js
+173 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/index.js',
+173 silly gunzTarPerm   436,
+173 silly gunzTarPerm   438 ]
+174 silly gunzTarPerm extractEntry tools/node_modules/commander/node_modules/graceful-readlink/.travis.yml
+175 silly gunzTarPerm modified mode [ 'tools/node_modules/commander/node_modules/graceful-readlink/.travis.yml',
+175 silly gunzTarPerm   436,
+175 silly gunzTarPerm   438 ]
+176 silly gunzTarPerm extractEntry tools/node_modules/glob/package.json
+177 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/package.json', 436, 438 ]
+178 silly gunzTarPerm extractEntry tools/node_modules/glob/README.md
+179 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/README.md', 436, 438 ]
+180 silly gunzTarPerm extractEntry tools/node_modules/glob/LICENSE
+181 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/LICENSE', 436, 438 ]
+182 silly gunzTarPerm extractEntry tools/node_modules/glob/common.js
+183 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/common.js', 436, 438 ]
+184 silly gunzTarPerm extractEntry tools/node_modules/glob/glob.js
+185 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/glob.js', 436, 438 ]
+186 silly gunzTarPerm extractEntry tools/node_modules/glob/sync.js
+187 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/sync.js', 436, 438 ]
+188 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/package.json
+189 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/package.json',
+189 silly gunzTarPerm   436,
+189 silly gunzTarPerm   438 ]
+190 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/README.md
+191 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/README.md',
+191 silly gunzTarPerm   436,
+191 silly gunzTarPerm   438 ]
+192 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/LICENSE
+193 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/LICENSE',
+193 silly gunzTarPerm   436,
+193 silly gunzTarPerm   438 ]
+194 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/inflight.js
+195 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/inflight.js',
+195 silly gunzTarPerm   436,
+195 silly gunzTarPerm   438 ]
+196 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/test.js
+197 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/test.js',
+197 silly gunzTarPerm   436,
+197 silly gunzTarPerm   438 ]
+198 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/.eslintrc
+199 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/.eslintrc',
+199 silly gunzTarPerm   436,
+199 silly gunzTarPerm   438 ]
+200 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/package.json
+201 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/package.json',
+201 silly gunzTarPerm   436,
+201 silly gunzTarPerm   438 ]
+202 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/README.md
+203 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/README.md',
+203 silly gunzTarPerm   436,
+203 silly gunzTarPerm   438 ]
+204 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/LICENSE
+205 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/LICENSE',
+205 silly gunzTarPerm   436,
+205 silly gunzTarPerm   438 ]
+206 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/wrappy.js
+207 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/wrappy.js',
+207 silly gunzTarPerm   436,
+207 silly gunzTarPerm   438 ]
+208 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/test/basic.js
+209 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inflight/node_modules/wrappy/test/basic.js',
+209 silly gunzTarPerm   436,
+209 silly gunzTarPerm   438 ]
+210 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/package.json
+211 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/package.json',
+211 silly gunzTarPerm   436,
+211 silly gunzTarPerm   438 ]
+212 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/README.md
+213 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/README.md',
+213 silly gunzTarPerm   436,
+213 silly gunzTarPerm   438 ]
+214 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/LICENSE
+215 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/LICENSE',
+215 silly gunzTarPerm   436,
+215 silly gunzTarPerm   438 ]
+216 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/inherits.js
+217 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/inherits.js',
+217 silly gunzTarPerm   436,
+217 silly gunzTarPerm   438 ]
+218 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/inherits_browser.js
+219 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/inherits_browser.js',
+219 silly gunzTarPerm   436,
+219 silly gunzTarPerm   438 ]
+220 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/inherits/test.js
+221 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/inherits/test.js',
+221 silly gunzTarPerm   436,
+221 silly gunzTarPerm   438 ]
+222 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/package.json
+223 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/package.json',
+223 silly gunzTarPerm   436,
+223 silly gunzTarPerm   438 ]
+224 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/README.md
+225 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/README.md',
+225 silly gunzTarPerm   436,
+225 silly gunzTarPerm   438 ]
+226 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/LICENSE
+227 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/LICENSE',
+227 silly gunzTarPerm   436,
+227 silly gunzTarPerm   438 ]
+228 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/browser.js
+229 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/browser.js',
+229 silly gunzTarPerm   436,
+229 silly gunzTarPerm   438 ]
+230 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/minimatch.js
+231 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/minimatch.js',
+231 silly gunzTarPerm   436,
+231 silly gunzTarPerm   438 ]
+232 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/package.json
+233 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/package.json',
+233 silly gunzTarPerm   436,
+233 silly gunzTarPerm   438 ]
+234 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.npmignore
+235 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.npmignore',
+235 silly gunzTarPerm   436,
+235 silly gunzTarPerm   438 ]
+236 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/README.md
+237 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/README.md',
+237 silly gunzTarPerm   436,
+237 silly gunzTarPerm   438 ]
+238 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/example.js
+239 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/example.js',
+239 silly gunzTarPerm   436,
+239 silly gunzTarPerm   438 ]
+240 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/index.js
+241 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/index.js',
+241 silly gunzTarPerm   436,
+241 silly gunzTarPerm   438 ]
+242 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.travis.yml
+243 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.travis.yml',
+243 silly gunzTarPerm   436,
+243 silly gunzTarPerm   438 ]
+244 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-comparison.js
+245 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-comparison.js',
+245 silly gunzTarPerm   436,
+245 silly gunzTarPerm   438 ]
+246 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/same-type.js
+247 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/same-type.js',
+247 silly gunzTarPerm   436,
+247 silly gunzTarPerm   438 ]
+248 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/dollar.js
+249 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/dollar.js',
+249 silly gunzTarPerm   436,
+249 silly gunzTarPerm   438 ]
+250 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/empty-option.js
+251 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/empty-option.js',
+251 silly gunzTarPerm   436,
+251 silly gunzTarPerm   438 ]
+252 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/pad.js
+253 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/pad.js',
+253 silly gunzTarPerm   436,
+253 silly gunzTarPerm   438 ]
+254 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/order.js
+255 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/order.js',
+255 silly gunzTarPerm   436,
+255 silly gunzTarPerm   438 ]
+256 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/nested.js
+257 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/nested.js',
+257 silly gunzTarPerm   436,
+257 silly gunzTarPerm   438 ]
+258 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/sequence.js
+259 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/sequence.js',
+259 silly gunzTarPerm   436,
+259 silly gunzTarPerm   438 ]
+260 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/negative-increment.js
+261 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/negative-increment.js',
+261 silly gunzTarPerm   436,
+261 silly gunzTarPerm   438 ]
+262 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-results.txt
+263 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-results.txt',
+263 silly gunzTarPerm   436,
+263 silly gunzTarPerm   438 ]
+264 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/generate.sh
+265 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/generate.sh',
+265 silly gunzTarPerm   436,
+265 silly gunzTarPerm   438 ]
+266 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/cases.txt
+267 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/cases.txt',
+267 silly gunzTarPerm   436,
+267 silly gunzTarPerm   438 ]
+268 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json
+269 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json',
+269 silly gunzTarPerm   436,
+269 silly gunzTarPerm   438 ]
+270 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.npmignore
+271 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.npmignore',
+271 silly gunzTarPerm   436,
+271 silly gunzTarPerm   438 ]
+272 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/README.md
+273 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/README.md',
+273 silly gunzTarPerm   436,
+273 silly gunzTarPerm   438 ]
+274 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/example.js
+275 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/example.js',
+275 silly gunzTarPerm   436,
+275 silly gunzTarPerm   438 ]
+276 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/index.js
+277 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/index.js',
+277 silly gunzTarPerm   436,
+277 silly gunzTarPerm   438 ]
+278 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.travis.yml
+279 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.travis.yml',
+279 silly gunzTarPerm   436,
+279 silly gunzTarPerm   438 ]
+280 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/Makefile
+281 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/Makefile',
+281 silly gunzTarPerm   436,
+281 silly gunzTarPerm   438 ]
+282 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/test/balanced.js
+283 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/test/balanced.js',
+283 silly gunzTarPerm   436,
+283 silly gunzTarPerm   438 ]
+284 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json
+285 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json',
+285 silly gunzTarPerm   436,
+285 silly gunzTarPerm   438 ]
+286 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/LICENSE
+287 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/LICENSE',
+287 silly gunzTarPerm   436,
+287 silly gunzTarPerm   438 ]
+288 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/index.js
+289 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/index.js',
+289 silly gunzTarPerm   436,
+289 silly gunzTarPerm   438 ]
+290 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/.travis.yml
+291 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/.travis.yml',
+291 silly gunzTarPerm   436,
+291 silly gunzTarPerm   438 ]
+292 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/README.markdown
+293 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/README.markdown',
+293 silly gunzTarPerm   436,
+293 silly gunzTarPerm   438 ]
+294 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/example/map.js
+295 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/example/map.js',
+295 silly gunzTarPerm   436,
+295 silly gunzTarPerm   438 ]
+296 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/test/map.js
+297 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/test/map.js',
+297 silly gunzTarPerm   436,
+297 silly gunzTarPerm   438 ]
+298 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/package.json
+299 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/package.json',
+299 silly gunzTarPerm   436,
+299 silly gunzTarPerm   438 ]
+300 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/README.md
+301 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/README.md',
+301 silly gunzTarPerm   436,
+301 silly gunzTarPerm   438 ]
+302 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/LICENSE
+303 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/LICENSE', 436, 438 ]
+304 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/once.js
+305 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/once.js', 436, 438 ]
+306 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/test/once.js
+307 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/test/once.js',
+307 silly gunzTarPerm   436,
+307 silly gunzTarPerm   438 ]
+308 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/node_modules/wrappy/package.json
+309 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/node_modules/wrappy/package.json',
+309 silly gunzTarPerm   436,
+309 silly gunzTarPerm   438 ]
+310 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/node_modules/wrappy/README.md
+311 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/node_modules/wrappy/README.md',
+311 silly gunzTarPerm   436,
+311 silly gunzTarPerm   438 ]
+312 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/node_modules/wrappy/LICENSE
+313 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/node_modules/wrappy/LICENSE',
+313 silly gunzTarPerm   436,
+313 silly gunzTarPerm   438 ]
+314 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/node_modules/wrappy/wrappy.js
+315 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/node_modules/wrappy/wrappy.js',
+315 silly gunzTarPerm   436,
+315 silly gunzTarPerm   438 ]
+316 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/once/node_modules/wrappy/test/basic.js
+317 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/once/node_modules/wrappy/test/basic.js',
+317 silly gunzTarPerm   436,
+317 silly gunzTarPerm   438 ]
+318 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/path-is-absolute/package.json
+319 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/path-is-absolute/package.json',
+319 silly gunzTarPerm   436,
+319 silly gunzTarPerm   438 ]
+320 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/path-is-absolute/index.js
+321 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/path-is-absolute/index.js',
+321 silly gunzTarPerm   436,
+321 silly gunzTarPerm   438 ]
+322 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/path-is-absolute/license
+323 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/path-is-absolute/license',
+323 silly gunzTarPerm   436,
+323 silly gunzTarPerm   438 ]
+324 silly gunzTarPerm extractEntry tools/node_modules/glob/node_modules/path-is-absolute/readme.md
+325 silly gunzTarPerm modified mode [ 'tools/node_modules/glob/node_modules/path-is-absolute/readme.md',
+325 silly gunzTarPerm   436,
+325 silly gunzTarPerm   438 ]
+326 verbose write writing to C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\node_modules\nan\package.json
+327 info preinstall nan@1.9.0
+328 verbose readDependencies loading dependencies from C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\node_modules\nan\package.json
+329 verbose readDependencies loading dependencies from C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\node_modules\nan\package.json
+330 silly install resolved []
+331 verbose about to build C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\node_modules\nan
+332 info build C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\node_modules\nan
+333 info linkStuff nan@1.9.0
+334 silly linkStuff nan@1.9.0 has C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\node_modules as its parent node_modules
+335 verbose linkBins nan@1.9.0
+336 verbose linkMans nan@1.9.0
+337 verbose rebuildBundles nan@1.9.0
+338 info install nan@1.9.0
+339 info postinstall nan@1.9.0
+340 verbose unlock done using C:\Users\kion\AppData\Roaming\npm-cache\_locks\nan-775b9560d53e4193.lock for C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext\node_modules\nan
+341 verbose about to build C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext
+342 info build C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext
+343 info linkStuff fs-ext@0.4.6
+344 silly linkStuff fs-ext@0.4.6 has C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules as its parent node_modules
+345 verbose linkBins fs-ext@0.4.6
+346 verbose linkMans fs-ext@0.4.6
+347 verbose rebuildBundles fs-ext@0.4.6
+348 verbose rebuildBundles [ 'nan' ]
+349 info install fs-ext@0.4.6
+350 verbose unsafe-perm in lifecycle true
+351 info fs-ext@0.4.6 Failed to exec install script
+352 verbose unlock done using C:\Users\kion\AppData\Roaming\npm-cache\_locks\fs-ext-629c44e1731b4d1c.lock for C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext
+353 verbose stack Error: fs-ext@0.4.6 install: `node-gyp configure build`
+353 verbose stack Exit status 1
+353 verbose stack     at EventEmitter.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\utils\lifecycle.js:213:16)
+353 verbose stack     at EventEmitter.emit (events.js:110:17)
+353 verbose stack     at ChildProcess.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\utils\spawn.js:24:14)
+353 verbose stack     at ChildProcess.emit (events.js:110:17)
+353 verbose stack     at maybeClose (child_process.js:1015:16)
+353 verbose stack     at Process.ChildProcess._handle.onexit (child_process.js:1087:5)
+354 verbose pkgid fs-ext@0.4.6
+355 verbose cwd C:\Users\kion\Documents\Pso_File_Formats\stage
+356 error Windows_NT 6.3.9600
+357 error argv "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "fs-ext" "-msvs_version=2012"
+358 error node v0.12.7
+359 error npm  v2.11.3
+360 error code ELIFECYCLE
+361 error fs-ext@0.4.6 install: `node-gyp configure build`
+361 error Exit status 1
+362 error Failed at the fs-ext@0.4.6 install script 'node-gyp configure build'.
+362 error This is most likely a problem with the fs-ext package,
+362 error not with npm itself.
+362 error Tell the author that this fails on your system:
+362 error     node-gyp configure build
+362 error You can get their info via:
+362 error     npm owner ls fs-ext
+362 error There is likely additional logging output above.
+363 verbose exit [ 1, true ]
+364 verbose unbuild node_modules\fs-ext
+365 info preuninstall fs-ext@0.4.6
+366 info uninstall fs-ext@0.4.6
+367 verbose unbuild rmStuff fs-ext@0.4.6 from C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules
+368 info postuninstall fs-ext@0.4.6
+369 silly gentlyRm C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext is being purged from base C:\Users\kion\Documents\Pso_File_Formats\stage
+370 verbose gentlyRm don't care about contents; nuking C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext
+371 silly vacuum-fs purging C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules\fs-ext
+372 silly vacuum-fs removing C:\Users\kion\Documents\Pso_File_Formats\stage\node_modules
+373 silly vacuum-fs finished vacuuming up to C:\Users\kion\Documents\Pso_File_Formats\stage

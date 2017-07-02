@@ -1,0 +1,47 @@
+Pointer to the header is at Eof - 16
+
+Header is marked by "fmt2"
+
+typedef struct {
+  label : char[4], //fmt2
+  unknown1 : dword, 0x40
+  num_sections : word,
+  unkown2 : word 0x4448
+  Section_Header : dword
+  Texture_Header : dword
+} File_Header;
+
+typedef struct {
+ ID : dword
+ pos : Single[3],
+ Rotation : Sint32[3],
+ Radius : Single
+ VertexA_Off : dword
+ VertexB_Off : dword
+ VertexA_Count : dword
+ VertexB_Count : dword
+ Flag : dword 0x0100
+} Section_Header;
+
+typedef struct{
+  texture_List : dword,
+  num_textures : dword
+} Texture_Header;
+
+typedef struct{
+  pointer : dword,
+  attr : dword
+  attrb : dword
+} Texture_Entry
+
+typedef struct{
+  Vertex_Entry : dword,
+  dword : dword[2],
+  Flag : dword
+} VertexA_Header;
+
+typedef struct{
+  Vertex_Entry : dword,
+  dword : dword[6],
+  Flag : dword
+} VertexB_Header;

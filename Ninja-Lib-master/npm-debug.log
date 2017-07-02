@@ -1,0 +1,87 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'ninja-lib' ]
+2 info using npm@3.3.12
+3 info using node@v5.3.0
+4 verbose config Skipping project config: C:\Users\diego/.npmrc. (matches userconfig)
+5 silly loadCurrentTree Starting
+6 silly install loadCurrentTree
+7 silly install readLocalPackageData
+8 silly fetchPackageMetaData ninja-lib
+9 silly fetchNamedPackageData ninja-lib
+10 silly mapToRegistry name ninja-lib
+11 silly mapToRegistry using default registry
+12 silly mapToRegistry registry https://registry.npmjs.org/
+13 silly mapToRegistry uri https://registry.npmjs.org/ninja-lib
+14 verbose request uri https://registry.npmjs.org/ninja-lib
+15 verbose request no auth needed
+16 info attempt registry request try #1 at 9:39:22 AM
+17 verbose request id cb8490b883766c87
+18 verbose etag "SD9KEO724V23B650MC1GJL2B"
+19 http request GET https://registry.npmjs.org/ninja-lib
+20 http 304 https://registry.npmjs.org/ninja-lib
+21 verbose headers { date: 'Fri, 25 Dec 2015 14:39:15 GMT',
+21 verbose headers   via: '1.1 varnish',
+21 verbose headers   'cache-control': 'max-age=300',
+21 verbose headers   etag: '"SD9KEO724V23B650MC1GJL2B"',
+21 verbose headers   age: '267',
+21 verbose headers   connection: 'keep-alive',
+21 verbose headers   'x-served-by': 'cache-jfk1024-JFK',
+21 verbose headers   'x-cache': 'HIT',
+21 verbose headers   'x-cache-hits': '2',
+21 verbose headers   'x-timer': 'S1451054355.774850,VS0,VE0',
+21 verbose headers   vary: 'Accept' }
+22 silly get cb [ 304,
+22 silly get   { date: 'Fri, 25 Dec 2015 14:39:15 GMT',
+22 silly get     via: '1.1 varnish',
+22 silly get     'cache-control': 'max-age=300',
+22 silly get     etag: '"SD9KEO724V23B650MC1GJL2B"',
+22 silly get     age: '267',
+22 silly get     connection: 'keep-alive',
+22 silly get     'x-served-by': 'cache-jfk1024-JFK',
+22 silly get     'x-cache': 'HIT',
+22 silly get     'x-cache-hits': '2',
+22 silly get     'x-timer': 'S1451054355.774850,VS0,VE0',
+22 silly get     vary: 'Accept' } ]
+23 verbose etag https://registry.npmjs.org/ninja-lib from cache
+24 verbose get saving ninja-lib to C:\Users\diego\AppData\Roaming\npm-cache\registry.npmjs.org\ninja-lib\.cache.json
+25 silly install normalizeTree
+26 silly loadCurrentTree Finishing
+27 silly loadIdealTree Starting
+28 silly install loadIdealTree
+29 silly cloneCurrentTree Starting
+30 silly install cloneCurrentTreeToIdealTree
+31 silly cloneCurrentTree Finishing
+32 silly loadShrinkwrap Starting
+33 silly install loadShrinkwrap
+34 silly loadShrinkwrap Finishing
+35 silly loadAllDepsIntoIdealTree Starting
+36 silly install loadAllDepsIntoIdealTree
+37 silly rollbackFailedOptional Starting
+38 silly rollbackFailedOptional Finishing
+39 silly runTopLevelLifecycles Starting
+40 silly runTopLevelLifecycles Finishing
+41 silly install printInstalled
+42 verbose stack Error: Refusing to install ninja-lib as a dependency of itself
+42 verbose stack     at checkSelf (C:\Program Files\nodejs\node_modules\npm\lib\install\validate-args.js:40:14)
+42 verbose stack     at Array.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\bind-actor.js:15:8)
+42 verbose stack     at LOOP (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\chain.js:15:14)
+42 verbose stack     at chain (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\chain.js:20:5)
+42 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\install\validate-args.js:15:5
+42 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:52:35
+42 verbose stack     at Array.forEach (native)
+42 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:52:11
+42 verbose stack     at Array.forEach (native)
+42 verbose stack     at asyncMap (C:\Program Files\nodejs\node_modules\npm\node_modules\slide\lib\async-map.js:51:8)
+43 verbose cwd C:\Users\diego
+44 error Windows_NT 10.0.10586
+45 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "ninja-lib"
+46 error node v5.3.0
+47 error npm  v3.3.12
+48 error code ENOSELF
+49 error Refusing to install ninja-lib as a dependency of itself
+50 error If you need help, you may report this error at:
+50 error     <https://github.com/npm/npm/issues>
+51 verbose exit [ 1, true ]

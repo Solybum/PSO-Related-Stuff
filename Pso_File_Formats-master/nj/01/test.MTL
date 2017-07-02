@@ -1,0 +1,27 @@
+newmtl saber.mirror-0
+Kd 1.0 0.0 0.0
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+d 0.0
+
+newmtl saber.mirror-1
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+d 1.0
+map_Kd saber.mirror-3.PNG
+
+newmtl saber.mirror-2
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd saber.mirror-2.PNG
+
+newmtl saber.mirror-3
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd saber.mirror-1.PNG
+

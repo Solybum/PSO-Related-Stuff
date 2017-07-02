@@ -1,0 +1,280 @@
+Verbose Output Enabled.
+Loading : C:\Users\Benjamin\Documents\Pso_File_Formats\nj\01\models\ItemModel_028.nj
+Reading Model @ 0x0000005C
+Node @ 0x00000064
+          Flags     Translate    : Y Rotate       : N Scale        : N
+                    Draw         : Y Trace        : Y LWO Eval.    : N
+                    Shape Skip   : N Motion Skip  : N Omit Push/Pop: N
+     Model Information @ 0x000001AC
+     0x00000110 NJ_VERT - Vertex Data, Flags = 0x00
+          Format = 0x29 , Start of Block = 0 , Flags = 0x00
+                    Vertex 0 = (-0.305892 0.146829 -5.705972)
+                    Vertex 1 = (0.000000 -0.293656 -5.705974)
+                    Vertex 2 = (0.305892 0.146829 -5.705968)
+                    Vertex 3 = (-0.305891 0.146828 2.212489)
+                    Vertex 4 = (0.000002 -0.293656 2.212488)
+                    Vertex 5 = (0.305894 0.146828 2.212492)
+     0x000001A8 NJ_END  - End of Chunk
+     0x00000098 NJ_MAT1 - 1st Texture Unit Material Definition
+     0x000000A8 NJ_TEX1 - Assign GBIX (0x00000000) To 1st Texture Unit
+     0x000000AC NJ_POLY - Triangle Strip Data
+          0x000000B0 Triangle Strips, Format 0x41, Number of Strips = 3, Group = 1
+                     User Flags Present = 0
+               Strip 1, 1 Triangles.
+               1 2 5 
+               Strip 2, 1 Triangles.
+               3 0 4 
+               Strip 3, 6 Triangles.
+               4 1 0 2 3 5 4 1 
+     0x0000010C NJ_END  - End of Chunk
+     Child Node = 0x000001C4
+     No Sibling Node.
+Node @ 0x000001C4
+          Flags     Translate    : Y Rotate       : Y Scale        : N
+                    Draw         : Y Trace        : Y LWO Eval.    : N
+                    Shape Skip   : N Motion Skip  : N Omit Push/Pop: N
+     Model Information @ 0x00000588
+     0x0000036C NJ_VERT - Vertex Data, Flags = 0x00
+          Format = 0x29 , Start of Block = 0 , Flags = 0x00
+                    Vertex 0 = (-0.662566 0.478270 10.112870)
+                    Vertex 1 = (-0.662566 -0.671274 10.112870)
+                    Vertex 2 = (-0.000007 -0.357084 9.357071)
+                    Vertex 3 = (0.662549 0.478270 10.112870)
+                    Vertex 4 = (0.662549 -0.671274 10.112870)
+                    Vertex 5 = (0.258993 0.178540 9.357069)
+                    Vertex 6 = (-0.259007 0.178540 9.357071)
+                    Vertex 7 = (0.310529 0.069598 10.943580)
+                    Vertex 8 = (0.310529 -0.138805 10.943580)
+                    Vertex 9 = (-0.310556 -0.138805 10.943580)
+                    Vertex 10 = (-0.310556 0.069598 10.943580)
+                    Vertex 11 = (0.720709 -0.507452 11.827380)
+                    Vertex 12 = (0.720709 0.406761 11.827740)
+                    Vertex 13 = (-0.720736 -0.507452 11.827380)
+                    Vertex 14 = (-0.720736 0.406761 11.827740)
+                    Vertex 15 = (0.320730 -0.346811 13.456070)
+                    Vertex 16 = (0.320730 0.238418 13.456350)
+                    Vertex 17 = (-0.320762 -0.346811 13.456070)
+                    Vertex 18 = (-0.320762 0.238418 13.456350)
+                    Vertex 19 = (-0.000004 -0.357084 7.810267)
+                    Vertex 20 = (-0.259004 0.178541 7.810267)
+                    Vertex 21 = (0.258996 0.178541 7.810267)
+     0x00000584 NJ_END  - End of Chunk
+     0x000001F8 NJ_MAT1 - 1st Texture Unit Material Definition
+     0x00000208 NJ_TEX1 - Assign GBIX (0x00000000) To 1st Texture Unit
+     0x0000020C NJ_POLY - Triangle Strip Data
+          0x00000210 Triangle Strips, Format 0x41, Number of Strips = 8, Group = 2
+                     User Flags Present = 0
+               Strip 1, 8 Triangles.
+               18 17 14 13 10 9 0 1 6 2 
+               Strip 2, 7 Triangles.
+               15 17 11 13 8 9 4 1 2 
+               Strip 3, 1 Triangles.
+               21 5 19 
+               Strip 4, 1 Triangles.
+               2 6 20 
+               Strip 5, 1 Triangles.
+               4 2 5 
+               Strip 6, 8 Triangles.
+               7 3 0 5 6 21 20 19 2 5 
+               Strip 7, 5 Triangles.
+               0 7 10 12 14 16 18 
+               Strip 8, 7 Triangles.
+               15 16 11 12 8 7 4 3 5 
+     0x00000368 NJ_END  - End of Chunk
+     Child Node = 0x000005A0
+     No Sibling Node.
+Node @ 0x000005A0
+          Flags     Translate    : Y Rotate       : Y Scale        : N
+                    Draw         : Y Trace        : Y LWO Eval.    : N
+                    Shape Skip   : N Motion Skip  : N Omit Push/Pop: N
+     Model Information @ 0x00000794
+     0x00000680 NJ_VERT - Vertex Data, Flags = 0x00
+          Format = 0x29 , Start of Block = 0 , Flags = 0x00
+                    Vertex 0 = (3.607729 -0.038424 11.697580)
+                    Vertex 1 = (1.401621 -0.465947 10.952930)
+                    Vertex 2 = (0.842452 -0.038423 11.620690)
+                    Vertex 3 = (-0.009429 -0.038424 10.984250)
+                    Vertex 4 = (4.049798 -0.038423 13.317300)
+                    Vertex 5 = (1.399121 -0.038424 9.549463)
+                    Vertex 6 = (0.800686 -0.038424 10.446380)
+                    Vertex 7 = (1.401621 0.389099 10.952930)
+                    Vertex 8 = (2.884544 0.207432 11.808030)
+                    Vertex 9 = (1.934290 -0.038424 10.562470)
+                    Vertex 10 = (2.884544 -0.284279 11.808030)
+     0x00000790 NJ_END  - End of Chunk
+     0x000005D4 NJ_MAT1 - 1st Texture Unit Material Definition
+     0x000005E4 NJ_TEX1 - Assign GBIX (0x00000000) To 1st Texture Unit
+     0x000005E8 NJ_POLY - Triangle Strip Data
+          0x000005EC Triangle Strips, Format 0x41, Number of Strips = 4, Group = 3
+                     User Flags Present = 0
+               Strip 1, 9 Triangles.
+               2 7 3 6 1 5 9 7 0 8 4 
+               Strip 2, 1 Triangles.
+               1 2 3 
+               Strip 3, 1 Triangles.
+               7 5 6 
+               Strip 4, 3 Triangles.
+               9 1 0 10 4 
+     0x0000067C NJ_END  - End of Chunk
+     Child Node = 0x000007AC
+     Sibling Node = 0x00000934
+Node @ 0x000007AC
+          Flags     Translate    : N Rotate       : N Scale        : N
+                    Draw         : Y Trace        : N LWO Eval.    : N
+                    Shape Skip   : N Motion Skip  : N Omit Push/Pop: Y
+     Model Information @ 0x0000091C
+     0x00000868 NJ_VERT - Vertex Data, Flags = 0x00
+          Format = 0x29 , Start of Block = 0 , Flags = 0x00
+                    Vertex 0 = (1.401621 -0.465947 10.952930)
+                    Vertex 1 = (2.289598 -0.038423 12.095410)
+                    Vertex 2 = (0.842452 -0.038423 11.620690)
+                    Vertex 3 = (4.049798 -0.038423 13.317300)
+                    Vertex 4 = (1.401621 0.389099 10.952930)
+                    Vertex 5 = (2.884544 0.207432 11.808030)
+                    Vertex 6 = (2.884544 -0.284279 11.808030)
+     0x00000918 NJ_END  - End of Chunk
+     0x000007E0 NJ_MAT1 - 1st Texture Unit Material Definition
+     0x000007EC NJ_TEX1 - Assign GBIX (0x00000000) To 1st Texture Unit
+     0x000007F0 NJ_POLY - Triangle Strip Data
+          0x000007F4 Triangle Strips, Format 0x41, Number of Strips = 2, Group = 4
+                     User Flags Present = 0
+               Strip 1, 3 Triangles.
+               5 4 1 2 0 
+               Strip 2, 3 Triangles.
+               0 6 1 3 5 
+     0x00000838 NJ_MAT1 - 1st Texture Unit Material Definition
+     0x00000840 NJ_TEX1 - Assign GBIX (0x00000001) To 1st Texture Unit
+     0x00000844 NJ_POLY - Triangle Strip Data
+          0x00000848 Triangle Strips, Format 0x40, Number of Strips = 2, Group = 5
+                     User Flags Present = 0
+               Strip 1, 3 Triangles.
+               5 4 1 2 0 
+               Strip 2, 3 Triangles.
+               0 6 1 3 5 
+     0x00000864 NJ_END  - End of Chunk
+     No Child Node.
+     No Sibling Node.
+Node @ 0x00000934
+          Flags     Translate    : N Rotate       : N Scale        : N
+                    Draw         : Y Trace        : N LWO Eval.    : N
+                    Shape Skip   : N Motion Skip  : N Omit Push/Pop: Y
+     Model Information @ 0x00000B64
+     0x00000A20 NJ_VERT - Vertex Data, Flags = 0x00
+          Format = 0x29 , Start of Block = 0 , Flags = 0x00
+                    Vertex 0 = (-0.175798 0.058091 0.709021)
+                    Vertex 1 = (0.000002 -0.195061 0.709020)
+                    Vertex 2 = (0.175802 0.058091 0.709024)
+                    Vertex 3 = (-0.000006 -0.195061 8.463860)
+                    Vertex 4 = (-0.175806 0.058091 8.463860)
+                    Vertex 5 = (0.175795 0.058091 8.463860)
+                    Vertex 6 = (-0.360405 0.260429 13.335230)
+                    Vertex 7 = (-0.000012 -0.064936 15.670980)
+                    Vertex 8 = (-0.002536 0.369981 12.604840)
+                    Vertex 9 = (-0.002536 -0.480581 12.604840)
+                    Vertex 10 = (0.360372 -0.387926 13.335230)
+                    Vertex 11 = (0.360372 0.260429 13.335230)
+                    Vertex 12 = (-0.360405 -0.387926 13.335230)
+     0x00000B60 NJ_END  - End of Chunk
+     0x00000968 NJ_MAT1 - 1st Texture Unit Material Definition
+     0x00000974 NJ_TEX1 - Assign GBIX (0x00000000) To 1st Texture Unit
+     0x00000978 NJ_POLY - Triangle Strip Data
+          0x0000097C Triangle Strips, Format 0x41, Number of Strips = 3, Group = 6
+                     User Flags Present = 0
+               Strip 1, 6 Triangles.
+               2 5 1 3 0 4 2 5 
+               Strip 2, 1 Triangles.
+               10 11 7 
+               Strip 3, 1 Triangles.
+               6 12 7 
+     0x000009D8 NJ_MAT1 - 1st Texture Unit Material Definition
+     0x000009E0 NJ_POLY - Triangle Strip Data
+          0x000009E4 Triangle Strips, Format 0x41, Number of Strips = 2, Group = 7
+                     User Flags Present = 0
+               Strip 1, 2 Triangles.
+               9 10 12 7 
+               Strip 2, 2 Triangles.
+               7 11 6 8 
+     0x00000A1C NJ_END  - End of Chunk
+     No Child Node.
+     Sibling Node = 0x00000B7C
+Node @ 0x00000B7C
+          Flags     Translate    : Y Rotate       : Y Scale        : N
+                    Draw         : Y Trace        : Y LWO Eval.    : N
+                    Shape Skip   : N Motion Skip  : N Omit Push/Pop: N
+     Model Information @ 0x00000D70
+     0x00000C5C NJ_VERT - Vertex Data, Flags = 0x00
+          Format = 0x29 , Start of Block = 0 , Flags = 0x00
+                    Vertex 0 = (-3.607722 -0.038424 11.697580)
+                    Vertex 1 = (-1.401614 -0.465947 10.952930)
+                    Vertex 2 = (-0.842445 -0.038423 11.620690)
+                    Vertex 3 = (0.009435 -0.038424 10.984250)
+                    Vertex 4 = (-4.049792 -0.038423 13.317300)
+                    Vertex 5 = (-1.399114 -0.038424 9.549461)
+                    Vertex 6 = (-0.800679 -0.038424 10.446380)
+                    Vertex 7 = (-1.401614 0.389099 10.952930)
+                    Vertex 8 = (-2.884537 0.207432 11.808030)
+                    Vertex 9 = (-1.934283 -0.038423 10.562470)
+                    Vertex 10 = (-2.884537 -0.284278 11.808030)
+     0x00000D6C NJ_END  - End of Chunk
+     0x00000BB0 NJ_MAT1 - 1st Texture Unit Material Definition
+     0x00000BC0 NJ_TEX1 - Assign GBIX (0x00000000) To 1st Texture Unit
+     0x00000BC4 NJ_POLY - Triangle Strip Data
+          0x00000BC8 Triangle Strips, Format 0x41, Number of Strips = 4, Group = 8
+                     User Flags Present = 0
+               Strip 1, 9 Triangles.
+               2 7 3 6 1 5 9 7 0 8 4 
+               Strip 2, 1 Triangles.
+               3 2 1 
+               Strip 3, 1 Triangles.
+               6 5 7 
+               Strip 4, 3 Triangles.
+               4 10 0 1 9 
+     0x00000C58 NJ_END  - End of Chunk
+     Child Node = 0x00000D88
+     No Sibling Node.
+Node @ 0x00000D88
+          Flags     Translate    : N Rotate       : N Scale        : N
+                    Draw         : Y Trace        : N LWO Eval.    : N
+                    Shape Skip   : N Motion Skip  : N Omit Push/Pop: Y
+     Model Information @ 0x00000EF8
+     0x00000E44 NJ_VERT - Vertex Data, Flags = 0x00
+          Format = 0x29 , Start of Block = 0 , Flags = 0x00
+                    Vertex 0 = (-1.401613 -0.465947 10.952930)
+                    Vertex 1 = (-2.289589 -0.038423 12.095410)
+                    Vertex 2 = (-0.842444 -0.038423 11.620690)
+                    Vertex 3 = (-4.049790 -0.038423 13.317300)
+                    Vertex 4 = (-1.401613 0.389099 10.952930)
+                    Vertex 5 = (-2.884536 0.207432 11.808030)
+                    Vertex 6 = (-2.884536 -0.284278 11.808030)
+     0x00000EF4 NJ_END  - End of Chunk
+     0x00000DBC NJ_MAT1 - 1st Texture Unit Material Definition
+     0x00000DC8 NJ_TEX1 - Assign GBIX (0x00000000) To 1st Texture Unit
+     0x00000DCC NJ_POLY - Triangle Strip Data
+          0x00000DD0 Triangle Strips, Format 0x41, Number of Strips = 2, Group = 9
+                     User Flags Present = 0
+               Strip 1, 3 Triangles.
+               4 5 1 3 6 
+               Strip 2, 3 Triangles.
+               6 0 1 2 4 
+     0x00000E14 NJ_MAT1 - 1st Texture Unit Material Definition
+     0x00000E1C NJ_TEX1 - Assign GBIX (0x00000001) To 1st Texture Unit
+     0x00000E20 NJ_POLY - Triangle Strip Data
+          0x00000E24 Triangle Strips, Format 0x40, Number of Strips = 2, Group = 10
+                     User Flags Present = 0
+               Strip 1, 3 Triangles.
+               4 5 1 3 6 
+               Strip 2, 3 Triangles.
+               6 0 1 2 4 
+     0x00000E40 NJ_END  - End of Chunk
+     No Child Node.
+     No Sibling Node.
+Writing C:\Users\Benjamin\Documents\Pso_File_Formats\nj\pwand.obj
+Preparing to Write:
+Faces = 110
+Vertices = 77 (330)
+Tex Coords = 61
+Normals = 77
+Triangles = 110
+Writing C:\Users\Benjamin\Documents\Pso_File_Formats\nj\pwand.obj....
+....Done.
+1 Model Written.

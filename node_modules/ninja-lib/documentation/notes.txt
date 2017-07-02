@@ -1,0 +1,31 @@
+File types:
+[ '.prs', //title logo, text
+  '.rel', //map models
+  '.bml', //enemy, boss, environment
+  '.lng',
+  '.dat',
+  '.pvm', //textures
+  '.pvp', //pvr pallet
+  '.bin',
+  '.gsl',
+  '.afs', //textures and models
+  '.dll', 
+  '.mpg', 
+  '.nj', //player models and sky boxes
+  '.cpt',
+  '.pr2', //player animations
+  '.pr3',
+  '.tam',
+  '.tas',
+  '.evt',
+  '.wav',
+  '.scc',
+  '.sgt' ]
+  
+if(ext == ".nj" && filename.indexOf("map") === -1){
+  //player models
+}
+
+if(ext == ".rel" && array[i].indexOf("n.rel") !== -1){
+  //map models
+}

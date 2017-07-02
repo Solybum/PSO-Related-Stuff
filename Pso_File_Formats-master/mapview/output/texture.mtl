@@ -1,0 +1,828 @@
+newmtl mat1
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 25.dds
+newmtl mat2
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 25.dds
+newmtl mat3
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 15.dds
+newmtl mat4
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 29.dds
+newmtl mat5
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 3.dds
+newmtl mat6
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 40.dds
+newmtl mat7
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 25.dds
+newmtl mat8
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 25.dds
+newmtl mat9
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 39.dds
+newmtl mat10
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 28.dds
+newmtl mat11
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 24.dds
+newmtl mat12
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 28.dds
+newmtl mat13
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 28.dds
+newmtl mat14
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 16.dds
+newmtl mat15
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 51.dds
+newmtl mat16
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 23.dds
+newmtl mat17
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 40.dds
+newmtl mat18
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 16.dds
+newmtl mat19
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 19.dds
+newmtl mat20
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 46.dds
+newmtl mat21
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 48.dds
+newmtl mat22
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 43.dds
+newmtl mat23
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 20.dds
+newmtl mat24
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 21.dds
+newmtl mat25
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 39.dds
+newmtl mat26
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 41.dds
+newmtl mat27
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 23.dds
+newmtl mat28
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 18.dds
+newmtl mat29
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 52.dds
+newmtl mat30
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 20.dds
+newmtl mat31
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 16.dds
+newmtl mat32
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 51.dds
+newmtl mat33
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 23.dds
+newmtl mat34
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 40.dds
+newmtl mat35
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 16.dds
+newmtl mat36
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 19.dds
+newmtl mat37
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 46.dds
+newmtl mat38
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 48.dds
+newmtl mat39
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 43.dds
+newmtl mat40
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 20.dds
+newmtl mat41
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 21.dds
+newmtl mat42
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 39.dds
+newmtl mat43
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 41.dds
+newmtl mat44
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 23.dds
+newmtl mat45
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 18.dds
+newmtl mat46
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 52.dds
+newmtl mat47
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 20.dds
+newmtl mat48
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 15.dds
+newmtl mat49
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 29.dds
+newmtl mat50
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 25.dds
+newmtl mat51
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 38.dds
+newmtl mat52
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 16.dds
+newmtl mat53
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 28.dds
+newmtl mat54
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 17.dds
+newmtl mat55
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 25.dds
+newmtl mat56
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 40.dds
+newmtl mat57
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 11.dds
+newmtl mat58
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 12.dds
+newmtl mat59
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 13.dds
+newmtl mat60
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 40.dds
+newmtl mat61
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 40.dds
+newmtl mat62
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 40.dds
+newmtl mat63
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 58.dds
+newmtl mat64
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 57.dds
+newmtl mat65
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 57.dds
+newmtl mat66
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 58.dds
+newmtl mat67
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 61.dds
+newmtl mat68
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 59.dds
+newmtl mat69
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 60.dds
+newmtl mat70
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 4.dds
+newmtl mat71
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 26.dds
+newmtl mat72
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 26.dds
+newmtl mat73
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 31.dds
+newmtl mat74
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 45.dds
+newmtl mat75
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 40.dds
+newmtl mat76
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 49.dds
+newmtl mat77
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 51.dds
+newmtl mat78
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 15.dds
+newmtl mat79
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 20.dds
+newmtl mat80
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 2.dds
+newmtl mat81
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 2.dds
+newmtl mat82
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 2.dds
+newmtl mat83
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 2.dds
+newmtl mat84
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 21.dds
+newmtl mat85
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 0.dds
+newmtl mat86
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 8.dds
+newmtl mat87
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 7.dds
+newmtl mat88
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 36.dds
+newmtl mat89
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 42.dds
+newmtl mat90
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 42.dds
+newmtl mat91
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 41.dds
+newmtl mat92
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 41.dds
+newmtl mat93
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 44.dds
+newmtl mat94
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 44.dds
+newmtl mat95
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 6.dds
+newmtl mat96
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 45.dds
+newmtl mat97
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 6.dds
+newmtl mat98
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 24.dds
+newmtl mat99
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 24.dds
+newmtl mat100
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 14.dds
+newmtl mat101
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 35.dds
+newmtl mat102
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 30.dds
+newmtl mat103
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 8.dds
+newmtl mat104
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 37.dds
+newmtl mat105
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 38.dds
+newmtl mat106
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 39.dds
+newmtl mat107
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 24.dds
+newmtl mat108
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 14.dds
+newmtl mat109
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 35.dds
+newmtl mat110
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 30.dds
+newmtl mat111
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 8.dds
+newmtl mat112
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 37.dds
+newmtl mat113
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 38.dds
+newmtl mat114
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 39.dds
+newmtl mat115
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 11.dds
+newmtl mat116
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 11.dds
+newmtl mat117
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 5.dds
+newmtl mat118
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 52.dds
+newmtl mat119
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 52.dds
+newmtl mat120
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 0.dds
+newmtl mat121
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 34.dds
+newmtl mat122
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 4.dds
+newmtl mat123
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 40.dds
+newmtl mat124
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 29.dds
+newmtl mat125
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 29.dds
+newmtl mat126
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 29.dds
+newmtl mat127
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 29.dds
+newmtl mat128
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 1.dds
+newmtl mat129
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 15.dds
+newmtl mat130
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 45.dds
+newmtl mat131
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 35.dds
+newmtl mat132
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 30.dds
+newmtl mat133
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 20.dds
+newmtl mat134
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 55.dds
+newmtl mat135
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 10.dds
+newmtl mat136
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 9.dds
+newmtl mat137
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 10.dds
+newmtl mat138
+illum 4
+Ld 0.5 0.5 0.5
+Ka 0.0 0.0 0.0
+Tf 0.3 0.3 0.3
+map_Kd img/Image 9.dds

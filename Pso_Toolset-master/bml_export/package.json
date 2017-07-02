@@ -1,0 +1,26 @@
+{
+  "name": "bml_export",
+  "version": "0.0.12",
+  "description": "Command line utility for extracting bml files",
+  "main": "bml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seiche/Pso_Toolset.git"
+  },
+  "keywords": [
+    "bml",
+    "prs"
+  ],
+  "dependencies" : {
+    "filepointer" : "0.0.32"
+  },
+  "author": "Benjamin Collins <seichestream@gmail.com>",
+  "license": "GPL-2.0",
+  "bin" : {
+    "bml_export" : "./bml.js"
+  },
+  "homepage": "https://github.com/seiche/Pso_Toolset/"
+}

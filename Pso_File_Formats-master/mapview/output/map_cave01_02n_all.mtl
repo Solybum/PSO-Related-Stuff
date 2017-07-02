@@ -1,0 +1,7515 @@
+newmtl mat1
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat2
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat3
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat4
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat5
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat6
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat7
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat8
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat9
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat10
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat11
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat12
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat13
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat14
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat15
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat16
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat17
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat18
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat19
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat20
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat21
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat22
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat23
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat24
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat25
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat26
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat27
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat28
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat29
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat30
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat31
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat32
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat33
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat34
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat35
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat36
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat37
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat38
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat39
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat40
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat41
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat42
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat43
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat44
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat45
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat46
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat47
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat48
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat49
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat50
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat51
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat52
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat53
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat54
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat55
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat56
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat57
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat58
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat59
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat60
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat61
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat62
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat63
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat64
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat65
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat66
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat67
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat68
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat69
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat70
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat71
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat72
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat73
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat74
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat75
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat76
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat77
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat78
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat79
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat80
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat81
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat82
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat83
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat84
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat85
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat86
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat87
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat88
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat89
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat90
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat91
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat92
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat93
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat94
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat95
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat96
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat97
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat98
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat99
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat100
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat101
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat102
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat103
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat104
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat105
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat106
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat107
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat108
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat109
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat110
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat111
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat112
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat113
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat114
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat115
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat116
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat117
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat118
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat119
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat120
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat121
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat122
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat123
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat124
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat125
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat126
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat127
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat128
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat129
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat130
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat131
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat132
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat133
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat134
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat135
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat136
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat137
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat138
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat139
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat140
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat141
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat142
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat143
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat144
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat145
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat146
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat147
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat148
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat149
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat150
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat151
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat152
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat153
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat154
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat155
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat156
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat157
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat158
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat159
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat160
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat161
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat162
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat163
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat164
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat165
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat166
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat167
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat168
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat169
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat170
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat171
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat172
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat173
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat174
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat175
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat176
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat177
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat178
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat179
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat180
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat181
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat182
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat183
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat184
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat185
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat186
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat187
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat188
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat189
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat190
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat191
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat192
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat193
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat194
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat195
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat196
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat197
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat198
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat199
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat200
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat201
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat202
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat203
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat204
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat205
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat206
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat207
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat208
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat209
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat210
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat211
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat212
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat213
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat214
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat215
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat216
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat217
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat218
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat219
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat220
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat221
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat222
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat223
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat224
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat225
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat226
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 87.dds
+
+newmtl mat227
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat228
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 0.dds
+
+newmtl mat229
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 82.dds
+
+newmtl mat230
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 0.dds
+
+newmtl mat231
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat232
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat233
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat234
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat235
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat236
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat237
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat238
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat239
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat240
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat241
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat242
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 2.dds
+
+newmtl mat243
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 0.dds
+
+newmtl mat244
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat245
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat246
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat247
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat248
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat249
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat250
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat251
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat252
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat253
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat254
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat255
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat256
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat257
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat258
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat259
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat260
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat261
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat262
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat263
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat264
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat265
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat266
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat267
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat268
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat269
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat270
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat271
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat272
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat273
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat274
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat275
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat276
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat277
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat278
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat279
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat280
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat281
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat282
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat283
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat284
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat285
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat286
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat287
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat288
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat289
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat290
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat291
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat292
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat293
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat294
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat295
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat296
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat297
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat298
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat299
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat300
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat301
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat302
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat303
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat304
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat305
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat306
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat307
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat308
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat309
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat310
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat311
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat312
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat313
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat314
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat315
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat316
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat317
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat318
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat319
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat320
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat321
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat322
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat323
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat324
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat325
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat326
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat327
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat328
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat329
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat330
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat331
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat332
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat333
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat334
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat335
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat336
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat337
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat338
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat339
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat340
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat341
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat342
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat343
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat344
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat345
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat346
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat347
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat348
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat349
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat350
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat351
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat352
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat353
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat354
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat355
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat356
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat357
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat358
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat359
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat360
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat361
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat362
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat363
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat364
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat365
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat366
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat367
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat368
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat369
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat370
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat371
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat372
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat373
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat374
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat375
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat376
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat377
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat378
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat379
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat380
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat381
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat382
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat383
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat384
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat385
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat386
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat387
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat388
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat389
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat390
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat391
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat392
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat393
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat394
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat395
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat396
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat397
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat398
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat399
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat400
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat401
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat402
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat403
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat404
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat405
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat406
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat407
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat408
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat409
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat410
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat411
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat412
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat413
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat414
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat415
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat416
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat417
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat418
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat419
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat420
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat421
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat422
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat423
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat424
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat425
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat426
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat427
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat428
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat429
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat430
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat431
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat432
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat433
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat434
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat435
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat436
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat437
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat438
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat439
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat440
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat441
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat442
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat443
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat444
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat445
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat446
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat447
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat448
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat449
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat450
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat451
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 77.dds
+
+newmtl mat452
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat453
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat454
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat455
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 84.dds
+
+newmtl mat456
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat457
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 85.dds
+
+newmtl mat458
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 74.dds
+
+newmtl mat459
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 84.dds
+
+newmtl mat460
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat461
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 85.dds
+
+newmtl mat462
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 74.dds
+
+newmtl mat463
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 84.dds
+
+newmtl mat464
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat465
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 85.dds
+
+newmtl mat466
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 74.dds
+
+newmtl mat467
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat468
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat469
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat470
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat471
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat472
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat473
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat474
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat475
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat476
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat477
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat478
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat479
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat480
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat481
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat482
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat483
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat484
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat485
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat486
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat487
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat488
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 77.dds
+
+newmtl mat489
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 77.dds
+
+newmtl mat490
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat491
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat492
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat493
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 84.dds
+
+newmtl mat494
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat495
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 85.dds
+
+newmtl mat496
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 74.dds
+
+newmtl mat497
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 84.dds
+
+newmtl mat498
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat499
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 85.dds
+
+newmtl mat500
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 74.dds
+
+newmtl mat501
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 84.dds
+
+newmtl mat502
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat503
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 85.dds
+
+newmtl mat504
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 74.dds
+
+newmtl mat505
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat506
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat507
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat508
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat509
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat510
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat511
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat512
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat513
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat514
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat515
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat516
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat517
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat518
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat519
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat520
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat521
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat522
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat523
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat524
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat525
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat526
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 77.dds
+
+newmtl mat527
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 77.dds
+
+newmtl mat528
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 86.dds
+
+newmtl mat529
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 42.dds
+
+newmtl mat530
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat531
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 84.dds
+
+newmtl mat532
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat533
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 85.dds
+
+newmtl mat534
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 74.dds
+
+newmtl mat535
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 84.dds
+
+newmtl mat536
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat537
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 85.dds
+
+newmtl mat538
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 74.dds
+
+newmtl mat539
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 84.dds
+
+newmtl mat540
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat541
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 85.dds
+
+newmtl mat542
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 74.dds
+
+newmtl mat543
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat544
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat545
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat546
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat547
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat548
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat549
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat550
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat551
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat552
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat553
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat554
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat555
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat556
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat557
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat558
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat559
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat560
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat561
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat562
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat563
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 90.dds
+
+newmtl mat564
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 77.dds
+
+newmtl mat565
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 77.dds
+
+newmtl mat566
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat567
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat568
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat569
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat570
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat571
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat572
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat573
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat574
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat575
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat576
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat577
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat578
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat579
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat580
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat581
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 72.dds
+
+newmtl mat582
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 91.dds
+
+newmtl mat583
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 91.dds
+
+newmtl mat584
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 91.dds
+
+newmtl mat585
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 91.dds
+
+newmtl mat586
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 11.dds
+
+newmtl mat587
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 11.dds
+
+newmtl mat588
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 11.dds
+
+newmtl mat589
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 11.dds
+
+newmtl mat590
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat591
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat592
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat593
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat594
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat595
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat596
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat597
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat598
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat599
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat600
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 78.dds
+
+newmtl mat601
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat602
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 3.dds
+
+newmtl mat603
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 3.dds
+
+newmtl mat604
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 3.dds
+
+newmtl mat605
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 3.dds
+
+newmtl mat606
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 3.dds
+
+newmtl mat607
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 3.dds
+
+newmtl mat608
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat609
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat610
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 76.dds
+
+newmtl mat611
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 78.dds
+
+newmtl mat612
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat613
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 3.dds
+
+newmtl mat614
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 3.dds
+
+newmtl mat615
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 3.dds
+
+newmtl mat616
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 3.dds
+
+newmtl mat617
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 3.dds
+
+newmtl mat618
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 3.dds
+
+newmtl mat619
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat620
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat621
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 76.dds
+
+newmtl mat622
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 9.dds
+
+newmtl mat623
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 9.dds
+
+newmtl mat624
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 9.dds
+
+newmtl mat625
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 9.dds
+
+newmtl mat626
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 9.dds
+
+newmtl mat627
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 9.dds
+
+newmtl mat628
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 9.dds
+
+newmtl mat629
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 9.dds
+
+newmtl mat630
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 9.dds
+
+newmtl mat631
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 9.dds
+
+newmtl mat632
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 9.dds
+
+newmtl mat633
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 9.dds
+
+newmtl mat634
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat635
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat636
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat637
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat638
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat639
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat640
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat641
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat642
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat643
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat644
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat645
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat646
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 6.dds
+
+newmtl mat647
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat648
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat649
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat650
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat651
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat652
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 6.dds
+
+newmtl mat653
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat654
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat655
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat656
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat657
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat658
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 6.dds
+
+newmtl mat659
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat660
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat661
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat662
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat663
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat664
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 6.dds
+
+newmtl mat665
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat666
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat667
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat668
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat669
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat670
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat671
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat672
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 6.dds
+
+newmtl mat673
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat674
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat675
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat676
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat677
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 6.dds
+
+newmtl mat678
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat679
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat680
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat681
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat682
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 6.dds
+
+newmtl mat683
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat684
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat685
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat686
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat687
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 6.dds
+
+newmtl mat688
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat689
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat690
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat691
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 6.dds
+
+newmtl mat692
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 10.dds
+
+newmtl mat693
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat694
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 5.dds
+
+newmtl mat695
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 6.dds
+
+newmtl mat696
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat697
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat698
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat699
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat700
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat701
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat702
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat703
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat704
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat705
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat706
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat707
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat708
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat709
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat710
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat711
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat712
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat713
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat714
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat715
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat716
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat717
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat718
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat719
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat720
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat721
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat722
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat723
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat724
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat725
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat726
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat727
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat728
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat729
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 81.dds
+
+newmtl mat730
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat731
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 73.dds
+
+newmtl mat732
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat733
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 79.dds
+
+newmtl mat734
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 79.dds
+
+newmtl mat735
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat736
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat737
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat738
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat739
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat740
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat741
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat742
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat743
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat744
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat745
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat746
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat747
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat748
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat749
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat750
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat751
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat752
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat753
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat754
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat755
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat756
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat757
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 79.dds
+
+newmtl mat758
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 79.dds
+
+newmtl mat759
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat760
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat761
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat762
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat763
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat764
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat765
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat766
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat767
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat768
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat769
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat770
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat771
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat772
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat773
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat774
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat775
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat776
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat777
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat778
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat779
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat780
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat781
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 79.dds
+
+newmtl mat782
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 79.dds
+
+newmtl mat783
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat784
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat785
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat786
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat787
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat788
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat789
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat790
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat791
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat792
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat793
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat794
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat795
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat796
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat797
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat798
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat799
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat800
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat801
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat802
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat803
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat804
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 92.dds
+
+newmtl mat805
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 79.dds
+
+newmtl mat806
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 79.dds
+
+newmtl mat807
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat808
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat809
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat810
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat811
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat812
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat813
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat814
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat815
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat816
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat817
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat818
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat819
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat820
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat821
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat822
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat823
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 4.dds
+
+newmtl mat824
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat825
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 71.dds
+
+newmtl mat826
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 8.dds
+
+newmtl mat827
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 7.dds
+
+newmtl mat828
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat829
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 88.dds
+
+newmtl mat830
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat831
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 88.dds
+
+newmtl mat832
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat833
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 88.dds
+
+newmtl mat834
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 12.dds
+
+newmtl mat835
+NS 32
+d 1
+illum 2
+kd 0.4 0.4 0.4
+ks 0.7 0.7 0.7
+ka 0.3 0.3 0.3
+map_kd Image 88.dds
+

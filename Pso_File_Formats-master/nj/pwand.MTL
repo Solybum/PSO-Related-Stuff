@@ -1,0 +1,55 @@
+newmtl ItemModel_028-0
+Kd 1.0 0.0 0.0
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+d 0.0
+
+newmtl ItemModel_028-1
+Kd 0.7 0.7 0.7
+Ka 0.5 0.5 0.5
+Ks 1.0 1.0 1.0
+d 1.0
+map_Kd ItemModel_028-1.PNG
+
+newmtl ItemModel_028-2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+d 1.0
+map_Kd ItemModel_028-1.PNG
+
+newmtl ItemModel_028-3
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+d 1.0
+map_Kd ItemModel_028-1.PNG
+
+newmtl ItemModel_028-4
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd ItemModel_028-1.PNG
+
+newmtl ItemModel_028-5
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 0.6
+map_Kd ItemModel_028-2.PNG
+
+newmtl ItemModel_028-6
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd ItemModel_028-1.PNG
+
+newmtl ItemModel_028-7
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd ItemModel_028-1.PNG
+

@@ -1,0 +1,14 @@
+newmtl mat_1
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image_0.dds
+
+newmtl mat_2
+Kd 1.0 1.0 1.0
+Ka 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1.0
+map_Kd Image_1.dds
+
